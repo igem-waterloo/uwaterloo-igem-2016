@@ -3,6 +3,7 @@ var waterloo = angular.module('waterloo', []);
 
 // Define the `main` controller on the `waterloo` module
 waterloo.controller('main', function main($scope) {
+  $scope.host = "localhost:8000"
   $scope.things = [
     {
       name: 'Waterloo',
