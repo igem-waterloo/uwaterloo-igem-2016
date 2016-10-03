@@ -899,3 +899,6 @@ height: ;
     padding-top: 15px;
     color:indianred;
 }
+.protocol-page .wcontent-box{
+  width: 50vw;
+}

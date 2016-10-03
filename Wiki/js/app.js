@@ -16,5 +16,11 @@ waterloo.controller('main', function main($scope) {
       snippet: 'Let\'s figure them out'
     }
   ];
-});
+})
 
+.controller('protocols', function protocols($scope){
+  $scope.active = ''
+  $scope.testing = function(){
+    console.log('testing')
+  }
+})
