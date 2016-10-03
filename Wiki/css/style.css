@@ -209,6 +209,17 @@ figcaption.model-caption {
 }
 
 /*---Requirements Page----------------------------------------------------------------------------*/
+
+.requirements-text {
+  font-size: 18px;
+}
+
+.elaboration-text {
+  font-size: 14px;
+  color: #0E3A5A
+}
+
+/*Stuff left over from last year?*/
 #medals-container {
     margin: 0px;
 }
