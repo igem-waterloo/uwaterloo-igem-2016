@@ -835,7 +835,6 @@ height: ;
   height: auto;
   width: 75vw;
   
-  
 }
 .wcontent-title{
  background-color: #404855;
@@ -851,4 +850,41 @@ height: ;
   background-color: white;
   color: #141823;
   padding: 20px;
+}
+
+.wcontent-protocol{
+  margin: 7.5vh 5vw;
+  box-shadow: 3px 7px 5px #888888;
+  position:relative;
+  height: auto;
+  width: 30vw;
+  
+}
+.initial-bar{
+  background-color:rgba(27,24,24, 0.4);
+  box-shadow: 0px 2px 3px #2a2e2f;
+  line-height: 40px !important ;  
+}
+.navbar{
+  display: inline-block;
+}
+.navbar-nav > li > a{
+  color: white;
+  padding-top: 18px;
+  transition-duration: 0.1s;
+  transition-timing-function: linear;
+
+}
+.initial-bar .navbar-nav > li > a:hover{
+    background-color: rgba(0,0,0,0);
+    border-top-style: solid;
+    border-top-color: white;
+    padding-top: 15px;
+}
+.initial-bar .navbar-nav > li > a:focus {
+    background-color: rgba(0,0,0,0);
+    border-top-style: solid;
+    border-top-color: indianred;
+    padding-top: 15px;
+    color:indianred;
 }
