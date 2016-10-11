@@ -3,80 +3,143 @@
 
 # Imports
 
-# In[2]:
+# In[10]:
 
-# Import numpy
+# Imports
 import numpy as np
-
-# Import random
 import random
-
-# Import plotting library
+import math
 import matplotlib.pyplot as plt
+
+
+# Parameter values
+
+# In[27]:
+
+transmission_threshold = 20
+max_age = 25
+
+
+# Useful functions
+
+# In[53]:
+
+def remove_empty(x):
+    i = 0
+    while i < x.shape[0]:
+        if x[i][1] == 0:
+            x = np.delete(x, (i), axis=0)
+        else:
+            i += 1
+    return(x)
+
+
+# In[56]:
+
+amyloids = np.array([[1,0],[2,0],[3,5],[4,7],[6,0],[7,10],[8,0]])
+print(amyloids)
+print()
+print(remove_empty(amyloids))
 
 
 # Yeast cell class
 
-# In[6]:
+# In[3]:
 
 class Cell(object):
 
     # Class initialization
-    def __init__(self, cells, small_amyloids, large_amyloids, age = 1):
-        self.cells = cells                   # list of cells
-        self.small_amyloids = small_amyloids # count of small amyloids in each size class
-        self.large_amyloids = large_amyloids # list of amyloids too large to propagate
-        self.age = age                       # generation of cell
+    def __init__(self, cells, sup35, amyloids, age = 1):
+        self.cells = cells       # list of cells
+        self.sup35 = sup35       # amount of healthy sup35
+        self.amyloids = amyloids # list of amyloid sizes and number at that size
+        self.age = age           # generation of cell
     
     # When a cell buds, it creates two cells
     def bud(self):
+        # -- Determine what to pass to daughter
+        prob_passing = 0.4
+        # How much healthy sup35 to pass
+        daughter_sup35 = np.random.binomial(self.sup35,prob_passing)
+        # How many size classes there are
+        num_classes = self.amyloids.shape[2]
         # Create vector to hold how many amyloids transmit to the daughter
-        daughter_amyloids = np.zeros(len(self.small_amyloids))
+        daughter_amyloids = np.zeros(num_classes)
         # Randomly distribute small amyloids to the daughter cells
-        for i in range(len(self.small_amyloids)):
+        for i in range(len(self.amyloids)):
+            if self.p
             # Determine how many amyloids will pass to the daughter
-            prob_passing = 0.4
             num_amyloids = self.small_amyloids[i]
             daughter_amyloids[i] = np.random.binomial(num_amyloids,prob_passing)
+            break
+            
+        # -- Update both cells
         # Create daughter cell with above small amyloid distribution
-        self.cells.append(Cell(cells, np.random.binomial(self.sup35,prob_passing), daughter_amyloids, 1)) # changed age from [] to 1
+        self.cells.append(Cell(cells, np.random.binomial(self.sup35,prob_passing), daughter_amyloids, []))
         # Update mother cell
         self.small_amyloids -= daughter_amyloids
         self.age += 1
     
     # Approximate SSA for binding of amyloids, hsp104 corrections, and sup35 misfolding
-    #Assumptions: psi- sup35 concentration remains constant
-    #             hsp104 concentration remains constant
     def aggregation(self):
-        #NOTE: pretend that we have some constant concentrations, we can refine this later
-        sup35_con = 1000;
-        hsp104_con = 1000;
         # The number of amyloids at the start of the time step
         num_amyloids = np.sum(self.small_amyloids) + len(self.large_amyloids)
-        # Estimate the number of binding events that occur between cell divisions
-        generation_time = 2 # two hours between budding events
-        tau_sub = 10        # update molecule concentration 10 times between budding events
-        tau_time = generation_time/tau_sub # leap time
+        
+        # -- Constants
+        generation_time = 2. # two hours between budding events
         bind_rate = 0.001
+        
+        # -- Main loop
+        time = 0
         while time < generation_time:
+            
+            # -- Determine which molecules will react next
+            # Number of molecules available for reaction
+            num_amyloids = np.sum(self.small_amyloids) + len(self.large_amyloids)
+            # Select two molecules to react
+            mol = np.sort(random.sample(range(num_amyloids),2))
+            
+            # -- Determine when the reaction will occur
             # Propensity for a reaction to occur
             prop_bind = bind_rate * num_amyloids*(num_amyloids-1)
-            # Time between events
+            # Time between events (assumed to be Poisson distributed)
+            r = random.random() # random number in [0,1)
+            tau = -math.log(r)/prop_bind
             
-            # Appearance of random psi+ sup35 monomers
-            self.small_amyloids[0] += np.random.binomial(self.sup35, 5.8e-7) #from Lancaster et al, 2009
-            # Binding of monomers and amyloids to amyloids
+            # -- Simulation of reaction
+            # Index of first molecule
+            size = 1
+            if mol[1] < np.sum(self.small_amyloids):
+                size = 1
+                while mol[1] > np.sum(self.small_amyloids[0:size]):
+                    size += 1
+                ind = size-1
+            else:
+                
             
-            # Binding of psi- sup35 to amyloids
             
-            # Trimming of the amyloids by hsp104
+            
 
-            # Breakage of amyloids?
-            
-            
-            
-            
+
 # Function to cause all cells to bud
+
+# In[26]:
+
+bind_rate = 0.001
+num_amyloids = 100
+
+prop_bind = bind_rate * num_amyloids*(num_amyloids-1)
+r = random.random()
+tau = -math.log(r)/prop_bind
+print(tau)
+mol = np.sort(random.sample(range(num_amyloids),2))
+print(mol)
+
+vec = random.sample(range(100),5)
+ind = 1
+vec[0:ind]
+#np.sum(vec[0:ind])
+
 
 # In[8]:
 
@@ -84,56 +147,26 @@ def bud_event(cells):
     for cell in cells:
         cell.bud()
 
-def aggregation_event(cells):
-    for cell in cells:
-        cell.aggregation()
-        
-def cell_death(cell_num): #cell_num here is the index number of the cell in list of cells meant to die
-    del cells[cell_num]
-        
 
 # Parameter values
-
-# In[12]:
-
-transmission_threshold = 20
-initial_seeds = 10
-max_steps = 100
-num_cells = 100
-
 
 # Initial conditions
 
 # In[13]:
 
 # Create one cell
-#cells = []
-#init_small_amyloids = np.zeros(transmission_threshold)
-#init_small_amyloids[0] = 10 
-#cells.append(Cell(cells, init_small_amyloids, []))
+cells = []
+init_small_amyloids = np.zeros(transmission_threshold)
+init_small_amyloids[0] = 10
+cells.append(Cell(cells, init_small_amyloids, []))
 
-#Create 100 cells
-def create_cells ()
-    cells = []
-    i = 0
-    while (i < num_cells):
-        small_amyloids = np.zeros(transmission_threshold)
-        small_amyloids[0] = initial_seeds
-        cells.append(Cell(cells, init_small_amyloids, []))
-        i += 1
 
-# In[15]    
-
-# Main Model
-create_cells
-i = 0
-while (i < max_steps):
-    aggregation_event(cells)
-    bud_event(cells)
-    i += 1
+# Main
 
 # In[20]:
 
+# Test
+print(cells[0].age)
 
 
 # In[14]:
