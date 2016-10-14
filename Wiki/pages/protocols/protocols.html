@@ -28,6 +28,7 @@
 			</div>
 			<div class="wcontent">
 				<a href="" ng-click="active='inoculation'">Inoculating liquid cultures</a>
+				<a href="" ng-click="active='miniprep'">Inoculating liquid cultures</a>
 			</div> 
 		</div>
 		<div class="wcontent-protocol">
@@ -48,6 +49,7 @@
 		</div>
 	</div>
 	<div class="col-lg-8">
+		<div class="wcontent-box" id="inoculation" ng-show="active == 'miniprep'">
 		<div class="wcontent-box" id="inoculation" ng-show="active == 'inoculation'">
 			<div class="wcontent-title">
 				Inoculating Liquid Culture
