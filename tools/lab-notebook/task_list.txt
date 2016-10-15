@@ -1,0 +1,1471 @@
+Thu Sep 22, 2016																																
+Entry Time	C/S	Type	Prio.	Tasks	Sign Up 	Status	Comments																									
+9:00 AM	PAI		1	PCR amplify Gal1 with primers 25 & 26, from Gal1 stock using TaqMM	Adrian	Done																										
+9:00 AM	PAI		1	Make 2L LB-Agar, put in 200 ml bottles and autoclave	Patrick	Done																										
+9:00 AM	PAI		1	Run PCR products on gel	Adrian	Done	Didn't work																									
+9:00 AM	PAI		1	Clean PCR products		Cancelled																										
+Sun Sep 25, 2016																																
+Entry Time	C/S	Type	Prio.	Tasks	Sign Up 	Status	Comments																									
+9:00 AM	PAI		1	cPCR pXP Gal1 and pXP ADH1	Adrian	Done																										
+9:00 AM	PAI		1	Run products on gel	Adrian	Done																										
+Sat Sep 24, 2016																																
+Entry Time	C/S	Type	Prio.	Tasks	Sign Up 	Status	Comments																									
+9:00 AM	PAI		1	Transform Promoter Characterization Constructs from yesterday into E. coli	Adrian	Done																										
+9:00 AM	PAI		2	Make Amp plates	Adrian	Done																										
+9:00 AM	PAI		1	Plate Promoter Characterization Transformants	Adrian	Done																										
+Fri Sep 23, 2016																																
+Entry Time	C/S	Type	Prio.	Tasks	Sign Up 	Status	Comments																									
+9:00 AM	PAI		1	PCR Amplify ADH1 (Primers 25 &26), Gal1, Cup1 (Primers 5&6)	Adrian	Done																										
+9:00 AM	PAI		1	PCR clean up ADH1, Gal1, Cup1	Adrian	Done																										
+9:00 AM	PAl		1	Digest ADH1, Gal1, Cup1, pXP218	Adrian	Done																										
+9:00 AM	PAI		1	Column purify ADH1, Gal1, Cup1, pXP218 digests	Adrian	Done																										
+9:00 AM	PAI		1	Ligate ADH1, Gal1, Cup1, into pXP218	Adrian	Done																										
+Tue Sep 20, 2016																																
+Entry Time	C/S	Type	Prio.	Tasks	Sign Up 	Status	Comments																									
+9:00 AM	PAI		1	PCR amplify ADH1 with primers 25 & 26, Gal1 and Cup1 with primers 5 & 6	Adrian	Done																										
+9:00 AM	PAI		1	Run PCR products on gel	Adrian	Done																										
+9:00 AM	PAI		1	Clean PCR products	Adrian	Done 																										
+Mon Sep 19, 2016																																
+Entry Time	C/S	Type	Prio.	Tasks	Sign Up 	Status	Comments																									
+9:00 AM	PAI		1	Image Gel of ADH1, Gal1, Cup1 PCR products from yesterday	Natasha	Done																										
+9:00 AM	PAI		1	Colony PCR pXP218_ADH1 and pXP218_Gal1	Adrian	In progress																										
+9:00 AM	PAI		1	Inoculate all Yeast cultures for experiments tomorrow (Total 18 tubes) 	Alicia 	Done 																										
+Sun Sep 18, 2016																																
+Entry Time	C/S	Type	Prio.	Tasks	Sign Up 	Status	Comments																									
+9:00 AM	PAI		1	PCR Hsp NSC/SC1/SC2 using primers 21/22	Sam	Done																										
+9:00 AM	PAI		1	Run products on gel	Sam	Done																										
+9:00 AM	PAI		1	PCR cleanup products and nanodrop	Sam	Done	Nanodrop values were all 10-20ng so I threw them out. RIP PCR PRODUCTS 9.18.16																									
+9:00 AM	PAI		1	Plate yeast onto YPD	Sam	Done																										
+9:00 AM	 PAI		1	Transform E. coli with pXP218_ADH1, pXP218_Gal1 + controls	Adrian	Done																										
+9:00 AM	PAI		1	Make Amp plates	Adrian	Done																										
+9:00 AM	PAI		1	Plate transformed E. coli on Amp	Adrian	Done																										
+9:00 AM	PAI		1	PCR amplify Cup1, Gal1 and ADH1 with primers 25 & 26	Vincent	Done																										
+9:00 AM	PAI		1	Run products on gel	Vincent	Pending	Gel cannot be imaged, UV machine setting being funny (gel under TAE but throw it out if you hv to) 																									
+9:00 AM	PAI		1	PCR cleanup products and nanodrop	Vincent	Done																										
+Sat Sep 17, 2016																																
+Entry Time	C/S	Type	Prio.	Tasks	Sign Up 	Status	Comments																									
+9:00 AM	PAI		1	Digest 1000ng of CFP SC2 with ApaI and BamHI for 1 hour 	Sam	Done																										
+9:00 AM	PAI		2	Column purification of CFP_SC1, CFP_SC2 and nanodrop 	Sam	Done																										
+9:00 AM	PAI		1	Digest 2000ng of Hsp104 plasmid X3 with ApaI and BamHI for 1 hour	Sam	Done																										
+9:00 AM	PAI		2	Gel Extract 8.8kB fragment, then nanodrop. 	Sam	Done																										
+9:00 AM	PAI		3	Ligate CFP_SC1, SC2 into Hsp104. 6:1 ratio, 0.3uL ligase per reaction	Sam	Pending	Not enough ligase																									
+9:00 AM	PAI		1	Digest 1000ng of Cup1 (5&6 primers) with SphI and SalI for 1.5 hours at 37C	Sam	Done																										
+9:00 AM	PAI		2	Column purification of Cup then nanodrop 	Sam	Done																										
+9:00 AM	PAI		1	Digest 2000ng of pXP218 with SphI and SalI. Digest for 5h at 37C 	Sam	Done																										
+9:00 AM	PAI		2	Gel extract 6.2kB fragment after running on a gel with guanosine. There should be only 1 band 	Sam	Done																										
+9:00 AM	PAI		3	Ligate Cup1 and Gal1 into pXP218 and leave at RT for minimum 2h, 0.3uL ligase, 3:1 insert:vector ratio	Sam	Pending	Not enough ligase																									
+9:00 AM	PAI		1	Miniprep Cup1-Hsp 3,17,21,25,29 and elute in H2O for sequencing	Sam	Done																										
+9:00 AM	PAI		4	Clean lab benchtops	Sam	Done																										
+9:00 AM	PAI		4	Wash dishes	Sam	Done																										
+9:00 AM	PAI		1	Digest ADH1 Gal1																												
+9:00 AM	PAl		1	Digest ADH1 and Gal1	Adrian	Done																										
+9:00 AM	PAI		1	Column purify ADH1 Gal1 digests	Adrian	Done																										
+9:00 AM	PAI		1	Ligate ADH1 and Gal1 into pXP218 backbone	Adrian	Done																										
+Fri Sep 16, 2016																																
+Entry Time	C/S	Type	Prio.	Tasks	Sign Up 	Status	Comments																									
+9:00 AM	PAI		1	Run PCR products and digessted ADH1 and Gal1 from Sept 11 on a gel	Adrian	Done	Didn't work																									
+2:00 AM	PAI		1	PCR amplify ADH1 and Gal1 with primers 25 and 26	Adrian	Done																										
+9:00 AM	PAI		1	PCR clean up ADH1 and Gal1	Adrian	Pending																										
+9:00 AM	PAl		1	Digest ADH1 and Gal1	Adrian	Pending																										
+9:00 AM	PAI		1	Column purify ADH1 Gal1 digests	Adrian	Pending																										
+9:00 AM	PAI		1	PCR cup/gal with primers 5 and 6	Sam	Done																										
+9:00 AM	PAI		1	PCR SC2 with primers 11 and 12	Sam	Done																										
+9:00 AM	PAI		1	Run cup/gal/sc2 on gel to see if PCR worked	Natasha	Done	Gal did not work and Natasha's PCR had nothing on the gel (no primers) and the ladder was really messed up...																									
+9:00 AM	PAI		1	PCR clean up cup and SC2	Sam	Done																										
+Thurs Sep 15, 2016																																
+Entry Time	C/S	Type	Prio.	Tasks	Sign Up 	Status	Comments																									
+9:00 AM	PAl		1	PCR amplify ADH1 and Gal1 using primers 25 and 26	Adrian	Done																										
+9:00 AM	PAI		1	Run PCR products and digested ADH1 and Gal1 from Sept 11 on a gel	Adrian	Done																										
+9:00 AM	PAI		1	PCR clean up ADH1 and Gal1	Adrian	Pending	Need to re-run gel																									
+9:00 AM	PAl		1	Digest ADH1 and Gal1	Adrian	Pending																										
+9:00 AM	PAI		1	Column purify ADH1 Gal1 digests	Adrian	Pending																										
+9:00 AM	PAI		1	Make 2L LB broth	Adrian	Done 																										
+3:00 PM	PAI		1	Innoculate Cup_Hsp samples	Adrian	Done 																										
+9:00 AM	PAl		1	Make frozen stocks of pSB-Gal1 #2,5,6 and label appropriately in strain list. Use 2mL tubes 	Emma 	Done 																										
+9:00 AM	PAl		1	Innoculate Hsp104-SC1 x2 in Amp 	Emma 																											
+Wed Sep 14, 2016																																
+Entry Time	C/S	Type	Prio.	Tasks	Sign Up 	Status	Comments																									
+9:00 AM	PAl		1	Transform Sup35-GFP, HSP104-CFP NSC/SC1 into S. cerevisiae 	Alicia/Sam/Emma	Done																										
+9:00 AM	PAl		1	Co-transform Sup35-GFP/HSP104 NSC and Sup35-GFP/HSP104 SC! into S. cerevisiae 	Alicia/Sam/Emma	Done																										
+10:00 AM	PAI		1	Innoculate.....	Emma	Done	Tubes 2 (for minprep) and 3 (for sequencing) are in incubator for tomorrow																									
+9:00 AM	PAl		1	Miniprep 5mL of Hsp104-SC1 x2 and elute in elution buffer for transformation into yeast 	Natasha/Emma	Done																										
+9:00 AM	PAl		1	Miniprep 3mL of Hsp104-SC1 x1 and elute in water for sequencing 	Emma	Postponed																										
+9:00 AM	PAl		1	Make frozen stock of Hsp104-SC1 and label appropriately in the strain list 	Emma	Postponed																										
+9:00 AM	PAl		1	Miniprep pSB-Gal1 #2,5,6	Natasha/Emma	Done																										
+9:00 AM	PAl		1	Make frozen stocks of pSB-Gal1 #2,5,6 and label appropriately in strain list. Use 2mL tubes 	Emma	Postponed	Tubes are in incubator for tomorrow																									
+Tues Sep 13, 2016																																
+Entry Time	C/S	Type	Prio.	Tasks	Sign Up 	Status	Comments																									
+9:00 AM	PAl		1	Inoculate HSP-SC1, pSB-Gal1 x3 for frozen stocks and minprepping 	Vincent 	Done																										
+9:00 AM	PAl		1	Make 250mL of Wash buffer (10mM Tris pH 7.5, 75% ethanol) 	Alicia 	Done 																										
+9:00 AM	PAl		1	Make 1.2L of 35X TAE 	Alicia 	Done 																										
+9:00 AM	PAl		1	Rack p10, p200 tips and autoclave 	Alicia/Sam/Emma	Done 																										
+9:00 AM	PAl		1	Order everything in life 	Alicia 	Done																										
+9:00 AM	PAl		1	Prepare protocol and reagents for yeast transformation tomorrow 	Alicia 	Done 																										
+9:00 AM	PAl		1	cPCR Cup Hsp	Sam	Done 	houston we have a primer problem- all fixed																									
+9:00 AM	PAl		1	Run products on a 1% gel to check if the PCR worked	Sam	Done																										
+9:00 AM	PAl		1	Clean Lab and office b/c its a mess	Alicia/Emma	Done																										
+Mon Sep 12, 2016																																
+Entry Time	C/S	Type	Prio.	Tasks	Sign Up 	Status	Comments																									
+9:00 AM	Sam		1	Run PCR NSC/SC1/SC2 on a gel (samples from last friday)	Natasha	Done																										
+9:00 AM	Sam		1	PCR cleanup NSC/SC1/SC2	Sam	Done	Awks I can't nanodrop b/c there's no p10s																									
+9:00 AM	Sam		1	Run cPCR SC1 from yesterday on a gel again just to get some nicer bands	Natasha	Done																										
+9:00 AM	Sam		1	Transform Cup1 into HSP 	Sam	Done	Awks we don't have amp plates																									
+9:00 AM	Sam		1	Make 10 AMP plates	Sam	Done	Awks we don't have enough AMP to make plates																									
+9:00 AM	Sam		1	Innoculate Psi- in YPD (x3)	Sam	Done																										
+9:00 AM	Sam		1	Innoculate Hsp NSC1 in Amp LB (x3)	Sam	Done																										
+9:00 AM	Sam		1	Streakplate Psi- on YPD plate	Sam	Done																										
+9:00 AM	Sam		1	Streakplate Hsp NSC1 on Amp LB plate	Sam	Done																										
+Sun Sep 11, 2016																																
+Entry Time	C/S	Type	Prio.	Tasks	Sign Up 	Status	Comments																									
+12:00 PM	Adrian		1	PCR amplify ADH1 and Gal1 using primers 25 and 26	Adrian	Done																										
+12:00 PM	Adrian		1	Digest 6000 ng pXP218 backbone with BamHI and SalI	Adrian	Done																										
+12:00 PM	Adrian		1	Run diagnostic gel of ADH1 and Gal1	Adrian	Done																										
+12:00 PM	Adrian		1	PCR clean up/column purify ADH1, Gal1, and pXP digest	Adrian	Done																										
+12:00 PM	Adrian		1	Digest ADH1 and Gal1 with BamHI and Gal1	Adrian	Done																										
+12:00 PM	Adrian		1	Column purify ADH1 and Gal1	Adrian	Done																										
+12:00 PM	Adrian		1	Ligate ADH1 and Gal1 into pXP backbone	Adrian	Pending																										
+12:00 PM	Sam		1	Ligate Cup1 into Hsp104 backbone (6:1 ratio)	Sam	Done																										
+Fri Sep 9, 2016																																
+Entry Time	C/S	Type	Prio.	Tasks	Sign Up 	Status	Comments																									
+9:00 AM	PAl		1	Miniprep inoculated samples 	Sam	Done																										
+9:00 AM	PAl		1	Frozen stocks 	Alicia 	Done 																										
+9:00 AM	PAl		1	Prepare Gal sampels to sequence 	Sam	Done																										
+9:00 AM	PAl		1	Prepare Hsp104-NSC samples to sequence 	Sam	Done																										
+9:00 AM	PAl		1	Prepare sgRNa samples to sequence	Patrick 	Done 																										
+9:00 AM	PAl		1	Send order for sequencing 	Alicia 	Done 																										
+9:00 AM	PAl		2	PCR of CFP_NSC/SC1/SC2 with primers 21 and 22 	Natasha 	Done 																										
+9:00 AM	PAl		2	Digest 1000ng of Cup1 with ApaI and SacI for 1 hour at 37C	Sam	Done																										
+9:00 AM	PAl		2	Column purification of Cup1 and nanodrop 	Sam	Done																										
+9:00 AM	PAl		1	Digest 2000ng of Hsp104 with  ApaI and SacI for at 37C for 1 hour 	Sam	Done																										
+9:00 AM	PAl		2	Gel extract 6kB fragment, then nanodrop 	Sam	Done																										
+Thurs Sep 8, 2016				Happy first day of school!																												
+Entry Time	C/S	Type	Prio.	Tasks	Sign Up 	Status	Comments																									
+9:00 AM	PAl	■	1	PCR of CFP SC1/SC2 with primers 11 and 12 	Alicia	Done 																										
+9:00 AM	PAl	■	2	Run products on a 1% gel to see if the PCR worked 	Alicia	Done 																										
+9:00 AM	PAl	■	2	PCR cleanup of HSP SC1/SC2 and nanodrop 	Emma	Done 																										
+9:00 AM	PAl	■	2	Digest 1000ng of CFP SC1/SC2 with ApaI and BamHI for 1 hour 	Emma	Done 																										
+9:00 AM	PAl	■	2	Column purification of CFP_SC1, CFP_SC2 and nanodrop 	Emma	Done 																										
+9:00 AM	PAl	■	1	Digest 2000ng of Hsp104 plasmid X3 with ApaI for 2 hours, then BamHI for 30min.	Alicia	Done 																										
+9:00 AM	PAl	■	2	Gel Extract 8.8kB fragment, then nanodrop. 	Alicia	Done 																										
+9:00 AM	PAl	■	3	Ligate CFP_SC1, SC2 into Hsp104. 6:1 ratio, 0.3uL ligase per reaction	Alicia/Emma	Done 																										
+9:00 AM	PAl	■	1	PCR of CFP NSC/SC1/SC2 with primers 21 and 22 	Alicia	Done 																										
+9:00 AM	PAl	■	2	Run products on a 1% gel to see if the PCR worked 	Alicia	Done 																										
+9:00 AM	PAl	■	2	PCR cleanup of CFP NSC/SC1/SC2 and nanodrop 	Alicia	Done 																										
+9:00 AM	PAl	■	2	Digest 1000ng of CFP SC1/SC2 with EcoRI and PstI for 1 hour at 37C	Emma 	Done 																										
+9:00 AM	PAl	■	2	Column purification of CFP_NSC, CFP_SC1, CFP_SC2 and nanodrop 	Alicia	Done 																										
+9:00 AM	PAl	■	1	Digest 2000ng of pSB1C3 with EcoRI and PstI at 37C for 1 hour 	Alicia	Done 																										
+9:00 AM	PAl	■	2	Gel extract 2kB fragment, then nanodrop 	Emma	Done 																										
+9:00 AM	PAl	■	3	Ligate CFP NSC/SC1/SC2 into pSB1C3 using a 1:1 ratio, 0.3uL ligase per reaction	Alicia/Emma	Done 	I messed up lol 																									
+9:00 AM	PAl	■	2	Prepare pSB1C3-Gal1 samples for sequencing tomorrow 		Pending																										
+9:00 AM	PAl	■	1	Inoculate the 5 Hsp104-NSC that worked for miniprep and sequencing tomorrow	Adrian	Done																										
+9:00 AM	PAl		1	Inoculate cultures for transformation tomorrow into yeast 	Sam	Done																										
+9:00 AM	PAl	■	1	PCR of Cup1 primers 23 and 24	Sam	Done																										
+9:00 AM	PAl	■	2	Run products on a 1% gel to see if the PCR worked 	Sam	Done																										
+9:00 AM	PAl	■	2	PCR cleanup of Cup1 and nanodrop 	Sam	Done																										
+9:00 AM	PAl	■	2	Digest 1000ng of Cup1 with ApaI and SacI for 1 hour at 37C		Pending																										
+9:00 AM	PAl	■	2	Column purification of Cup1 and nanodrop 		Pending																										
+9:00 AM	PAl	■	1	Digest 2000ng of Hsp104 with  ApaI and SacI for at 37C for 1 hour 	Sam	Done																										
+9:00 AM	PAl	■	2	Gel extract 2kB fragment, then nanodrop 	Sam	Done																										
+9:00 AM	PAl	■	3	Ligate Cup1 with Hsp104 using a 5:1 ratio, 0.3uL ligase per reaction		Pending																										
+9:00 AM	PAl	■	1	PCR of Cup1 primers 5 and 6	Sam	Done																										
+9:00 AM	PAl	■	2	Run products on a 1% gel to see if the PCR worked 	Sam	Done																										
+9:00 AM	PAl	■	2	PCR cleanup of Cup1 and nanodrop 	Sam	Done																										
+Wed Sep 7, 2016																																
+Entry Time	C/S	Type	Prio.	Tasks	Sign Up 	Status	Comments																									
+9:00 AM	PAl	■	1	cPCR NSC/SC1/SC2-pSB Batch 5 (~8 colonies)	Sam	Done	No growth on SC1 but proceeding with NSC and SC2																									
+9:00 AM	PAl	■	2	Run products on a 1% gel to check if the PCR worked 	Sam	Done																										
+9:00 AM	PAl	■	4	Prepare sgRNA-Main sequencing protocol.	Patrick	Done	Going to set up samples on Thursday.																									
+Tue Sep 13, 2016				Sam's in the house! Come say hi so I don't go insane! :D																												
+Entry Time	C/S	Type	Prio.	Tasks	Sign Up 	Status	Comments																									
+9:00 AM	PAl	■	1	Transform HSP NSC, SC1, SC2	Sam	Done																										
+9:00 AM	PAl	■	1	Miniprep pSB Gal1 2,5,6 and elute in H2O to send off for sequencing	Sam	Done	Sending for sequencing tomorrow b/c i have no clue how to do that																									
+9:00 AM	PAl	■	2	cPCR NSC/SC1/SC2-pSB Batch 4 (~8 colonies)	Sam	Done																										
+9:00 AM	PAl	■	3	Run products on a 1% gel to check if the PCR worked 	Sam	Done																										
+9:00 AM	PAl	■	1	cPCR Adh1-pXP Batch 4 (~8 colonies)	Sam	Done																										
+9:00 AM	PAl	■	2	Run products on a 1% gel to check if the PCR worked 	Sam	Done																										
+9:00 AM	PAl	■	2	Make 10 amp plates	Nat	Done																										
+9:00 AM	PAl	■	1	Sacrifice first year to the transformation gods (PRIORITY ALPHA)	EdCOM	Done	EdCOM has carried out the sacrifice...																									
+Mon Sep 5, 2016																																
+Entry Time	C/S	Type	Prio.	Tasks	Sign Up 	Status	Comments																									
+9:00 AM	PAl	■	1	Transform HSP NSC, SC1, SC2	Sam	Done																										
+9:00 AM	PAl	■	1	Transform pXP Adh1	Vincent	Done																										
+9:00 AM	PAl	■	1	Digest 1000ng of CFP_NSC, CFP_SC1, CFP_SC2 with ApaI for 240min, then BamHI for 30min.	Sam	Done																										
+9:00 AM	PAl	■	3	Column purification of CFP_NSC, CFP_SC1, CFP_SC2 and nanodrop 	Sam	Done																										
+9:00 AM	PAl	■	1	Digest 2000ng of Hsp104 plasmid X3 with ApaI for 2 hours, then BamHI for 30min.	Sam	Done																										
+9:00 AM	PAl	■	3	Gel Extract 8.8kB fragment, then nanodrop. 	Sam	Done	Gel running at 50 volts for ~4 hours to try to seperate the 10kb band from the 8.8kb one																									
+9:00 AM	PAl	■	4	Ligate CFP_NSC,SC1, SC2 into Hsp104.	Sam	Done																										
+9:00 AM	PAl	■	1	Inoculate pSB Gal1 2,5,6	Sam/Vincent	Done																										
+Sun Sep 4, 2016																																
+Entry Time	C/S	Type	Prio.	Tasks	Sign Up 	Status	Comments																									
+9:00 AM	PAl	■	2	cPCR Adh1/Gal1-pSB Batch 3 (~8 colonies)	Vincent	Done																										
+9:00 AM	PAl	■	3	Run products on a 1% gel to check if the PCR worked 	Vincent	Done	Did not work, will see patch plate tomorrow for RFP																									
+9:00 AM	PAl	■	1	cPCR Cup1/Gal1-pXP Batch 4 (~8 colonies)	Sam	Cancelled	More growth on the no ligase control than on plates being tested :'(																									
+9:00 AM	PAl	■	2	Run products on a 1% gel to check if the PCR worked 	Sam	Cancelled																										
+9:00 AM	PAl	■	1	Digest 1000ng of ADHI (25&26 primers) with BamHI and SalI for 35min at 37C	Vincent	Done																										
+9:00 AM	PAl	■	2	Column purification of ADHI then nanodrop 	Vincent	Done																										
+9:00 AM	PAl	■	3	Ligate ADH1 into pXP218 and leave at RT for minimum 2h, 0.3uL ligase, 3:1 insert:vector ratio	Vincent	Done																										
+9:00 AM	PAl	■	1	Digest 1000ng of CFP_NSC, CFP_SC1, CFP_SC2 with ApaI for 240min, then BamHI for 30min.	Sam	Done																										
+9:00 AM	PAl	■	2	Run a 1.4% gel on the digested products to see if they actually digested before CP	Sam	Done																										
+9:00 AM	PAl	■	3	Column purification of CFP_NSC, CFP_SC1, CFP_SC2 and nanodrop 	Sam	Done																										
+9:00 AM	PAl	■	1	Digest 2000ng of Hsp104 plasmid X3 with ApaI for 2 hours, then BamHI for 30min.	Sam	Done																										
+9:00 AM	PAl	■	3	Gel Extract 8.8kB fragment, then nanodrop. 	Sam	Done	Did not see 8.8kb site b/c of 2 cut sites on BamHI (trying again...)																									
+9:00 AM	PAl	■	1	Digest 3000ng of Hsp104 plasmid X3 with ApaI for 1 hour, then BamHI for 30min.	Sam	Done																										
+9:00 AM	PAl	■	3	Gel Extract 8.8kB fragment, then nanodrop. 	Sam	Done																										
+9:00 AM	PAl	■	4	Ligate CFP_NSC,SC1, SC2 into Hsp104.	Sam	Done																										
+9:00 AM	PAl	■	4	Transfer soapy dishes into diH2O and let them soak	Sam	Done																										
+Sat Sep 3, 2016																																
+Entry Time	C/S	Type	Prio.	Tasks	Sign Up 	Status	Comments																									
+9:00 AM	PAl	■	1	Transform ADH1/Gal-pSB Batch 4	Vincent	Done																										
+9:00 AM	PAl	■	1	Transform the Cup1/Gal1-pXP Batch 5	Sam	Done																										
+9:00 AM	PAl	■	1	Miniprep Pat's shit	Vincent/Sam	Done																										
+9:00 AM	PAl	■	1	cPCR Cup1/Gal1-pXP Batch 4 (~8 colonies)	Sam	Done																										
+9:00 AM	PAl	■	2	Run products on a 1% gel to check if the PCR worked 	Sam	Done																										
+9:00 AM	PAl	■	1	cPCR Adh1/Gal1-pSB Batch 3 (~8 colonies)		Cancelled	No growth on anything except for +ve :'(																									
+9:00 AM	PAl	■	2	Run products on a 1% gel to check if the PCR worked 		Cancelled																										
+9:00 AM	PAl	■	1	PCR of ADHI with primers 25&26. Use Patrick's parts and conditions (25 rxn volumes)		Pending	No amplification, temp setting maybe wrong (snapgene said to use 68, will try again tomorrow over a temp range)																									
+9:00 AM	PAl	■	2	Run products on a 1.2% gel to see if PCR worked - run at 80-100V 		Pending																										
+9:00 AM	PAl	■	2	PCR cleanup of the products, nanodrop 		Pending																										
+9:00 AM	PAl	■	1	Digest 2000ng of pXP218 with BamHI and SalI. Digest for 2h at 37C 	Vincent	Done																										
+9:00 AM	PAl	■	2	Gel extract 6.2kB fragment after running on a gel with guanosine. There should be only 1 band 	Vincent / Sam	Done	PXP digested and purified and ready to go for tomorrow																									
+9:00 AM	PAl	■	1	Digest 1000ng of ADHI (25&26 primers) with BamHI and SalI for 35min at 37C		Pending																										
+9:00 AM	PAl	■	2	Column purification of ADHI then nanodrop 		Pending																										
+9:00 AM	PAl	■	3	Ligate Cup1 and Gal1 into pXP218 and leave at RT for minimum 2h, 0.3uL ligase, 3:1 insert:vector ratio		Pending																										
+9:00 AM	PAl	■	1	PCR of ADHI with primers 25&26. Use Patrick's parts and conditions (25 rxn volumes)	Sam	Done	Test run #2 (using a gradiant and trying with Q5 and Taq) | IT WORKED! Call me PCR King!																									
+9:00 AM	PAl	■	2	Run products on a 1.2% gel to see if PCR worked - run at 80-100V 		Pending																										
+9:00 AM	PAl	■	2	PCR cleanup of the products, nanodrop 		Pending																										
+9:00 AM	PAl	■	3	Let dirty dishes soak overnight in soap and water	Sam	Done																										
+9:00 AM	PAl	■	3	Clean dirty counters	Sam	Done																										
+9:00 AM	PAl	■	3	Clean gel microwave	Sam	Done																										
+Fr Sep 2, 2016				Gone 9-4:30pm - Pat																												
+Entry Time	C/S	Type	Prio.	Tasks	Sign Up 	Status	Comments																									
+9:00 AM	PAl	■	1	cPCR CFP NSC/SC1/SC2-Hsp104 Batch 2 (~8 colonies)	Max	Done																										
+9:00 AM	PAl	■	2	Run products on a 1% gel to check if the PCR worked 	Sam	Done																										
+9:00 AM	PAl	■	1	cPCR Cup1/Gal1-pXP Batch 3 (~8 colonies)		Pending																										
+9:00 AM	PAl	■	2	Run products on a 1% gel to check if the PCR worked 		Pending																										
+9:00 AM	PAl	■	1	Transform the Cup1/Gal1-pXP Batch 4	Sam	Done																										
+9:00 AM	PAl	■	1	Transform the ADH1/Gal1-pSB Batch 3	Sam	Done																										
+9:00 AM	PAl	■	1	Make 2L of LB Agar (in 5-200mL bottles), and autoclave.	Max	Done																										
+9:00 AM	PAl	■	1	Inoculate M1-1,3,8;M2-1,2,4,6,8;M3-4,5,8 into 5mL LB w/ 2.5uL Cm	Patrick	Done																										
+9:00 AM	PAl	■	1	Digest 1000ng of CFP_NSC, CFP_SC1, CFP_SC2 with ApaI for 240min, then BamHI for 30min.		Pending																										
+9:00 AM	PAl	■	2	Run a 1.4% gel on the digested products to see if they actually digested before CP		Pending																										
+9:00 AM	PAl	■	3	Column purification of CFP_NSC, CFP_SC1, CFP_SC2 and nanodrop 		Pending																										
+9:00 AM	PAl	■	1	Digest 2000ng of Hsp104 plasmid X3 with ApaI for 240min, then BamHI for 30min.		Pending																										
+9:00 AM	PAl	■	3	Gel Extract 8.8kB fragment, then nanodrop. 		Pending																										
+9:00 AM	PAl	■	4	Ligate CFP_NSC,SC1, SC2 into Hsp104.		Pending																										
+9:00 AM	PAl	■	1	Digest 2000ng of pSB1C3 X2 with EcoRI and PstI, incubate at 37C for 1 hour 	Vincent	Done																										
+9:00 AM	PAl	■	2	Gel extract 2kB fragment after running on a gel with guanosine. Other fragment will be 1kB 	Vincent	Done																										
+9:00 AM	PAl	■	1	Digest Adh1 and Gal1 (17&18 primers) with EcoRI and PstI. Incubate at 37C for 35 min	Vincent	Done																										
+9:00 AM	PAl	■	2	Column purification of Adh1 and Gal1 then nanodrop 	Vincent	Done																										
+9:00 AM	PAl	■	3	Ligate Adh1 and Gal1 into pSB1C3, leave at RT minimum 2h, 0.3uL ligase/rxn. Do 1:1 ratio insert:vector 	Vincent	Done																										
+9:00 AM	PAl	■	1	PCR of Gal1 with primers 5&6. Use Patrick's parts and conditions (25 rxn volumes)	Sam	Done																										
+9:00 AM	PAl	■	1	Digest 2000ng of pXP218 with SphI and SalI X2. Digest for 2h at 37C 	Sam	Done																										
+9:00 AM	PAl	■	2	Gel extract 6.2kB fragment after running on a gel with guanosine. There should be only 1 band 	Sam	Done																										
+9:00 AM	PAl	■	1	Digest 1000ng of Cup1 and Gal1 (5&6 primers) with SphI and SalI for 35min at 37C	Sam	Done																										
+9:00 AM	PAl	■	2	Column purification of Cup1 and Gal1 then nanodrop 	Sam	Done																										
+9:00 AM	PAl	■	3	Ligate Cup1 and Gal1 into pXP218 and leave at RT for minimum 2h, 0.3uL ligase, 3:1 insert:vector ratio	Sam	Done																										
+9:00 AM	PAl	■	!	Eat 120 chicken nuggets (PRIORITY ALPHA)	iGem et al. 2016	Done	we have the goods!																									
+9:00 AM	PAl	■	4	Pour agar plates with CM antibiotic	Austin	Done	Need more CM!!!																									
+9:00 AM	PAl	■	4	Make more 1x TAE buffer for gels	Austin	Done	Need more 50x concentrated TAE buffer!																									
+Th Sep 1, 2016				Are you tired yet? (I'm gone 9-4:30pm - pat) | One is the loneliest number :'( - Sam																												
+Entry Time	C/S	Type	Prio.	Tasks	Sign Up 	Status	Comments																									
+9:00 AM	PAl	■	2	cPCR CFP NSC/SC1/SC2-Hsp104 Batch 2 (~8 colonies)		Pending																										
+9:00 AM	PAl	■	3	Run products on a 1% gel to check if the PCR worked 		Pending																										
+9:00 AM	PAl	■	2	cPCR Cup1/Gal1-pXP Batch 3 (~8 colonies)		Pending																										
+9:00 AM	PAl	■	3	Run products on a 1% gel to check if the PCR worked 		Pending																										
+9:00 AM	PAl	■	2	cPCR ADH1/Gal1-pSB Batch 2 (~8 colonies)	Sam	Done																										
+9:00 AM	PAl	■	3	Run products on a 1% gel to check if the PCR worked 	Sam	Done	ADH1 and Gal potentially both worked! :D																									
+9:00 AM	PAl	■	2	cPCR sgRNA-Main & RFP-CTRL (~50 colonies)	Patrick	Done																										
+9:00 AM	PAl	■	3	Run products on a 1% gel to check if the PCR worked 	Patrick	Done																										
+9:00 AM	PAl	■	2	Attempt 2: cPCR CFP NSC/SC1/SC2-Hsp104 Batch 1: A2/B2/C2 Set & A1(1-4,6)	Patrick	Done	~30 colonies																									
+9:00 AM	PAl	■	3	Run products on a 1% gel to check if the PCR worked, ONLY LOAD 1UL OF SAMPLE	Patrick	Done																										
+9:00 AM	PAl	■	1	Fill p200 tips!!! We're out now!!! Autoclave!!!	Austin	Pending	Waiting for Patrick to get more bags of P10 and P200 tips																									
+9:00 AM	PAl	■	4	Make 1L of LB Agar (in 5-200mL bottles), and autoclave.		Pending																										
+9:00 AM	PAl	■	1	PCR of CFP_NSC,CFP_SC1, CFP_SC2. 50uL reaction volumes. Do a -ve control 	Sam	Done	Whoops I only did 25 uL reactions. I should have checked to see this was different from the other 2 PCRs																									
+9:00 AM	PAl	■	2	Run products on a 1.2% gel to see if PCR worked - run at 80-100V 	Sam	Done																										
+9:00 AM	PAl	■	2	PCR cleanup on the products, nanodrop 	Sam	Done																										
+9:00 AM	PAl	■	1	Digest 1000ng of CFP_NSC, CFP_SC1, CFP_SC2 with ApaI for 240min, then BamHI for 30min.		Pending																										
+9:00 AM	PAl	■	2	Run a 1.4% gel on the digested products to see if they actually digested before CP		Pending																										
+9:00 AM	PAl	■	3	Column purification of CFP_NSC, CFP_SC1, CFP_SC2 and nanodrop 		Pending																										
+9:00 AM	PAl	■	1	Digest 2000ng of Hsp104 plasmid X3 with ApaI for 240min, then BamHI for 30min.		Pending																										
+9:00 AM	PAl	■	3	Gel Extract 8.8kB fragment, then nanodrop. 		Pending																										
+9:00 AM	PAl	■	4	Ligate CFP_NSC,SC1, SC2 into Hsp104.		Pending																										
+9:00 AM	PAl	■	1	PCR of Cup1 and Gal1 with primers 5&6. Use Patrick's parts and conditions (25 rxn volumes)	Sam	Done																										
+9:00 AM	PAl	■	2	Run products on a 1.2% gel to see if PCR worked - run at 80-100V 	Sam	Done																										
+9:00 AM	PAl	■	2	PCR cleanup of the products, nanodrop 	Sam	Done																										
+9:00 AM	PAl	■	1	Digest 2000ng of pXP218 with SphI and SalI X2. Digest for 2h at 37C 	Sam	Done																										
+9:00 AM	PAl	■	2	Gel extract 6.2kB fragment after running on a gel with guanosine. There should be only 1 band 	Sam	Done																										
+9:00 AM	PAl	■	1	Digest 1000ng of Cup1 and Gal1 (5&6 primers) with SphI and SalI for 35min at 37C	Sam	Done																										
+9:00 AM	PAl	■	2	Column purification of Cup1 and Gal1 then nanodrop 	Sam	Done																										
+9:00 AM	PAl	■	3	Ligate Cup1 and Gal1 into pXP218 and leave at RT for minimum 2h, 0.3uL ligase, 3:1 insert:vector ratio	Sam	Done																										
+9:00 AM	PAl	■	1	PCR of Gal1 and Adh1 with primers 5&6. Use synthesized parts and 25 rxn volumes 	Sam	Done																										
+9:00 AM	PAl	■	2	Run products on a 1.2% gel to see if PCR worked - run at 80-100V 	Sam	Done																										
+9:00 AM	PAl	■	2	PCR cleanup of the products, nanodrop 	Sam	Done																										
+9:00 AM	PAl	■	1	Digest 2000ng of pSB1C3 with EcoRI and PstI, incubate at 37C for 1 hour 	Austin	Done	Used digested pSB1C3 in Track C working box (row 4, column 4)																									
+9:00 AM	PAl	■	2	Gel extract 2kB fragment after running on a gel with guanosine. Other fragment will be 1kB 	Austin	Done																										
+9:00 AM	PAl	■	1	Digest Adh1 and Gal1 (17&18 primers) with EcoRI and PstI. Incubate at 37C for 35 min	Sam	Done																										
+9:00 AM	PAl	■	2	Column purification of Adh1 and Gal1 then nanodrop 	Sam	Done																										
+9:00 AM	PAl	■	3	Ligate Adh1 and Gal1 into pSB1C3, leave at RT minimum 2h, 0.3uL ligase/rxn. Do 1:1 ratio insert:vector 	Sam	Done																										
+We Aug 31, 2016				Down-time day to escape the >=12 work days. We need lives.																												
+Entry Time	C/S	Type	Prio.	Tasks	Sign Up 	Status	Comments																									
+9:00 AM	PAl	■	1	Transform the CFP NSC/SC1/SC2-Hsp104 Batch 2	Max	Done	Use 100uL of cells per transformation instead of 50uL. Heat shock for 50secs. Incubate at 37C for up to 2hrs preferably. 																									
+9:00 AM	PAl	■	1	Transform the Cup1/Gal1-pXP Batch 3	Emma	Done																										
+9:00 AM	PAl	■	1	Transform the ADH1/Gal1-pSB Batch 2	Sam / Vincent	Done																										
+9:00 AM	PAl	■■	1	Analyze transformation products and determine which ones can have cPCR.	Err'body	Done	There are four sets of transformations. Take them all out in the morning (~9AM)																									
+9:00 AM	PAl	■	1	Transform the sgRNA-Main & RFP-CTRL Batch 1	Patrick	Done	~2hr incubation at 37C																									
+9:00 AM	PAl	■	2	Attempt 1: cPCR CFP NSC/SC1/SC2-Hsp104 Batch 1 (72 colonies)	Patrick	Done	This is going to be a huge one.																									
+6:30 PM	PAl	■	3	Run products on a 1% gel to check if the PCR worked 	Patrick	Done	Interesting results indicative of further testing needed,																									
+9:00 AM	PAl	■	2	cPCR Cup1/Gal1-pXP Batch 1 (~8 colonies)	Emma	Done																										
+6:30 PM	PAl	■	3	Run products on a 1% gel to check if the PCR worked 	Emma	Done																										
+9:00 AM	PAl	■	2	cPCR Cup1/Gal1-pXP Batch 2 (~8 colonies)	Vincent	Done																										
+6:30 PM	PAl	■	3	Run products on a 1% gel to check if the PCR worked 	Vincent	Done																										
+9:00 AM	PAl	■	2	cPCR ADH1/Gal1-pSB Batch 1 (~8 colonies)	Sam	Done	5 colonies for ADH1 and 8 for Gal1																									
+6:30 PM	PAl	■	3	Run products on a 1% gel to check if the PCR worked 	Sam	Done																										
+9:00 AM	PAl	■	2	Make ~30 Amp plates	Vincent / Sam	Done	Made 29, can you put in another bottle intot he steamer to make one more (jk) - pat																									
+9:00 AM	PAl	■	2	Make 20 Cm plates	Sam/Patrick	Done																										
+9:00 AM	PAl	■	1	Digest 2000ng of pXP218 with SphI and SalI X2. Digest for 2h at 37C 	Max	Done																										
+9:00 AM	PAl	■	2	Gel extract 6.2kB fragment after running on a gel with guanosine. There should be only 1 band 	Patrick	Done	The extraction couldn't happen because the ladder was literally just one smear with one or two bands at the bottom.																									
+Tu Aug 30, 2016				I AM AWAKE NOW!!! fml i should've just slept forever																												
+Entry Time	C/S	Type	Prio.	Tasks	Sign Up 	Status	Comments																									
+1:30 PM	PAl	■	1	Transform the CFP NSC/SC1/SC2-Hsp104	Patrick	Done	fml																									
+1:30 PM	PAl	■	1	 	Vincent	Done																										
+1:30 PM	PAl	■	1	Transform the Cup1/Gal1-pXP Batch 2	Emma	Done	Incubating at 37C - 7PM																									
+1:30 PM	PAl	■	1	Transform the ADH1/Gal1-pSB Batch 1	Sam	Done																										
+1:30 PM	PAl	■	1	Miniprep ~1.5mL of the 284/335 cultures from o/n.	Sam	Done																										
+1:30 PM	PAl	■	2	Run a diagnostic 1% on the sgRNA Attempt 3	Sam	Done																										
+1:30 PM	PAl	■	3	PCR cleanup of sgRNA RFP-CTRL product, then nanodrop.	Patrick	Done	fml																									
+1:30 PM	PAl	■	1	PCR amplify the main and the RFP CTRL with Q5, using separate annealing temps. 	Patrick	Done	fml																									
+1:30 PM	PAl	■	2	Run a diagnostic 1% on the sgRNA Attempt 3	Patrick	Done	fml																									
+1:30 PM	PAl	■	3	PCR cleanup of sgRNA RFP-CTRL product, then nanodrop.	Patrick	Done	fml																									
+1:30 PM	PAl	■	3	Digest 284 w/ S & P (2000ng) for 1hr at 37C	Patrick	Done	fml																									
+1:30 PM	PAl	■	3	Gel extract the 2kb fragment, then nanodrop. 	Patrick	Done	fml																									
+1:30 PM	PAl	■	4	Ligate 284 and Main and RFP together, 5:1 ratio.	Patrick	Done	fml																									
+1:30 PM	PAl	■	1	PCR of CFP_NSC,CFP_SC1, CFP_SC2. 50uL reaction volumes. Do a -ve control 	Patrick	Done	Primers 11 and 12																									
+1:30 PM	PAl	■	2	Run products on a 1.2% gel to see if PCR worked - run at 80-100V 	Patrick	Done	fml																									
+1:30 PM	PAl	■	2	PCR cleanup on the products, nanodrop 	Patrick	Done	fml																									
+1:30 PM	PAl	■	1	Digest 1000ng of CFP_NSC, CFP_SC1, CFP_SC2 with ApaI for 240min, then BamHI for 30min.	Patrick	Done	fml																									
+1:30 PM	PAl	■	2	Run a 1.4% gel on the digested products to see if they actually digested before CP	Patrick	Done	fml																									
+1:30 PM	PAl	■	3	Column purification of CFP_NSC, CFP_SC1, CFP_SC2 and nanodrop 	Patrick	Done	fml																									
+1:30 PM	PAl	■	1	Digest 2000ng of Hsp104 plasmid X3 with ApaI for 240min, then BamHI for 30min.	Patrick	Done	fml																									
+1:30 PM	PAl	■	3	Gel Extract 8.8kB fragment, then nanodrop. 	Patrick	Done	fml																									
+1:30 PM	PAl	■	4	Ligate CFP_NSC,SC1, SC2 into Hsp104.	Patrick	Done	fml																									
+1:30 PM	PAl	■	1	PCR of Gal1 and Adh1 with primers 5&6. Use synthesized parts and 25 rxn volumes 	Sam	Done																										
+1:30 PM	PAl	■	2	Run products on a 1.2% gel to see if PCR worked - run at 80-100V 	Sam	Done																										
+1:30 PM	PAl	■	2	PCR cleanup of the products, nanodrop 	Sam	Done																										
+1:30 PM	PAl	■	1	Digest 2000ng of pSB1C3 with EcoRI and PstI, incubate at 37C for 1 hour 	Sam	Done																										
+1:30 PM	PAl	■	2	Gel extract 2kB fragment after running on a gel with guanosine. Other fragment will be 1kB 	Sam	Done																										
+1:30 PM	PAl	■	1	Digest Adh1 and Gal1 (17&18 primers) with EcoRI and PstI. Incubate at 37C for 35 min	Sam	Done																										
+1:30 PM	PAl	■	2	Column purification of Adh1 and Gal1 then nanodrop 	Sam	Done																										
+1:30 PM	PAl	■	3	Ligate Adh1 and Gal1 into pSB1C3, leave at RT minimum 2h, 0.3uL ligase/rxn. Do 1:1 ratio insert:vector 	Sam	Done																										
+1:30 PM	PAl	■	2	Make 20 Amp plates.	Patrick	Done	fml																									
+1:30 PM	PAl	■	2	Make 1L LB agar, and 1L of just LB, then autoclave.	Patrick	Done	fml																									
+1:30 PM	PAl	■	2	Refill ethanol spray with 70% ethanol, and changed DI water bath. 	Patrick	Done	fml																									
+1:30 AM	PAl	■	2	Wash glassware, and clean up lab benches.	Patrick 	Done	fml																									
+1:30 AM	PAl	■	2	Autoclave new test tubes (1.5mL and PCR size.	Patrick	Done																										
+1:30 PM	PAl	■	1	PCR of Cup1 and Gal1 with primers 5&6. Use Patrick's parts and conditions (25 rxn volumes)	Sam	Done																										
+1:30 PM	PAl	■	2	Run products on a 1.2% gel to see if PCR worked - run at 80-100V 	Emma	Done																										
+1:30 PM	PAl	■	2	PCR cleanup of the products, nanodrop 	Emma	Done																										
+1:30 PM	PAl	■	1	Digest 2000ng of pXP218 with SphI and SalI X2. Digest for 2h at 37C 	Emma	Done																										
+1:30 PM	PAl	■	2	Gel extract 6.2kB fragment after running on a gel with guanosine. There should be only 1 band 	Emma	Done																										
+1:30 PM	PAl	■	1	Digest 1000ng of Cup1 and Gal1 (5&6 primers) with SphI and SalI for 35min at 37C	Emma	Done																										
+1:30 PM	PAl	■	2	Column purification of Cup1 and Gal1 then nanodrop 	Emma	Done																										
+1:30 PM	PAl	■	3	Ligate Cup1 and Gal1 into pXP218 and leave at RT for minimum 2h, 0.3uL ligase, 3:1 insert:vector ratio	Emma	Done																										
+1:30 PM	PAl	■	4	Eat 60 chicken nuggets.	Sam, Pat, Mark, Emma	Done																										
+Mo Aug 29, 2016				Pat's in all-day till midnight,																												
+Entry Time	C/S	Type	Prio.	Tasks	Sign Up 	Status	Comments																									
+10:00 AM	PAl	■	1	PCR of CFP_NSC,CFP_SC1, CFP_SC2. 50uL reaction volumes. Do a -ve control 	Sam/Vincent	Done	Primers 11 and 12																									
+10:00 AM	PAl	■	2	Run products on a 1.2% gel to see if PCR worked - run at 80-100V 	Sam/Vincent	Done																										
+10:00 AM	PAl	■	2	PCR cleanup on the products, nanodrop 	Sam/Vincent	Done																										
+10:00 AM	PAl	■	1	Attempt 1: Digest 1000ng of CFP_NSC, CFP_SC1, CFP_SC2 with ApaI and BamHI for 45-60min at 37C 	Patrick	Done																										
+10:00 AM	PAl	■	2	Attempt 1: Run a 1.4% gel on the digested products to see if they actually digested before CP	Patrick	Done	Really shit digest, but can't tell if it's because the ladder is also shit. 																									
+8:00 PM	PAl	■	1	Attempt 2: Digest 1000ng of CFP_NSC, CFP_SC1, CFP_SC2 with ApaI for 120min, then BamHI for 30min.	Patrick	Done																										
+8:00 PM	PAl	■	2	Attempt 2: Run a 1.4% gel on the digested products to see if they actually digested before CP	Patrick	Done																										
+10:00 AM	PAl	■	3	Column purification of CFP_NSC, CFP_SC1, CFP_SC2 and nanodrop 	Patrick	Done																										
+10:00 AM	PAl	■	1	Attempt 1: Digest 2000ng of Hsp104 plasmid X3 with ApaI and BamHI for 120min at 37C 	Patrick	Done																										
+8:00 PM	PAl	■	1	Attempt 2: Digest 2000ng of Hsp104 plasmid X3 with ApaI for 120min, then BamHI for 30min.	Patrick	Done																										
+10:00 AM	PAl	■	3	Gel Extract 8.8kB fragment, then nanodrop. 	Patrick	Done	Other fragment should be 700bp																									
+10:00 AM	PAl	■	3	Run a gel on the CPd/GEd insert/vector to double-check if we have what we want.	Patrick	Done	Weird loading, will see what happens. 																									
+10:00 AM	PAl	■	4	Ligate CFP_NSC,SC1, SC2 into Hsp104.	Patrick	Done																										
+10:00 AM	PAl	■	1	PCR of Cup1 and Gal1 with primers 5&6. Use Patrick's parts and conditions (50uL volumes)	Vincent	Done																										
+10:00 AM	PAl	■	2	Run products on a 1.2% gel to see if PCR worked - run at 80-100V 	Vincent	Done																										
+10:00 AM	PAl	■	2	PCR cleanup of the products, nanodrop 	Vincent	Done																										
+10:00 AM	PAl	■	1	Digest 2000ng of pXP218 with SphI and SalI X2. Digest for 2h at 37C 	Vincent	Done																										
+10:00 AM	PAl	■	2	Gel extract 6.2kB fragment after running on a gel with guanosine. There should be only 1 band 	Vincent	Done																										
+10:00 AM	PAl	■	1	Digest 1000ng of Cup1 and Gal1 (5&6 primers) with SphI and SalI for 35min at 37C	Vincent	Done																										
+10:00 AM	PAl	■	2	Column purification of Cup1 and Gal1 then nanodrop 	Vincent	Done																										
+10:00 AM	PAl	■	3	Ligate Cup1 and Gal1 into pXP218 and leave at RT for minimum 2h, 0.3uL ligase, 3:1 insert:vector ratio	Vincent	Done																										
+10:00 AM	PAl	■	1	PCR of Gal1 and Adh1 with primers 17&18. Use synthesized parts and 50uL rxn volumes 	Sam	Done																										
+10:00 AM	PAl	■	2	Run products on a 1.2% gel to see if PCR worked - run at 80-100V 	Sam	Done																										
+10:00 AM	PAl	■	2	PCR cleanup of the products, nanodrop 	Sam	Done																										
+10:00 AM	PAl	■	1	Digest 2000ng of pSB1C3 with EcoRI and PstI, incubate at 37C for 1 hour 	Sam	Done																										
+10:00 AM	PAl	■	2	Gel extract 2kB fragment after running on a gel with guanosine. Other fragment will be 1kB 	Sam	Done																										
+10:00 AM	PAl	■	1	Digest Adh1 and Gal1 (17&18 primers) with EcoRI and PstI. Incubate at 37C for 35 min	Sam	Done																										
+10:00 AM	PAl	■	2	Column purification of Adh1 and Gal1 then nanodrop 	Sam	Done																										
+10:00 AM	PAl	■	3	Ligate Adh1 and Gal1 into pSB1C3, leave at RT minimum 2h, 0.3uL ligase/rxn. Do 1:1 ratio insert:vector 	Sam	Done	I changed this to 1:1 ratio - Alicia | Cool - Sam																									
+10:00 AM	PAl	■	1	Digest 1000ng of Cup1 and Gal1 (5&6 primers) with SphI and SalI for 35min at 37C	Emma	Done																										
+10:00 AM	PAl	■	2	Column purification of Cup1 and Gal1 then nanodrop 	Emma	Done																										
+10:00 AM	PAl	■	3	Ligate Cup1 and Gal1 into pXP218 and leave at RT for minimum 2h, 0.3uL ligase, 3:1 insert:vector ratio	Emma	Done																										
+10:00 AM	PAl	■	4	Make more working GelRed reagent from 5x stock.	Sam	Done																										
+10:00 AM	PAl	■	1	Attempt 1: PCR Amplify sgRNA-Main & RFP CTRL w/ 128 and 129, 50uL rxn volumes each.	Patrick	Done	July 13th, 2015 (Done by Alicia), Aug 7th (Done by Patrick)																									
+10:00 AM	PAl	■	1	Make new working primers for 128 and 129, checking Benchling to confirm sequence.	Patrick	Done																										
+10:00 AM	PAl	■	1	Attempt 2: PCR Amplify sgRNA-Main & RFP CTRL w/ 128 and 129, 50uL rxn volumes each.	Patrick	Done	July 13th, 2015 (Done by Alicia), Aug 7th (Done by Patrick)																									
+10:00 AM	PAl	■	2	Inoculate 284 and 335 and in 5mL LB w/ Cm and Amp, respectively x5	Patrick	Done																										
+10:00 AM	PAl	■	3	Make 10 Cm plates and 10 Cm/Amp plates reserved for BioBrick Improvement.	Patrick	Done																										
+10:00 AM	PAl	■	2	Attempt 1: dGel of PCRd Main/RFP CTRL products in 1,4% gel.	Patrick	Done	#wtfisthisBS																									
+10:00 AM	PAl	■	2	Attempt 2: dGel of PCRd Main/RFP CTRL products in 1,4% gel.	Patrick	Done	Main worked. RFP CTRL nothing. -ve ctrl had nothing which is good. 																									
+10:00 AM	PAl	■	2	Clean-up of the PCRd products, assuming they've worked, then nanodrop.	Patrick	Done																										
+6:00 AM	PAl	■	2	Attempt 3: PCR Amplify sgRNA Main w/ new working stock, and RFP CTRL from synth. stock.	Patrick 	Done																										
+6:00 AM	PAl	■	2	Remove bioharzardous bench waste and clean counters with ethanol.	Patrick	Done																										
+Sun Aug 28th, 2016				Noice																												
+Entry Time	C/S	Type	Prio.	Tasks	Sign Up 	Status	Comments																									
+9:00 AM	Sam	■	1	Colony PCR HSP NSC/SC1/SC2. Use primers 13&14	Sam/Austin	Done																										
+9:00 AM	Sam	■	2	Run products on a 1% gel to check if the PCR worked 	Sam/Austin	Done																										
+9:00 AM	Sam	■	2	Analysis on cPCR results to see if we should send for sequencing 	Sam/Austin	Done	No printer paper still; image seems questionable, ask Patrick/Alicia tomorrow																									
+9:00 AM	Sam	■	1	Inoculate PSB ADH1 #3	Sam/Austin	Done																										
+Sat Aug 27th, 2016																																
+Entry Time	C/S	Type	Prio.	Tasks	Sign Up 	Status	Comments																									
+9:00 AM	Sam	■	1	Check Patch Plates from all of yesterday's cPCR	Sam	Done	ADH1 in PSB has 1 white colony!!																									
+9:00 AM	Sam	■	1	Colony PCR on pXP218 Gal1. Use primers 15&16	Sam	Done																										
+9:00 AM	Sam	■	2	Run products on a 1% gel to check if the PCR worked 	Sam	Done																										
+9:00 AM	Sam	■	1	Analysis on cPCR results to see if we should send for sequencing 	Sam	Done	PXP Gal1 did not work. Monday we come in and we will kill it! We got this!																									
+9:00 AM	Sam	■	3	Clear out all the ice from the bottom of the freezer	Sam	Done																										
+9:00 AM	Sam	■	3	Wash dishes, clean lab benches and around the lab	Sam	Done	You da BOMB																									
+9:00 AM	Sam	■	1	Colony PCR on CFP_NSC/SC1/SC2. Use primers 13&14	Sam	Pending	At 2:00 pm I still didn't see any colonies so I will leave them for tomorrow...																									
+Fri Aug 26th, 2016			Alicia will be around today! Woohoo :). To everyone - good luck with cloning. Remember to be efficient! 																													
+Entry Time	C/S	Type	Prio.	Tasks	Sign Up 	Status	Comments																									
+9:00 AM	PAl	■	1	Colony PCR on CFP_NSC/SC1 (Vincent's Transformants from Aug 25). Use primers 13&14	Vincent	Done	(ノಥ,_｣ಥ)ノ彡┻━┻                :'(																								Roses are Red	
+9:00 AM	PAl	■	2	Run products on a 1% gel to check if the PCR worked 	Vincent	Done																									Violets are Blue	
+9:00 AM	PAl	■	2	Analysis on cPCR results to see if we should send for sequencing 	Vincent	Done																									A Gorilla Shot Dead	
+9:00 AM	PAl	■	1	Colony PCR on CFP_NSC/SC2 (Sam's Transformants from Aug 25). Use primers 13&14	Sam	Done	(ﾉ´･ω･)ﾉ ﾐ ┸━┸                :'(																								At Cincinnanti Zoo	
+9:00 AM	PAl	■	2	Run products on a 1% gel to check if the PCR worked 	Sam	Done																									#dicksoutforHarambe	
+9:00 AM	PAl	■	2	Analysis on cPCR results to see if we should send for sequencing 	Sam	Done																										
+9:00 AM	PAl	■	1	Colony PCR on pXP218 Cup1 (Andres transformants from Aug 25). Use primers 15&16	Andres	Done	(ノಠ益ಠ)ノ彡┻━┻                :'(																									
+9:00 AM	PAl	■	2	Run products on a 1% gel to check if the PCR worked 	Andres	Done																										
+9:00 AM	PAl	■	2	Analysis on cPCR results to see if we should send for sequencing 	Andres	Done 																										
+9:00 AM	PAl	■	1	Colony PCR on CFP_SC1/SC2 (Max's transformants from Aug 25). Use primers 13&14 	Max 	Done	(┛◉Д◉)┛彡┻━┻                :'(																									
+9:00 AM	PAl	■	2	Run products on a 1% gel to check if the PCR worked 	Sam	Done 																										
+9:00 AM	PAl	■	2	Analysis on cPCR results to see if we should send for sequencing 	Sam	Done 																										
+9:00 AM	PAl	■	1	Colony PCR on pSB1C3 with Gal1 and Adh1 (Cody's Transformants)	 Cody	Done	(╯ರ ~ ರ）╯︵ ┻━┻                :'(																									
+9:00 AM	PAl	■	2	Run products on a 1% gel to check if the PCR worked 	Cody	Done 																										
+9:00 AM	PAl	■	2	Analysis on cPCR results to see if we should send for sequencing 	Cody 	Done 																										
+9:00 AM	PAl	■	2	Run PCR cleanup products from yesterday - CFP_NSC/SC1/SC2 and Gal1/Cup1 with 5&6 on a 1.2% gel	Alicia 	Done 	All samples amplified 																									
+9:00 AM	PAl	■	1	Digest 1000ng CFP_NSC/SC1/SC2 with ApaI and BamHI for 35 mins 	Austin 	Done																										
+9:00 AM	PAl	■	2	Column Purify CFP_NSC/SC1/SC2 and nanodrop	Natasha	Done																										
+9:00 AM	PAl	■	1	Digest 2000ng X3 of Hsp104 plasmid with ApaI and BamHI for 2h at 37C	Austin 	Done																										
+9:00 AM	PAl	■	2	Gel Extract 8.8kB fragment after running on a gel with guanosine. Other fragment should be 700bp	Emma/Austin	Done	Gel finished running - no image available currently due to printer issues.																									
+9:00 AM	PAl	■	3	Ligate Hsp104 with CFP_NSC/SC1/SC2. Use 100ng vector and 0.3uL ligase per reaction 	Austin	Done 	Ligation will be complete at around 8:32 PM; cells were subsequently transformed, will check on them tomorrow																									
+9:00 AM	PAl	■	3	Make 20 Amp plates (2 bottles of LB) 	Emma/Natasha 	Done	Made 28																									
+9:00 AM	PAl	■	1	Restreak 4 transformants onto YPD plates and incubate at RT for the weekend 	Emma/Alicia	Done	In 30°																									
+9:00 AM	PAl	■	1	Take waste down to Greg 	Austin/Alicia 	Done 																										
+Thurs Aug 25th, 2016			Alicia will be around today! Woohoo :). To everyone - good luck with cloning. Remember to be efficient! 				Comments																									
+Entry Time	C/S	Type	Prio.	Tasks	Sign Up 	Status																										
+9:00 AM	PAl	■	1	Check if pSB1C3 transformation worked and decide on colony PCR 	Austin 	Done	Worked; Few colonies on ADH1 and Gal1 plates, currently incubating to allow continued cell growth																									
+9:00 AM	PAl	■	1	Colony PCR of the plates - 10 colonies per plate and use primers 19/20 	Vincent/Natasha 	Done																										
+9:00 AM	PAl	■	2	Run products on a 1% gel to check if we have the insert 	Vincent/Natasha 	Done																										
+9:00 AM	PAl	■	2	Analysis to see if we should send for sequencing 	Vincent/Sam	Done																										
+9:00 AM	PAl	■	1	Check efficiency test of the competent cells 	Patrick	Done	Efficient AF. -pat                    #SWAG																									
+9:00 AM	PAl	■	1	Transformation of Hsp104_SC1/2 into DH5alpha competent cells 	Max	Done	Transformers: robots in disguise | we are the champions | #SWAG #YOLO #selfie																									
+9:00 AM	PAl	■	1	Transformation of Hsp104_NSC/SC1/2 into DH5alpha competent cells 	Austin 	Done	Transformers: robots in disguise | we are the champions | #SWAG #YOLO #selfie																									
+9:00 AM	PAl	■	1	Transformation of Hsp104_NSC/SC2 into DH5alpha competent cells 	Vincent	Done	Transformers: robots in disguise | we are the champions | #SWAG #YOLO #selfie																									
+9:00 AM	PAl	■	1	Transformation of Hsp104_NSC/SC1 into DH5alpha competent cells 	Sam	Done	Transformers: robots in disguise | we are the champions | #SWAG #YOLO #selfie																									
+9:00 AM	PAl	■	1	Transformation of pXP218_Gal1/Cup1 into DH5alpha competent cells 	Andres	Done	Transformers: robots in disguise | we are the champions | #SWAG #YOLO #selfie																									
+9:00 AM	PAl	■	1	Transformation of pSB1C3_Gal1/Adh1 into DH5alpha competent cells	Cody 	Done	Transformers: robots in disguise | we are the champions | #SWAG #YOLO #selfie																									
+9:00 AM	PAl	■	2	PCR of Cup1/Gal1 with Primers 5/6. Do 2X reactions 	Sam	Done																										
+9:00 AM	PAl	■	2	Run products on a 1% gel to check if PCR worked 	Sam	Done	Making gel atm.																									
+9:00 AM	PAl	■	2	PCR cleanup of the products, then nanodrop.	Sam/Andres	Done																										
+9:00 AM	PAl	■	2	PCR of CFP_NSC/SC1/SC2 with Primers 11/12. Do 2X reactions per synthesis 	Austin	Done	Finished at 1:26 PM																									
+9:00 AM	PAl	■	2	Run products on a 1% gel to check if PCR worked 	Austin/Natasha	Done	Gel completed and imaged (image is a bit smeary) - gel redone, image is now better!																									
+9:00 AM	PAl	■	2	PCR cleanup of the products, then nanodrop.	Sam/Andres	Done																										
+9:00 AM	PAl	■	4	Sequencing in! Do analysis to see if we have the products 	Alirick	Done	https://en.wikipedia.org/wiki/Alaric_I (is this you guys?)																									
+9:00 AM	PAl	■	4	Move WO plates from flowhood to our own storage space.	Alicia + Others 	Done 																										
+Wed Aug 24th, 2016			Alicia will be around today! Woohoo :). To everyone - good luck with cloning. Remember to be efficient! 				Comments																									
+Entry Time	C/S	Type	Prio.	Tasks	Sign Up 	Status																										
+9:00 AM	PAl	■	1	Check colony PCR plates for red/white colonies and see if we have to inoculate any to send for sequencing 	Austin	Done	They are all pink :'(																									
+9:00 AM	PAl	■	2	Inoculate colonies to send for sequencing & make a list with Alicia 	Alicia	Done	We aren't sending any colonies :(																									
+9:00 AM	PAl	■	1	Transformation of pSB1C3 with Gal1 and Adh1 into DH5alpha. New comp cells	Austin	Done	Plates currently incubating overnight																									
+9:00 AM	PAl	■	1	Pellet o/n CaCl2 cells, resuspend in 0.085M-15%glycerol	Patrick 	Done																										
+9:00 AM	PAl	■	2	Aliquot comp cells from yesterday 	Patrick 	Done																										
+9:00 AM	PAl	■	3	Transform 1, 2uL and 4uL of Strain111 (ie. pSB1C3-RFP) into the new comp cells. No +ve CTRL.	Austin/Natasha	Done	Plates currently incubating overnight																									
+9:00 AM	PAl	■	1	PCR of CFP_NSC, CFP_SC1. 50uL reaction volumes. Do a -ve control 	Vincent 	Done	In PCR. Done @ 12:17ish																									
+9:00 AM	PAl	■	2	Run products on a 1.2% gel to see if PCR worked - run at 80-100V 	Vincent 	Done																										
+9:00 AM	PAl	■	2	PCR cleanup on the products, nanodrop 	Vincent 	Done																										
+9:00 AM	PAl	■	1	Digest 1000ng of CFP_NSC, CFP_SC1 with ApaI and BamHI for 35 min at 37C 	Vincent 	Done 																										
+9:00 AM	PAl	■	2	Column purification of CFP_NSC, CFP_SC1 and nanodrop 	Vincent 	Done																										
+9:00 AM	PAl	■	1	Digest 2000ng of Hsp104 plasmid X2 with ApaI and BamHI for 2h at 37C 	Vincent 	Done	Start at 11 40																									
+9:00 AM	PAl	■	2	Gel Extract 8.8kB fragment after running on a gel with guanosine. Other fragment should be 700bp	Vincent 	Done																										
+9:00 AM	PAl	■	3	Ligate CFP_NSC, SC1 into Hsp104. Use 0.3uL ligase per rxn,100ng of the vector 3:1 insert:vector	Vincent 	Done																										
+9:00 AM	PAl	■	1	PCR of CFP_NSC, CFP_SC2. 50uL reaction volumes. Do a -ve control 	Sam	Done	In PCR. Done @ 12:17ish																									
+9:00 AM	PAl	■	2	Run products on a 1.2% gel to see if PCR worked - run at 80-100V 	Sam	Done																										
+9:00 AM	PAl	■	2	PCR cleanup on the products, nanodrop 	Sam	Done																										
+9:00 AM	PAl	■	1	Digest 1000ng of CFP_NSC, CFP_SC2 with ApaI and BamHI for 35 min at 37C 	Sam	Done																										
+9:00 AM	PAl	■	2	Column purification of CFP_NSC, CFP_SC2 and nanodrop 	Sam	Done																										
+9:00 AM	PAl	■	1	Digest 2000ng of Hsp104 plasmid X2 with ApaI and BamHI for 2h at 37C 	Sam	Done	Start at 11 40																									
+9:00 AM	PAl	■	2	Gel Extract 8.8kB fragment after running on a gel with guanosine. Other fragment should be 700bp	Sam	Done																										
+9:00 AM	PAl	■	3	Ligate CFP_NSC, SC2 into Hsp104. Use 0.3uL ligase per rxn,100ng of the vector 3:1 insert:vector	Sam	Done																										
+9:00 AM	PAl	■	1	PCR of Cup1 and Gal1 with primers 5&6. Use Patrick's parts and conditions (50uL volumes)	Andres 	Done	In PCR. Done @ 12:17ish																									
+9:00 AM	PAl	■	2	Run products on a 1.2% gel to see if PCR worked - run at 80-100V 	Andres 	Done																										
+9:00 AM	PAl	■	2	PCR cleanup of the products, nanodrop 	Andres 	Done																										
+9:00 AM	PAl	■	2	Digest 2000ng of pXP218 with SphI and SalI X2. Digest for 2h at 37C 	Andres 	Done																										
+9:00 AM	PAl	■	2	Gel extract 6.2kB fragment after running on a gel with guanosine. There should be only 1 band 	Andres 	Done																										
+9:00 AM	PAl	■	2	Digest 1000ng of Cup1 and Gal1 (5&6 primers) with SphI and SalI for 35min at 37C	Andres 	Done																										
+9:00 AM	PAl	■	2	Column purification of Cup1 and Gal1 then nanodrop 	Andres 	Done																										
+9:00 AM	PAl	■	3	Ligate Cup1 and Gal1 into pXP218 and leave at RT for minimum 2h, 0.3uL ligase, 3:1 insert:vector ratio	Andres 	Done																										
+9:00 AM	PAl	■	1	PCR of Gal1 and Adh1 with primers 17&18. Use synthesized parts and 50uL rxn volumes 	Cody	Done	In PCR. Done @ 12:17ish																									
+9:00 AM	PAl	■	2	Run products on a 1.2% gel to see if PCR worked - run at 80-100V 	Cody	Done																										
+9:00 AM	PAl	■	2	PCR cleanup of the products, nanodrop 	Cody	Done																										
+9:00 AM	PAl	■	1	Digest 2000ng of pSB1C3 with EcoRI and PstI, incubate at 37C for 1 hour 	Cody	Done 																										
+9:00 AM	PAl	■	2	Gel extract 2kB fragment after running on a gel with guanosine. Other fragment will be 1kB 	Cody	Done																										
+9:00 AM	PAl	■	1	Digest Adh1 and Gal1 (17&18 primers) with EcoRI and PstI. Incubate at 37C for 35 min	Cody	Done																										
+9:00 AM	PAl	■	2	Column purification of Adh1 and Gal1 then nanodrop 	Cody	Done																										
+9:00 AM	PAl	■	3	Ligate Adh1 and Gal1 into pSB1C3, leave at RT minimum 2h, 0.3uL ligase/rxn. Do 2:1 ratio insert:vector 	Cody	Done																										
+9:00 AM	PAl	■	1	Digest 1000ng of CFP_SC1, CFP_SC2 with ApaI and BamHI for 35 min at 37C 	Max	Done	Use Alicia's PCR products from yesterday 																									
+9:00 AM	PAl	■	2	Column purification of CFP_SC1, CFP_SC2 and nanodrop 	Max	Done																										
+9:00 AM	PAl	■	1	Digest 2000ng of Hsp104 plasmid X2 with ApaI and BamHI for 2h at 37C 	Max	Done																										
+9:00 AM	PAl	■	2	Gel Extract 8.8kB fragment after running on a gel with guanosine. Other fragment should be 700bp	Max	Done																										
+9:00 AM	PAl	■	3	Ligate CFP_NSC, SC1 into Hsp104. Use 0.3uL ligase per rxn,100ng of the vector 3:1 insert:vector	Max	Done																										
+9:00 AM	PAl	■	2	Digest HSP104 plasmid with BamHI and ApaI for 2hrs at 37 degrees	Natasha 	Done 																										
+9:00 AM	PAl	■	2	Gel Extract 8.8kB fragment after running on a gel with guanosine. Other fragment should be 700bp	Austin 	Done 	Peak for DNA at 240 and not 260...will proceed anyway with the ligation																									
+9:00 AM	PAl	■	2	Ligate HSP104 with CFP_NSC/SC1/SC2 and leave O/N at RT 	Austin	Done 																										
+9:00 AM	PAl	■	4	Stuff tip boxes, autoclave, and return to storage.	Cody/Everyone	Done																										
+9:00 AM	PAl	■	4	Clean office and throw out recycling/garbage.	Cody/Everyone	Done																										
+9:00 PM	PAl	■	4	Wash glassware and wipe down bench tops. Clean up the lab (ie. sweep the floor)	Andres, Patrick	Done 																										
+9:00 PM	PAl	■	4	Autoclave new 1.5mL, 2mL, and PCR tubes, then dry oven.	Patrick 	Done 																										
+Tues Aug 23rd, 2016			Alicia will be around today! Woohoo :) 				Comments																									
+Entry Time	C/S	Type	Prio.	Tasks	Sign Up 	Status																										
+9:00 AM	PAl	■	1	cPCR on pSB1C3_Gal1 and pSB1C3_Adh1. Total 6 plates. Primers 19&20	Sam/Max 	Done	Do 10 colonies per plate (60 reactions total)																									
+9:00 AM	PAl	■	2	Run products on a 1% gel at 110V 	Sam/Andres/Max 	Done	^that's a lot																									
+9:00 AM	PAl	■	2	Analysis on gel and determine if we need to send samples for sequencing 	Sam/Andres/Max 	Done																										
+9:00 AM	PAl	■	1	Check if Amp antibiotic is good by doing analysis on streak plates from yesterday 	Vincent 	Done 	The restreaked plates show that Amp worked																									
+9:00 AM	PAl	■	1	Make 10 Amp plates by using last LB agar bottle 	Cody 	Done																										
+9:00 AM	PAl	■	1	Make 2L of LB Agar, put into 200mL bottles, autoclave (10 bottles total) 	Sam	Done	in autoclave																									
+9:00 AM	PAl	■	3	Make 1L of YPGal, 100mL in 5 baffled flasks and then 500mL into bottles 	Sam	Done	in autoclave																									
+9:00 AM	PAl	■	2	Grow 1L of DH5a to OD 0.4/0.5 	Patrick	Done	Start - 8:15am. End - Approx. 3pm																									
+9:00 AM	PAl	■	2	Autoclave 500mL 0.1M CaCl2 and GSA bottles. 	Patrick	Done																										
+9:00 AM	PAl	■	2	Pellet the DH5a and resuspend in 500mL 0.1 MgCl2, then inc. at 4C for >1hr	Patrick	Done																										
+9:00 AM	PAl	■	2	Pellet the DH5a and resuspend in 500mL 0.1 CaCl2, then inc. at 4C o/n.	Patrick	Done																										
+9:00 AM	PAl	■	2	Inoculate Strain 284 into 5mL LB w/ 2.5uL Cm; 5 tubes.	Andres/Cody	Done																										
+9:00 AM	PAl	■	1	PCR of CFP_NSC, CFP_SC1, CFP_SC2. 50uL reaction volumes. Do a -ve control 	Alicia 	Done 																										
+9:00 AM	PAl	■	2	Run products on a 1.2% gel to see if PCR worked - run at 80-100V 	Alicia 	Done 																										
+9:00 AM	PAl	■	2	PCR cleanup on the products, nanodrop 	Alicia 	Done 																										
+9:00 AM	PAl	■	2	Digest 1000ng of CFP_NSC, CFP_SC1, CFP_SC2 with ApaI and BamHI for 35 min at 37C 	Alicia/Max 	Done 																										
+9:00 AM	PAl	■	2	Column purification of CFP_NSC, CFP_SC1, CFP_SC2 and nanodrop 	Vincent 	Done																										
+9:00 AM	PAl	■	2	Digest 2000ng of Hsp104 plasmid X3 with ApaI and BamHI for 2h at 37C 	Alicia 	Done 	3 separate digests 																									
+9:00 AM	PAl	■	2	Gel Extract 8.8kB fragment after running on a gel with guanosine. Other fragment should be 700bp	Alicia/Max 	Done 	Run a diagnostic on other lanes to image and put in lab book 																									
+9:00 AM	PAl	■	1	Miniprep pXP 218 	Austin/Vincent	Done																										
+9:00 AM	PAl	■	2	Digest 2000ng of pXP218 with SphI and SalI X2. Digest for 2h at 37C 	Austin/Vincent	Done	Currently incubating for 2 hours																									
+9:00 AM	PAl	■	2	Gel extract 6.2kB fragment after running on a gel with guanosine. There should be only 1 band 	Max 	Done	Run a diagnostic on other lanes to image and put in lab book (currently being done)																									
+9:00 AM	PAl	■	2	Digest 1000ng of Cup1 and Gal1 (5&6 primers) with SphI and SalI for 35min at 37C	Cody	Done																										
+9:00 AM	PAl	■	2	Column purification of Cup1 and Gal1 then nanodrop 	Andres	Done																										
+9:00 AM	PAl	■	2	Digest 2000ng of pSB1C3 with EcoRI and PstI, incubate at 37C for 35min 	Natasha/ Vincent	Done																										
+9:00 AM	PAl	■	2	Gel extract 2kB fragment after running on a gel with guanosine. Other fragment will be 1kB 	Natasha/ Vincent	Done	Gel extract and diagnostic is running now																									
+9:00 AM	PAl	■	2	Digest Adh1 and Gal1 (17&18 primers) with EcoRI and PstI. Incubate at 37C for 35 min	Emma	Done																										
+9:00 AM	PAl	■	2	Column purification of Adh1 and Gal1 then nanodrop 	Emma	Done																										
+9:00 AM	PAl	■	3	Ligate Adh1 and Gal1 into pSB1C3, leave at RT minimum 2h, 0.3uL ligase/rxn. Do 2:1 ratio insert:vector 	Emma	Done																										
+9:00 AM	PAl	■	1	Streak W303 psi- patch plates onto YPD for single colonies 	Vincent	Done																										
+2:30 PM	PAl	■	4	Transform into a dishwasher and clean glassware in the sink.	Max	Done 																										
+Mon Aug 22nd, 2016			Alicia will be around today! Woohoo :) 				Comments																									
+Entry Time	C/S	Type	Prio.	Tasks	Sign Up 	Status																										
+9:00 AM	PAl	■	1	Miniprep 3mL of G1 and G2 to send for sequencing. Elute in STERILE WATER and wash 4X instead of 2X	Vincent 	Done 																										
+9:00 AM	PAl	■	1	Make frozen stocks of G1 and G2 (CFP-SC2) and update the strain list 	Vincent 	Done																										
+9:00 AM	PAl	■	1	Prepare G1 and G2 samples for sequencing (refer to sequencing sheet)	Vincent 	Done	Please ask Alicia before you do this 																									
+9:00 AM	PAl	■	1	Send order for sequencing before noon 	Alicia 	Done																										
+9:00 AM	PAl	■	2	Design/Order new primers for Gene Retention, ADH1, CFP Biobricks, and pSB1C3 sequencing primers 	Alicia/Emma/Max	Done	GR- Done																									
+9:00 AM	PAl	■	1	Get paper towels from Chem Stores 	Alicia/Patrick 	Done 																										
+9:00 AM	PAl	■	1	Email Stacy Lavery about specifications of the fluorimeter for CFP testing 	Alicia 	Done																										
+9:00 AM	PAl	■	1	Autoclave tubes, wooden sticks in the morning. Use setting 1	Alicia 	Done 	Basket is ready to go																									
+7:30 PM	PAl	■	1	Complete experimental flow for BioBrick improvement of sgRNAs	Patrick	Done																										
+9:00 AM	PAl	■	2	Make 2L of WO media, autoclave, then pour plates 	Alicia/Max/Sam	Done	 																									
+9:00 AM	PAl	■	1	Restreak all old yeast strains in the fridge onto new YPD plates. Label with initials and date.	Natasha/Vincent	Done 	Incubate for 2 days at 30C																									
+9:00 AM	PAl	■	2	Ligate the backbone with CFP_Gal1, CFP-SC1 and CFP-SC2. Leave 2-4h at RT. (Row 4)	Sam 	Done																										
+9:00 AM	PAl	■	2	Ligate the backbone with CFP_Gal1, CFP-SC1 and CFP-SC2. Leave 2-4h at RT. (Row 5)	Cody 	Done																										
+9:00 AM	PAl	■	2	Ligate pSB1C3 with the three inserts. Leave 2-4h at RT.	Max	Done																										
+9:00 AM	PAl	■	2	Ligate pXP218 with Cup1 and Gal1. Leave 2-4h at RT. 	Emma	Done																										
+9:00 AM	PAl	■	3	Transform CFP_NSC, CFP_SC1 and CFP_SC2 into DH5alpha. Antibiotic is Amp (Row 4)	Sam/Andres 	Done	7 Amp plate 																									
+9:00 AM	PAl	■	3	Transform CFP_NSC, CFP_SC1 and CFP_SC2 into DH5alpha. Antibiotic is Amp (Row 5)	Cody 	Done 																										
+9:00 AM	PAl	■	2	Make 20 Amp plates by steaming 2 LB Agar bottles	Max/Sam	Done																										
+9:00 AM	PAl	■	3	Transform Gal1, Cup1, and Adh1 (pSB1C3) into DH5alpha. Antibiotic is Cm	Max	Done 																										
+9:00 AM	PAl	■	3	Transform Gal1, Cup1 (pXP218) into DH5alpha. Antibiotic is Amp 	Emma	Done 	5 Amp plates																									
+9:00 AM	PAl	■	2	Make 20 Cm plates by steaming 2 LB Agar bottles	Max/Sam	Done																										
+9:00 AM	PAl	■	1	PCR of Cup1 and Gal1 with primers 5&6 (50uL reation volumes, Patricks conditions)	Natasha 	Done																										
+9:00 AM	PAl	■	2	Run the products on a 1.2% gel to see if PCR worked 	Natasha 	Done	Did not work, alicia trying again																									
+9:00 AM	PAl	■	2	PCR Cleanup of the products and store at -20C 	Natasha 	Done																										
+4:30 PM	PAl	■	3	PCR of Cup1 and Gal1 with 5&6 (use both Patrick's amplified and synthesized part)	Alicia 	Done 																										
+4:30 PM	PAl	■	3	Run the products on a 1.2% gel to see if PCR worked 	Alicia/Vincent 	Done 	Worked! 																									
+4:30 PM	PAl	■	3	PCR Cleanup of the products, nanodrop, and store at -20C 	Vincent 	Done																										
+9:00 AM	PAl	■	1	Make new amp and test by streaking 2 different cell types on it (pSB1C3 and Hsp104 plasmid) 	Alicia/Vincent	Done																										
+4:30 PM	PAl	■	1	Inoculate DH5a into 5mL LB, no antibiotic. 	Patrick	Done																										
+4:30 PM	PAl	■	2	Autoclave 1L LB in 2L baffled flask, and the rest of the Comp Cell solutions.	Patrick	Done																										
+9:00 AM	PAl	■	2	PCR of Cup1/Gal1/Adh1 with primers 17/18 for pSB1C3	Andres/Sam	Done																										
+9:00 AM	PAl	■	2	Run products on a 1% gel to see if PCR worked 	Andres/Sam	Done																										
+9:00 AM	PAl	■	2	PCR Cleanup of the products and store at -20C - we will digest tomorrow 	Andres/Sam	Done																										
+9:00 AM	PAl	■	1	Inoculate 5X tubes of pXP218. Do a -ve control. Antibiotic is Amp  	Vincent 	Done																										
+Sun Aug 21st, 2016																																
+Entry Time	C/S	Type	Prio.	Tasks	Sign Up 	Status																										
+4:00 PM	PAl	■	2	Design new construct plans for biobricking CFP-Gal1 and for Gene Retention 	Alicia/Vincent 	Done 																										
+4:00 PM	PAl	■	1	Inoculate G1 and G2 from the CFP_SC2 PCR plates for miniprepping and sequencing tomorrow 	Vincent 	Done 																										
+4:00 PM	PAl	■	1	Make a sequencing spreadsheet and prepare the order for tomorrow (except for miniprepping) 	Alicia 	Done 																										
+Fr Aug 19th, 2016 		Crunch Week 1: Slow Day, both Alicia and Patrick are AFK mostly. De-prioritize batches; prioritize side-projects.					Comments																									
+Entry Time	C/S	Type	Prio.	Tasks	Sign Up 	Status																										
+9:00 AM	PAl	■	2	Ligate the backbone with CFP_Gal1, CFP-SC1 and CFP-SC2. Leave o/n at RT.	Emma	Pending																										
+9:00 AM	PAl	■	2	Ligate pSB1C3 with the three inserts. Leave o/n at RT.	Emma	Pending																										
+9:00 AM	PAl	■	3	PCR Gal1 and Cup1 using primers 5&6.	Andres/Sam	Pending	50uL rxn volumes each.																									
+9:00 AM	PAl	■	3	Run the products on a 1.2% gel 	Andres/Sam	Pending																										
+9:00 AM	PAl	■	4	PCR clean-up of the 2 inserts, then nanodrop.	Andres/Sam	Pending																										
+9:00 AM	PAI	■	1	Re-run some CFP cPCR samples from yesterday on a 1% gel, check lab book to see which samples	Adrian	Done																										
+9:00 AM	PAl	■	1	Make frozen stock with 1mL G9-inoculant using 40% Glycerol; label as Strain 393, and add to iGEM Box 6	Vincent	Done																										
+9:00 AM	PAl	■	1	Miniprep inoculants 389-393 into sterile MilliQ, then nanodrop.	Gareth & Austin	Done																										
+9:00 AM	PAl	■	2	Digest the miniprepped 393 w/ E and P (~250ng)	Vincent	Done																										
+9:00 AM	PAl	■	2	Diagnostic gel on the digested 393t. Determine if we truely have the insert around 1.5kb	Vincent	Done	Results Book 1 page 122 																									
+9:00 AM	PAI	■	1	Make a sequencing sheet for everyone to use and determine when to send stuff for sequencing.	Alicia 	Done																										
+9:00 AM	PAI	■	1	Prepare miniprepped samples for sending for sequencing 	Andres/Emma	Dne																										
+9:00 AM	PAl	■	4	Establish a protocol for sgRNA-Main RFP experimetns with flow cytometer. 	Patrick	In progress																										
+Th Aug 18th, 2016 		Crunch Week 1: Slow Day, both Alicia and Patrick are AFK mostly. De-prioritize batches; prioritize side-projects.					Comments																									
+Entry Time	C/S	Type	Prio.	Tasks	Sign Up 	Status																										
+9:00 AM	PAl	■	2	Ligate the backbone with CFP_Gal1, CFP-SC1 and CFP-SC2. Leave o/n at RT.	Andres/Sam	Pending	*We will resume this when stuff comes in*																									
+9:00 AM	PAl	■	2	Ligate pSB1C3 with the three inserts. Leave o/n at RT.	Andres/Sam	Pending																										
+9:00 AM	PAl	■	3	PCR Gal1 and Cup1 using primers 5&6.	Andres/Sam	Pending	50uL rxn volumes each.																									
+9:00 AM	PAl	■	3	Run the products on a 1.2% gel 	Andres/Sam	Pending																										
+9:00 AM	PAl	■	4	PCR clean-up of the 2 inserts, then nanodrop.	Andres/Sam	Pending																										
+9:00 AM	AvD	■	1	Run ADH1 [Batch2] products from yesterday on a 1% gel	Adrian	Done	Make sure you are clear what you are putting where, there are alot of products and it could be easy to get confused																									
+9:00 AM	PAl	■	1	Run pSB1C3 cPCR products of ADH1/Gal1 on a 1% gel.	Max/Austin/Cody	Done	Alicia entered these b/c I know Max and Austin did the cPCR .																									
+9:00 AM	PAl	■	1	Make frozen stock with 1mL G9-inoculant using 40% Glycerol; label as Strain 393, and add to iGEM Box 6	Vincent	Done 																										
+9:00 AM	PAl	■	1	Inoculate Strain 389, 390, 391, 392 and 393 into 5mL LB + 2.5uL Cm each. Inc. o/n 37C.	Max	Done	Update the Strain List accordingly; these are for sequencing on Friday.																									
+9:00 AM	PAl	■	2	Miniprep 4mL G9-inoculant of pSB1C3-Gal [Batch2]	Vincent	Done																										
+9:00 AM	PAl	■	2	Digest the miniprepped G9-inoculant of pSB1C3 w/ E and P (~250ng)	Vincent	Pending																										
+9:00 AM	PAl	■	2	Diagnostic gel on the digested G9-inoculant. Determine if we truely have the insert around 1.5kb	Vincent	Pending																										
+9:00 AM	PAI	■	1	Make a sequencing sheet for everyone to use and determine when to send stuff for sequencing.	Alicia 	Pending																										
+9:00 AM	PAl	■	4	Establish a protocol for sgRNA-Main RFP experimetns with flow cytometer. 	Patrick	Pending																										
+We Aug 17th, 2016 		Crunch Week 1: Please do things in parallel. Check the notes to determine the Batch # and check the notes/comments for further directions.					Comments																									
+Entry Time	C/S	Type	Prio.	Tasks	Sign Up 	Status																										
+9:00 AM	PAl	■	1	Check if Transformation for Track A Batch 2/3 Worked - CFP NSC/SC1/SC2	Austin/Sam	Done	Determine if cPCR is necessary | THEY WORKED!!!!!!!!!																									
+9:00 AM	PAl	■	1	Check if Transformation for Track C pSB1C3 (Biobricks) worked 	Austin/Sam	Done	Determine if cPCR is necessary | THEY WORKED!!!!!!!!!																									
+9:00 AM	PAl	■	1	Check if Transformation for Track C pXP218 (Testing Plasmids) worked 	Austin/Sam	Done	Determine if cPCR is necessary | THEY WORKED!!!!!!!!! BUT THERE'S SOOO MUCH GROWTH :'(																									
+9:00 AM	PAl	■	1	Nanodrop the PCR products from the CFP reactions yesterday 	Austin 	Done	Numbers look great! Two of them in the mid-300s and one of them in the mid-100s																									
+9:00 AM	PAl	■	2	Digest CFP_Gal1, CFP-SC1 and CFP-SC2 w/ ApaI and BamHI, using up to 2000ng of DNA if possible.	Sam	Done																										
+9:00 AM	PAl	■	2	Digest 4000ng of Hsp104 with BamHI and ApaI, use different reaction tubes.	Sam	Done																										
+9:00 AM	PAl	■	3	Column purify the three digested CFP fragments, then nanodrop.	Sam	Done																										
+9:00 AM	PAl	■	3	Gel extract the Hsp104 backbone, then nanodrop.	Sam	Done																										
+9:00 AM	PAl	■	4	Ligate the backbone with CFP_Gal1, CFP-SC1 and CFP-SC2. Leave o/n at RT.		Pending																										
+9:00 AM	PAl	■	3	Ligate pSB1C3 with the three inserts. Leave o/n at RT.		Pending	Ligase should come in today																									
+9:00 AM	PAI	■	1	PCR Gal1, Cup1 using primers 5&6		Pending	1 50ul reaction for each + 25ul control (is there no Q5?)																									
+9:00 AM	PAl	■	1	Miniprep G8 from the Inoculation yesterday then nanodrop 	Petr	Done																										
+9:00 AM	PAl	■	2	Digest 500ng of G8 with XbaI and PstI for a diagnostic digest - 	Pter	Done	Use pSB1C3 as the control (empty plasmid strain 111)																									
+9:00 AM	PAl	■	2	Run products on a 1.2% gel to determine if the Gal1 insert is actually there! 	Eter	Done	Smears, didn't cut in the spots we wanted. Even the no enzyme control had more than one band.																									
+9:00 AM	PAl	■	2	Inoculate G9 from the Patch Plate of pSB1C3-Gal1 [Batch2] into LB w/ 2.5uL Cm	Vincent	Done																										
+9:00 AM	PAI	■	1	Organize Freezer 	Adrian	Done																										
+9:00 AM	PAI	■	1	cPCR on CFP-NSC, CFP-SC1 and CFP SC-2. There are 3 plates of each. Use primers 15&16	Adrian, Andres	Done																										
+9:00 AM	PAI	■	1	cPCR on CFP-NSC, CFP-SC1 and CFP SC-2. There are 3 plates of each. Use primers 15&16	Andres, Cody, Vincent	Done	For now, take 6 colonies per plate (6x9 plates is 54 colonies) OMG 																									
+9:00 AM	PAI	■	1	cPCR on pSB1C3-ADH1/Gal1 w/ primers 19/20	Austin, Max	Done	6 colonies/ plate. Protocol: https://drive.google.com/file/d/0B73zNmSnHkRfWVp6b1ZuOWMwWmc/view?usp=sharing																									
+9:00 AM	PAI	■	1	cPCR on pXP218-Cup1/Gal1 w/ primers 14/15	No one.	Pending	6 colonies/ plate.																									
+9:00 AM	PAl	■	2	Inoculate G9 from the Patch Plate of pSB1C3-Gal1 [Batch2] into LB w/ 2.5uL Cm	Vincent	Done																										
+9:00 AM	PAl	■	2	Run products on a 1% gel at 110V for 45min-1hours on the cPCRs	Adrian/Andres	Done																										
+9:00 AM	PAl	■	2	Analyze gel to determine if any of these experiments worked! 	Adrian/Andres	Done																										
+9:00 AM	PAI	■	1	Make a sequencing sheet for everyone to use and determine when to send stuff for sequencing.	Alicia 	Pending																										
+9:00 AM	PAl	■	n/a	Establish a protocol for sgRNA-Main RFP experimetns with flow cytometer. 	Patrick	Pending	For gold requirement.																									
+Tu Aug 16th, 2016 		Crunch Week 1: Please do things in parallel. Check the notes to determine the Batch # and check the notes/comments for further directions.					Comments																									
+Entry Time	C/S	Type	Prio.	Tasks	Sign Up 	Status																										
+9:00 AM	PAl	■	1	PCR amplify CFP-NSC, CFP-SC1, and CFP-SC2.	Ayan	Done	Use recipes from before; check lab book. 50uL rxns each using GoTaqMM. 																									
+9:00 AM	PAl	■	2	Diagnostic 1.2% gel of the amplified products. 	Adrian	Done	made gel, can be found in small blue gel doc (Marc) ~Ayan																									
+9:00 AM	PAl	■	2	PCR clean-up of the three CFP inserts, then nanodrop.	Adrian	Done	Nanodrop tomorrow																									
+9:00 AM	PAl	■	1	Transform Track A ligation products (NSC/SC1/SC2) from Aug15 onto Amp plates.	Adrian	Done	Check to make sure you have enough plates. If not, notify Adrian to add to Task List, then make more.																									
+9:00 AM	PAl	■	1	Transform Track C pSB1C3 ligation products (ADH1/Cup1) from Aug15 onto Cm plates.	Adrian	Done																										
+9:00 AM	PAl	■	1	Transform Track C pXP218 ligation products (Gal1/Cup1) from Aug15 onto Amp plates.	Sam	Done																										
+9:00 AM	PAl	■	2	Digest CFP_Gal1, CFP-SC1 and CFP-SC2 w/ ApaI and BamHI, using up to 4000ng of DNA if possible.		Pending	These are huge amounts of DNA, if you don't have enough of anything, consult the leads or Adrian.																									
+9:00 AM	PAl	■	2	Digest 6000ng of Hsp104 with BamHI and ApaI, use different reaction tubes.		Pending																										
+9:00 AM	PAl	■	3	Column purify the three digested CFP fragments, then nanodrop.		Pending																										
+9:00 AM	PAl	■	3	Gel extract the Hsp104 backbone, then nanodrop.		Pending																										
+9:00 AM	PAl	■	4	Ligate the backbone with CFP_Gal1, CFP-SC1 and CFP-SC2. Leave o/n at RT.		Pending																										
+9:00 AM	PAl	■	1	Digest pSB1C3, ADH1, Gal1 and Cup1 w/ EcoRI and PstI, up to 2000ng if possible. 	Sam & Vincent	Done	We don't have any more PCRed Cup 1 so... this will have to be done later. Also, ADH1 and Gal1 digests were done with 1500 ng due to low yeild **correction: we do have Cup1 and Adrian has retrieved it ~Ayan																									
+9:00 AM	PAl	■	2	Column purify the three digested inserts, then nanodrop.	Sam	Done																										
+9:00 AM	PAl	■	2	Gel extract the 2kb fragment of pSB1C3, then nanodrop.	Sam	Done																										
+9:00 AM	PAl	■	3	Ligate pSB1C3 with the three inserts. Leave o/n at RT.	Andres/Sam	Pending	Ligase needs to be ordered for the lab...use Patrick's in the meantime. | There's no ligase so I froze the digest cleanup for the future (In Squad C box)																									
+10:30 AM	PAI	■	1	PCR Gal1, Cup1 using primers 5&6		Pending	1 50ul reaction for each + 25ul control (is there no Q5?)																									
+9:00 AM	PAl	■	1	Digest pXP218, Gal1, and Cup1 w/ SalI and SphI, up to 2000ng if possible. 	Austin & Vincent	Done																										
+9:00 AM	PAl	■	2	Column purify the two inserts, then nanodrop.	Austin & Vincent	Done																										
+9:00 AM	PAl	■	2	Gel extract the larger fragment of pXP218 once ran on a 1.2% gel, then nanodrop.	Austin & Vincent	Done	You should only see one fragment, the second fragment is 15bp and it will run off the gel																									
+9:00 AM	PAl	■	3	Ligate pXP218 with the two inserts. Leave o/n at RT.	Austin & Vincent	Pending	Tomorrow morning once we get more ligase in the lab																									
+9:00 AM	PAl	■	2	Inoculate G8 from the Patch Plate of pSB1C3-Gal1 [Batch2] into LB w/ 2.5uL Cm	Gareth	Done																										
+2:00 PM	PAI	■	1	Organize freezer	Adrian	Pending	Tomorrow morning																									
+9:00 AM	PAl	■	n/a	Establish a protocol for Sup35:GFP measurements for gene retention with flow cytometry.	Alicia	Done	For MM collaboration.																									
+9:00 AM	PAl	■	n/a	Establish a protocol for sgRNA-Main RFP experimetns with flow cytometer. 	Patrick	Pending	For gold requirement.																									
+Mo Aug 15th, 2016 		Crunch Week 1: Please do things in parallel. Check the notes to determine the Batch # and check the notes/comments for further directions.					Comments																									
+Entry Time	C/S	Type	Prio.	Tasks	Sign Up 	Status																										
+9:00 AM	PAl	■	1	URGENT: Check the transformants from Aug12 transformation of TrackA Batch1/2 of the CFP-Gal1/SC1/SC2	Sam	Done	Ran cPCRs																									
+9:00 AM	PAl	■	1	URGENT: Check the transformants from Aug13 transformation of TrackC Batch1 of the Gal1/Cup1 in pXP218	Sam	Done																										
+9:00 AM	PAl	■	1	PCR amplify ADH1, Gal1, and Cup1 with 17 and 18.	Ayan	Done	Use Patrick's amplified products for this w/ Q5, 50uL rxns each and a 20uL total volume -ve ctrl.																									
+11:00 AM	PAI	■	1	Make new working stock of primers 17&18	Adrian	Done																										
+9:00 AM	PAl	■	1	PCR amplify ADH1, Gal1, and Cup1 with 5 and 6.	Ayan	Done	You can use the same cycles for both of these amplifactions, theoretically.																									
+9:00 AM	PAl	■	2	Run the products on a 1.2% gel 	Ayan	Done	All 6 samples amplified 																									
+9:00 AM	PAl	■	2	PCR clean-up of the six inserts, then nanodrop.	Gareth	Done 	Please label the tubes neatly.																									
+9:00 AM	PAl	■	2	Analyze transformants of pSB1C3-Gal1/-Cup1 and determine if cPCR is appropriate.	Patrick	Done	Proceed with cPCR																									
+9:00 AM	PAl	■	2	Analyze transformants of CFP-Gal1/-SC1/-SC2 and determine if cPCR is appropriate.	Patrick	Done	No growth.																									
+9:00 AM	PAl	■	1	Digest CFP_Gal1, CFP-SC1 and CFP-SC2 w/ ApaI and BamHI, using up to 4000ng of DNA if possible.	Adrian	Done																										
+9:00 AM	PAl	■	1	Digest 6000ng of Hsp104 with BamHI and ApaI, use different reaction tubes.	Adrian	Done	These are huge amounts of DNA, if you don't have enough of anything, consult the leads or Adrian.																									
+9:00 AM	PAl	■	2	Column purify the three digested CFP fragments, then nanodrop.	Adrian	Done																										
+9:00 AM	PAl	■	2	Gel extract the Hsp104 backbone, then nanodrop.	Adrian	Done																										
+9:00 AM	PAl	■	3	Ligate the backbone with CFP_Gal1, CFP-SC1 and CFP-SC2. Leave o/n at RT.	Adrian	Done																										
+9:00 AM	PAl	■	1	Digest pSB1C3, ADH1, and Cup1 w/ EcoRI and PstI, up to 2000ng if possible. 	Austin	Done	You may choose to use already digested fragments if they exist. Notify leads or adrian if you do.																									
+9:00 AM	PAl	■	2	Column purify the three digested inserts, then nanodrop.	Austin	Done	Yield was not as good for the Cup1 than the other two plasmids...see lab book for more details																									
+9:00 AM	PAl	■	2	Gel extract the 2kb fragment of pSB1C3, then nanodrop.	Austin	Done																										
+9:00 AM	PAl	■	3	Ligate pSB1C3 with the three inserts. Leave o/n at RT.	Adrian	Done																										
+9:00 AM	PAl	■	1	Digest pXP218, Gal1, and Cup1 w/ SalI and SphI, up to 2000ng if possible. 	Sam	Done	You may choose to use already digested fragments if they exist. Notify leads or adrian if you do.																									
+9:00 AM	PAl	■	2	Column purify the two inserts, then nanodrop.	Sam	Done																										
+9:00 AM	PAl	■	2	Gel extract the larger fragment of pXP218 once ran on a 1.2% gel, then nanodrop.	Sam	Done																										
+9:00 AM	PAl	■	3	Ligate pXP218 with the two inserts. Leave o/n at RT.	Sam	Done																										
+9:00 AM	PAl	■	1	Colony PCR on Transformation plate of pSB1C3_ADH1 fragment. Pick 10+ colonies. Use primers 19&20.	Gareth	Done	Just use me GoTaqMM for this one until we get our own. - Pat, original plates in fridge and new plate in 37 C																									
+9:00 AM	PAl	■	2	Run a gel 1% on all 10 products and controls (controls are empty plasmid and no DNA)	Patrick	Done																										
+9:00 AM	PAl	■	2	Analyze gel and Determine if ADH1-GFP got into pSB1C3 backbone	Patrick	Done	Nope																									
+9:00 AM	PAl	■	1	Colony PCR on Transformation plate of pSB1C3_Gal1 fragment. Pick 10+ colonies. Use primers 19&20.	Gareth	Done	Just use me GoTaqMM for this one until we get our own. - Pat, original plates in fridge and new plate in 37 C																									
+9:00 AM	PAl	■	2	Run a gel 1% on all 10 products and controls (controls are empty plasmid and no DNA)	Patrick	Done																										
+9:00 AM	PAl	■	2	Analyze gel and Determine if GAL1-GFP got into pSB1C3 backbone	Patrick	Done	Might've gotten one construct, but will re-test tomorrow.																									
+9:00 AM	PAI	■	4	Wash glassware	Adrian	Done																										
+11:00 PM	ADV	■	4	Fill 10uL tip boxes (x12) only to discover the autoclave was shut down for the week.	Adrian and Patrick	Done	kind of																									
+9:00 AM	PAl	■	n/a	Establish a protocol for Sup35:GFP measurements for gene retention with flow cytometry.	Alicia	Pending	For MM collaboration.																									
+9:00 AM	PAl	■	n/a	Establish a protocol for sgRNA-Main RFP experimetns with flow cytometer. 	Patrick	Pending	For gold requirement.																									
+Su Aug 14th, 2016 		Daily Summary: I'll be in the lab from 4 onwards, but there are only the transformation to do, I will see anyone who is coming in on Monday -Adrian					Comments																									
+Entry Time	C/S	Type	Prio.	Tasks	Sign Up 	Status																										
+4:00 PM	AVD	■	1	Make Amp plates if required for transformation	Adrian	Done	How many did you make of each? - Pat																									
+4:00 PM	AVD	■	1	Make Cm plates if required for transformation	Adrian	Done																										
+4:00 PM	PAl	■	1	Transform Hsp104_NoStop, SC1 and SC2 as well as controles into E. coli, plate on Amp	Adrian	Done	No growth, did not work																									
+4:00 PM	PAl	■	1	Transform pSB1C3_ADH1 and pSB1C3_Gal1 as well as controls into E. coli, plate on Cm	Adrian	Done																										
+4:00 PM	PAl	■	1	Colony PCR on Transformation plate of pSB1C3_ADH1 fragment. Pick 10+ colonies. Use primers 19&20.		Pause	Need a cheap Master Mix that's not Q5.																									
+4:00 PM	PAl	■	2	Run a gel 1% on all 10 products and controls (controls are empty plasmid and no DNA)		Pause																										
+4:00 PM	PAl	■	2	Analyze gel and Determine if ADH1-GFP got into pSB1C3 backbone		Pause																										
+4:00 PM	PAl	■	1	Colony PCR on Transformation plate of pSB1C3_Gal1 fragment. Pick 10+ colonies. Use primers 19&20.		Pause	Need a cheap Master Mix that's not Q5.																									
+4:00 PM	PAl	■	2	Run a gel 1% on all 10 products and controls (controls are empty plasmid and no DNA)		Pause																										
+4:00 PM	PAl	■	2	Analyze gel and Determine if GAL1-GFP got into pSB1C3 backbone		Pause																										
+4:00 PM	PAI	■	4	Wash glassware		Pending																										
+4:00 PM	PAl	■	n/a	Establish a protocol for Sup35:GFP measurements for gene retention with flow cytometry.	Alicia	Pending	For MM collaboration.																									
+4:00 PM	PAl	■	n/a	Establish a protocol for sgRNA-Main RFP experimetns with flow cytometer. 	Patrick	Pending	For gold requirement.																									
+Sa Aug 13th, 2016 		Reminder: It's crunch time; please do things in parallel. Check the notes to determine the Batch # and other info. Slow day.					Comments																									
+Entry Time	C/S	Type	Prio.	Tasks	Sign Up 	Status																										
+11:00 AM	PAl	■	1	PCR amplify CFP-Gal1, CFP-SC1, and CFP-SC2.	Patrick	Done	Use a 50uL rxn volume x2 based off of Adrian's recipe on Aug 10th.																									
+11:00 AM	PAl	■	2	Run the products on a 1.2% gel 	Adrian/Patrick	Done																										
+11:00 AM	PAl	■	2	PCR clean-up of the three CFP inserts, then nanodrop.	Patrick	Done																										
+11:00 AM	PAl	■	1	Digest CFP_Gal1, CFP-SC1 and CFP-SC2 w/ ApaI and BamHI, using up to 4000ng of DNA if possible.	Sam	Done	Check if we have enough DNA from the PCR amplification to even do this again. If not, wait till another PCR-ampl. is done.																									
+11:00 AM	PAl	■	2	Column purify the three digested CFP fragments, then nanodrop.	Sam	Done																										
+11:00 AM	PAl	■	2	Digest 6000ng of Hsp104 with BamHI and ApaI, use different reaction tubes.	Sam	Done	Great job boys. - Pat																									
+11:00 AM	PAl	■	2	Gel extract the Hsp104 backbone, then nanodrop.	Sam/Adrian	Done																										
+11:00 AM	PAl	■	3	Ligate the backbone with CFP_Gal1, CFP-SC1 and CFP-SC2. Leave o/n at RT.	Adrian	Done																										
+11:00 AM	PAl	■	1	Digest pSB1C3, ADH1 andGal1 w/ EcoRI and PstI, up to 2000ng if possible. 	Adrian	Done	For biobricking 																									
+11:00 AM	PAl	■	2	Column purify the two digested inserts, then nanodrop.	Adrian	Done																										
+11:00 AM	PAl	■	2	Gel extract the 2kb fragment of pSB1C3, then nanodrop.	Adrian	Done																										
+11:00 AM	PAl	■	3	Ligate pSB1C3 with the three inserts. Leave o/n at RT.	Adrian	Done																										
+11:00 AM	PAI	■	1	Make working primer tubes for primers 19&20, see primer list (these are from 2014)	Adrian	Done																										
+11:00 AM	PAl	■	1	Colony PCR on Transformation plate of pSB1C3_ADH1 fragment. Pick 10+ colonies. Use primers 19&20.		Pause	Need a cheap Master Mix that's not Q5.																									
+11:00 AM	PAl	■	2	Run a gel 1% on all 10 products and controls (controls are empty plasmid and no DNA)		Pending																										
+11:00 AM	PAl	■	2	Analyze gel and Determine if ADH1-GFP got into pSB1C3 backbone		Pending																										
+11:00 AM	PAl	■	1	Colony PCR on Transformation plate of pSB1C3_Gal1 fragment. Pick 10+ colonies. Use primers 19&20.		Pause	Need a cheap Master Mix that's not Q5.																									
+11:00 AM	PAl	■	2	Run a gel 1% on all 10 products and controls (controls are empty plasmid and no DNA)		Pending																										
+11:00 AM	PAl	■	2	Analyze gel and Determine if GAL1-GFP got into pSB1C3 backbone		Pending																										
+1:00 PM	PAl	■	1	Transform the ligation products of pXP218 and Cup1/ Gal1.	Sam	Done																										
+1:00 PM	PAI	■	4	Wash glassware		Pending																										
+11:00 AM	PAl	■	n/a	Establish a protocol for Sup35:GFP measurements for gene retention with flow cytometry.	Alicia	Pending	For MM collaboration.																									
+11:00 AM	PAl	■	n/a	Establish a protocol for sgRNA-Main RFP experimetns with flow cytometer. 	Patrick	Pending	For gold requirement.																									
+Fr Aug 12th, 2016 		Reminder: It's crunch time; please do things in parallel. Check the notes to determine the Batch # and other info. Throw-out gels when you're done w/ them.					Comments																									
+Entry Time	C/S	Type	Prio.	Tasks	Sign Up 	Status																										
+9:00 AM	PAl	■	1	PCR amplify CFP-Gal1, CFP-SC1, and CFP-SC2.	Alicia/Max	Done	Use a 50uL rxn volume x2 based off of Adrian's recipe on Aug 10th.																									
+9:00 AM	PAl	■	2	Run the products on a 1.2% gel 	Alicia	Done																										
+9:00 AM	PAl	■	2	PCR clean-up of the three CFP inserts, then nanodrop.	Alicia	Done																										
+9:00 AM	PAl	■	1	Transform the ligation products of CFP-Gal1/-SC1/-SC2.	Adrian	Done	Have enough plates poured before you start this.																									AHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH!!!!!!!!!!!!!!!!!!!!!!!!!!  FUCK THIS MOTHER FUCKING ENZYME/PLASMID
+9:00 AM	PAl	■	2	Digest CFP_Gal1, CFP-SC1 and CFP-SC2 w/ ApaI and BamHI, using up to 4000ng of DNA if possible.		Pending	Check if we have enough DNA from the PCR amplification to even do this again. If not, wait till another PCR-ampl. is done.																									
+9:00 AM	PAl	■	2	Column purify the three digested CFP fragments, then nanodrop.		Pending																										
+9:00 AM	PAl	■	2	Digest 6000ng of Hsp104 with BamHI and ApaI, use different reaction tubes.		Pending																										
+9:00 AM	PAl	■	2	Gel extract the Hsp104 backbone, then nanodrop.		Pending																										
+9:00 AM	PAl	■	3	Ligate the backbone with CFP_Gal1, CFP-SC1 and CFP-SC2. Leave o/n at RT.		Pending																										
+9:00 AM	PAl	■	1	Make 20 Amp plates (200uL Amp/ LB-Agar bottle).	Patrick/Alicia 	Done	2 LB-Agar bottles are in the steamer, someone pour the plates after adding Amp.																									
+9:00 AM	PAl	■	1	Run 1% diagnostic on pSB1C3-Gal1 digested product.	Max	Done	In fridge, taped against the door.																									
+9:00 AM	PAl	■	1	PCR amplify Patrick's Gal1 and Cup1 using exact same recipe & conditions as ADH1.	Patrick	Done	iGEM Thermocycler; it finishes around 11AM.																									
+9:00 AM	PAl	■	2	Run a 1.2% diagnostic gel on the PCR products above. 80V, 45mins is enough,	Max	Done																										
+9:00 AM	PAl	■	2	PCR Clean-up of the Gal1/Cup1 amplification products according to gel results, then nanodrop.	Max	Done																										
+9:00 AM	PAl	■	3	Digest pSB1C3, ADH1 andGal1 w/ EcoRI and PstI, up to 2000ng if possible. 		Pending	For biobricking 																									
+9:00 AM	PAl	■	3	Column purify the three digested inserts, then nanodrop.		Pending																										
+9:00 AM	PAl	■	3	Gel extract the 2kb fragment of pSB1C3, then nanodrop.		Pending																										
+9:00 AM	PAl	■	4	Ligate pSB1C3 with the three inserts. Leave o/n at RT.		Pending																										
+9:00 AM	PAl	■	1	Digest pXP218 with SalI and SphI, up to 2000ng if possible. 	Natasha	Done 																										
+9:00 AM	PAl	■	1	Digest Cup1 and Gal1 w/SalI and SphI, 1500ng 	Max/Sam	Done 																										
+9:00 AM	PAl	■	2	Column purify Gal1, then nanodrop.	Sam	Done 	Digesting Cup1 and Gal1 only 1500 ng																									
+9:00 AM	PAl	■	2	Gel extract the larger fragment of pXP218 once ran on a 1.2% gel, then nanodrop.	Natasha/Adrian	Done 																										
+9:00 AM	PAl	■	3	Ligate pXP218 with the two inserts. Leave o/n at RT.	Sam	Done																										
+9:00 AM	PAl	■	1	Colony PCR on Transformation plate of ADH1 fragment. Pick 10 colonies. Use primers 15&16.	Alicia 	Done	Protocol: https://drive.google.com/file/d/0B73zNmSnHkRfWVp6b1ZuOWMwWmc/view?usp=sharing																									
+9:00 AM	PAl	■	2	Run a gel 1.2% 80V on all 10 products and control 	Alicia 	Done																										
+9:00 AM	PAl	■	2	Analyze gel and Determine if ADH1-GFP got into pXP backbone	Alicia 	Done																										
+9:00 AM	PAl	■	1	Make frozen stock of the four pSB1C3-Cup1 cultures in the 37C incubator. 	Adrian	Done	500uL Culture + 500uL of 40% Glycerol																									
+9:00 AM	PAl	■	2	Miniprep approximately 3mL from each of those cultures into MilliQ, then nanodrop.	--	Pending	Notify Alicia when you're done so she get prepare sequencing order forms. 																									
+3:00 PM	PAI	■	2	Fill 200ul tip boxes	Sam	Done																										
+3:00 PM	PAI	■	2	Make working primer tubes for primers 19&20, see primer list (these are from 2014)		Pending																										
+3:00 PM	PAl	■	2	Colony PCR on Transformation plate of pSB1C3_ADH1 fragment. Pick 10+ colonies. Use primers 19&20.		Pending																										
+3:00 PM	PAl	■	2	Run a gel 1% on all 10 products and controls (controls are empty plasmid and no DNA)		Pending																										
+3:00 PM	PAl	■	2	Analyze gel and Determine if ADH1-GFP got into pSB1C3 backbone		Pending																										
+4:00 PM	PAl	■	2	Colony PCR on Transformation plate of pSB1C3_Gal1 fragment. Pick 10+ colonies. Use primers 19&20.		Pending																										
+4:00 PM	PAl	■	2	Run a gel 1% on all 10 products and controls (controls are empty plasmid and no DNA)		Pending																										
+4:00 PM	PAl	■	2	Analyze gel and Determine if GAL1-GFP got into pSB1C3 backbone		Pending																										
+9:00 AM	PAl	■	n/a	Establish a protocol for Sup35:GFP measurements for gene retention with flow cytometry.	Alicia	meep	For MM collaboration.																									
+9:00 AM	PAl	■	n/a	Establish a protocol for sgRNA-Main RFP experimetns with flow cytometer. 	Patrick	meeo	For gold requirement.																									
+Th Aug 11th, 2016 		Daily Summary:  Plentiful.					Comments																									
+Entry Time	C/S	Type	Prio.	Task	Sign Up 	Status																										
+9:00 AM	AlP	■	1	PCR Clean-up of Peter's amplified CFP-SC1 and CFP-SC2, then nanodrop.	Adrian	Done																										
+9:00 AM	AlP	■	2	Digest CFP_Gal1, CFP-SC1 and CFP-SC2 w/ ApaI and BamHI, using up to 4000ng of DNA if possible.	Emma	Done																										
+9:00 AM	AlP	■	2	Column purify the three digested CFP fragments, then nanodrop.	Emma	Done																										
+9:00 AM	A/P	■	2	Digest 6000ng of Hsp104 with BamHI and ApaI, use different reaction tubes.	Adrian	Done																										
+9:00 AM	AlP	■	2	Gel extract the Hsp104 backbone, then nanodrop.	Natasha	Done																										
+9:00 AM	AlP	■	3	Ligate the backbone with CFP_Gal1, CFP-SC1 and CFP-SC2. Leave o/n at RT.	Emma	Done																										
+9:00 AM	AlP	■	1	Digest 200ng of pSB-Gal1 using EcoRI and PstI	Natasha	Done																										
+9:00 AM	AlP	■	2	Run diagnostic digest of pSB-Gal1 on 1% agarose gel, 1ul sample, 4 water, 2 dye. Use gel red.		Pending																										
+9:00 AM	AlP	■	1	PCR Clean-up of Patrick's Gal1 and Cup1, then nanodrop.	Adrian	Done	They're in the pink tray in the freezer labelled "G" and "C." 																									
+9:00 AM	AlP	■	1	PCR amplify Patrick's Gal1 and Cup1 using exact same recipe & conditions as ADH1.	Patrick	Pending	Check the lab book. Use Q5 MM, and GoTaq MM from my lab (talk to Patrick).																									
+9:00 AM	AlP	■	2	Run a 1.2% diagnostic gel on the PCR products above. 80V, 45mins is enough,		Pending																										
+9:00 AM	AlP	■	2	PCR Clean-up of the Gal1/Cup1 amplification products according to gel results, then nanodrop.		Pending																										
+9:00 AM	AlP	■	2	Digest pSB1C3, ADH1, Gal1, and Cup1 w/ EcoRI and PstI, up to 2000ng if possible. 		Pending																										
+9:00 AM	AlP	■	3	Column purify the three digested inserts, then nanodrop.		Pending																										
+9:00 AM	AlP	■	3	Gel extract the 2kb fragment of pSB1C3, then nanodrop.		Pending	Strain111 Miniprep is your source of pSB1C3 (has RFP inside it).																									
+9:00 AM	AlP	■	4	Ligate pSB1C3 with the three inserts. Leave o/n at RT.		Pending																										
+9:00 AM	AlP	■	2	Digest pXP218, Gal1, and Cup1 w/ SalI and SphI, up to 2000ng if possible. 		Pending	Did we permanently switch SphI to BamHI for all of them now? - pat																									
+9:00 AM	AlP	■	3	Column purify the two inserts, then nanodrop.		Pending																										
+9:00 AM	AlP	■	3	Gel extract the larger fragment of pXP218 once ran on a 1.2% gel, then nanodrop.		Pending																										
+9:00 AM	AlP	■	4	Ligate pXP218 with the two inserts. Leave o/n at RT.		Pending																										
+9:00 AM	AlP	■	1	Colony PCR on Transformation plate of ADH1 fragment. Pick 10 colonies. Use primers 15&16.		Pending	Let's avoid delaying this cause the tranformants are already there.																									
+9:00 AM	AlP	■	2	Run a gel 1.2% 80V on all 10 products and control 		Pending																										
+9:00 AM	AlP	■	2	Analyze gel and Determine if ADH1-GFP got into pXP backbone		Pending																										
+9:00 AM	AlP	■	4	Organize freezer/ working boxes. 	Adrian	Pending	Cup1 not okay for BamHI 																									
+9:00 AM	AlP	■	2	Design new primers for amplification of ADH1, CUP1, and GAL1 into pXP218 	Alicia 	Done																										
+2:30 PM	AlP	■	1	Miniprep pSB1c3 from yesteday (10 tubes)	Max	Done	Needs to be done!!!																									
+2:30 PM	AlP	■	1	Inoculate the pSB1C3-Cup1 culture into 5mL LB w/ Cm	Patrick	Done																										
+3:30 PM	A/P	■	3	Wash Labware	Adrian	Done																										
+Wed Aug 10th, 2016 		Daily Summary:  Explosive					Comments																									
+Entry Time	C/S	Type	Prio.	Task	Sign Up 	Status																										
+9:00 AM	Ad/P	■	1	Resuspend CFP primers and make working primer stocks	Adrian	Done	Batch 1 of Hsp104-CFP, stop codon 1, and stop codon 2 messed up - what happened? - Alicia There was a band in the negative control, it is at the right height for the CFP_Gal, but without sequencing it is impossible to tell which sample it is from, I am worried that the other samples could be contaminated as well and we would not know which CFP fragment we amplified.																									
+9:00 AM	Ad/P	■	1	PCR CFP-Gal1, and CFP stopcodons 1 and 2	Adrian	Done																										
+9:00 AM	Ad/P	■	2	Run PCR products on a 1.2% gel and run at 80V 	Adrian	Done																										AHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH!!!!!!!!!!!!!!!!!!!!!!!!!!  FUCK THIS MOTHER FUCKING ENZYME/PLASMID
+3:30 PM	Ad/P	■	1	Re do PCR of CFP, CFP stop 1 and CFP stop 2	Peter	Done																										
+3:30 PM	Ad/P	■	2	Run PCR preoducts on a 1.2% gel at 80V	Peter	Done																										
+11:30 AM	Alicia	■	2	PCR Cleanup of products using PCR Cleanup kit 		Pending																										
+9:00 AM	Ad/P	■	2	Digest 1000 ng of each CFP, 4000 ng Hsp104 with ApaI and BamHI		Pending																										
+9:00 AM	Ad/P	■	2	Column purify CFP digest, gel extract Hsp digest		Pending																										
+9:00 AM	Ad/P	■	2	Ligate Hsp104 and CFP, CFP-stop1 and CFP-stop2		Pending																										
+9:00 AM	Ad/P	■	3	Organize freezer	Adrian	Pending																										
+9:00 AM	Ad/P	■	1	PCR amplify Cup1 & Gal1 using primers 5&6	Patrick 	Done	New primers can be ordered but until then we will be putting these on hold 																									
+6:00 PM	Patrick	■	2	Diagnostic 1.4% agarose on PCR priducts of Cup1/Gal1	Patrick 	Done																										
+4:00 PM	Alicia 	■	1	Design new primers for amplification of ADH1, CUP1, and GAL1 into pXP218 	Alicia 	Pending																										
+9:00 AM	Ad/P	■	2	Digest 200ng of pSB-Gal1 using EcoRI and PstI		Pending	This is a test for the Batch 1 transformation of GAL1 biobrick																									
+9:00 AM	Ad/P	■	2	Run diagnostic digest of pSB-Gal1 on 1% agarose gel, 1ul sample, 4 water, 2 dye. Use gel red		Pending																										
+9:00 AM	Ad/P	■	2	PCR amplfy Cup1 using primers 17&18	Natasha	Done	This is so that we can further amplify Cup1 with primers 5 and 6 so that it can be placed into pXP218, its not ideal, but untill we get in new primers or amplify using Taq its my best idea																									
+9:00 AM	Ad/P	■	2	Run PCR products on a 1% gel at 80V	Natasha	Done																										
+2:30 PM	Ad/P	■	2	Do a PCR cleanup of products using kit and nanodrop 	Natasha	Done																										
+9:00 AM	Ad/P	■	2	PCR amplify gal1 and cup1 from previous step using primers 5&6		Pending																										
+9:00 AM	Ad/P	■	2	Run PCR products on a 1% gel at 80V		Pending																										
+11:30 AM	Alicia 	■	1	PCR amplify ADH1 synthesized fragment with primers 17&18 (x2)	Natasha	Done	Beginning of Batch 2 for ADH1 Biobrick																									
+11:30 AM	Alicia 	■	2	Run PCR products on a gel 1% run at 80V max 	Natasha	Done																										
+11:30 AM	Alicia 	■	2	Do a PCR cleanup of products using kit and nanodrop 		Cancelled																										
+11:30 AM	Alicia 	■	1	Inoculate 10X tubes of strain 111 (pSB1C3). Antibiotic is Cm	Adrian	Done	For miniprepping tomorrow																									
+11:30 AM	Alicia 	■	2	Colony PCR on Transformation plate of ADH1 fragment. Pick 10 colonies. Use primers 15&16		Pending	Control should be the pXP plasmid miniprepped 																									
+11:30 AM	Alicia 	■	2	Run a gel 1.2% 80V on all 10 products and control 		Pending	Analysis of Batch 1 ADH1-GFP 																									
+11:30 AM	Alicia 	■	2	Analyze gel and Determine if ADH1-GFP got into pXP backbone		Pending																										
+11:30 AM	Alicia 	■	1	Status update on Cup1 Biobrick so we know if we need to make frozen stocks/sequence 	Adrian 	Pending	It worked, I think we should make frozen stocks																									
+1:00 PM	Adrian	■	3	Clean lab benches and fill microtubule containers, make and autoclave 40% glycerol solution	Adrian 	Done																										
+Tues Aug 9th, 2016 		Daily Summary:  A bit light for now, but work will increase when we get the primers for Hsp-CFP project (track A)					Comments																									
+Entry Time	C/S	Type	Prio.	Task	Sign Up 	Status																										
+9:00 AM	Ad/P	■	1	PCR CFP-Gal1, and CFP stopcodons 1 and 2		Pending	Primers are ordered and hopefully will get here today or tomorrow																									
+9:00 AM	Ad/P	■	2	Run PCR products on a 1.2% gel and run at 80V 		Pending																										
+9:00 AM	Ad/P	■	2	Organize freezer		Pending																										
+9:00 AM	Ad/P	■	2	PCR amplify Cup1 using primers 5&6		Pending																										
+9:00 AM	Ad/P	■	2	PCR amplify Gal1 using primers 5&6		Pending																										
+9:00 AM	Ad/P	■	1	Troubleshoot PCR for ADH1, Cup1, and Gal1	Adrian	Pending	Need to redesign primers, could we have a meeting about this, Patrick & Alicia?																									
+9:00 AM	Ad/P	■	1	Miniprep and nanodrop pSB-Gal1 and pSB-Cup1 from 5ml cultures in incubator	Adrian	Done																										
+9:00 AM	Ad/P	■	1	Determine which enzymes to use for a diagnostic digest of pSB-Gal1 and pSB-Cup1	Adrian	Done																										
+9:00 AM	Ad/P	■	2	Digest 200ng of pSB-Gal1 and pSB-Cup1 using previously determined enzymes	Adrian	Done																										
+9:00 AM	Ad/P	■	2	Run diagnostic digest of pSB-Gal1 and pSB-Cup1 on 1% agarose gel, 1ul sample, 4 water, 2 dye. Use gel red	Natasha	Done	Samples in the pink tray in the 37 on top right shelf																									
+9:00 AM	Ad/P	■	2	PCR amplfy Gal1 and Cup1 using primers 17&18, only PCR a little bit, 10 ul max	Natasha 	Done																										
+9:00 AM	Ad/P	■	2	Run PCR products on a 1% gel at 80V	Sam	Done																										
+9:00 AM	Ad/P	■	2	PCR amplify gal1 and cup1 from previous step using primers 5&6		Pending																										
+9:00 AM	Ad/P	■	2	Run PCR products on a 1% gel at 80V		Pending																										
+Mon Aug 8th, 2016 		Daily Summary:  A bit light for now, but work will increase when we get the primers for Hsp-CFP project (track A)					Comments																									
+Entry Time	C/S	Type	Prio.	Task	Sign Up 	Status																										
+9:00 AM	Ad/P	■	1	PCR CFP-Gal1, and CFP stopcodons 1 and 2		Pending	Primers are ordered and hopefully will get here today or tomorrow																									
+9:00 AM	Ad/P	■	2	Run PCR products on a 1.2% gel and run at 80V 		Pending																										
+9:00 AM	Ad/P	■	2	Organize freezer		Pending																										
+9:00 AM	Ad/P	■	2	PCR amplify Cup1 using primers 5&6		Pending																										
+9:00 AM	Ad/P	■	2	PCR amplify Gal1 using primers 5&6		Pending																										
+9:00 AM	Ad/P	■	1	Troubleshoot PCR for ADH1, Cup1, and Gal1	Adrian	Pending	Need to redesign primers, could we have a meeting about this, Patrick & Alicia?																									
+9:00 AM	Ad/P	■	1	Pick colonies from the pSB-Cup1 and pSB-Gal1 plate, 5 from each, innoculate 5ml broth with Cm	Adrian	Done																										
+9:00 AM	Ad/P	■	1	Examin gels for ADH1 products (in pXP and pSB)	Adrian	Done																										
+9:00 AM	Adrian	■	3	Wash dishes	Peter	Done																										
+11:00 AM	Ad/P	■	1	Digest pXP-ADH1 with Pst1	Peter	Done																										
+2:00 PM	Ad/P	■	2	Run digested pXP-ADH1 on 1% gel	Peter	Done																										
+Fri Aug 5th, 2016 		Daily Summary:  					Comments																									
+Entry Time	C/S	Type	Prio.	Task	Sign Up 	Status																										
+9:00 AM	Adrian	■	3	Fix Zoltin	Adrian	Pending																										
+9:00 AM	Ad/P	■	1	PCR CFP stopcodons 1 and 2		Pending	Primers are ordered																									
+9:00 AM	Ad/P	■	2	Run PCR products on a 1.2% gel and run at 80V 		Pending																										AHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH!!!!!!!!!!!!!!!!!!!!!!!!!!  FUCK THIS MOTHER FUCKING ENZYME/PLASMID
+9:00 AM	Ad/P	■	2	Organize freezer		Pending																										
+9:00 AM	Ad/P	■	2	PCR amplify Cup1 using primers 5&6		Pending																										
+9:00 AM	Ad/P	■	2	PCR amplify Gal1 using primers 5&6		Pending																										
+9:00 AM	Ad/P	■	1	Troubleshoot PCR for ADH1, Cup1, and Gal1	Patrick, Alicia, Adrian	Pending	Need to redesign primers																									
+9:00 AM	Adrian	■	3	Transform and plate pSB-Gal1, incubate in 37 C overnight	Adrian	Done																										
+9:00 AM	Adrian	■	3	Transform and plate pSB-Cup1, incubate in 37C overnight	Adrian	Done																										
+9:00 AM	Adrian	■	3	Wash dishes		Pending																										
+12:00 PM	Adrian	■	3	Digest pSB1C3_ADH1 to check for insert	Adrian	Done																										
+12:00 PM	Patrick/Alicia	■	4	Miniprep 4mL of 111 and 347 and make a frozen stock with the other 1mL - tell Alicia when done	sam	Done	For Laura Marrone																									
+Thurs Aug 4th, 2016 		Daily Summary:					Comments																									
+Entry Time	C/S	Type	Prio.	Task	Sign Up 	Status																										
+9:00 AM	Adrian	■	3	Fix Zoltin	Adrian	Pending																										
+9:00 AM	Ad/P	■	1	PCR CFP stopcodons 1 and 2		Pending	Primers are ordered																									
+9:00 AM	Ad/P	■	2	Run PCR products on a 1.2% gel and run at 80V 		Pending																										AHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH!!!!!!!!!!!!!!!!!!!!!!!!!!  FUCK THIS MOTHER FUCKING ENZYME/PLASMID
+9:00 AM	Ad/P	■	2	Organize freezer		Pending																										
+9:00 AM	Ad/P	■	2	PCR amplify Cup1 using primers 5&6		Pending																										
+9:00 AM	Ad/P	■	2	PCR amplify Gal1 using primers 5&6		Pending																										
+9:00 AM	Ad/P	■	1	Troubleshoot PCR for Cup1 and Gal1	Patrick, Alicia, Adrian	Pending																										
+9:00 AM	Ad/P	■	1	Finish gel extraction of digested pSB from section cut out of gel yesterday	Adrian	Done																										
+9:00 AM	Adrian	■	1	PCR clean up sucessful PCR products for Gal1 and Cup1	Adrian	Done																										
+9:00 AM	Adrian	■	2	Digest Gal1 with EcoRI and PstI	Sam	Done																										
+9:00 AM	Adrian	■	2	Digest Cup1 with EcoRI and PstI	Sam	Done																										
+9:00 AM	Adrian	■	3	Gel extract digested Cup1 and Gal1	Adrian	Done																										
+9:00 AM	Adrian	■	3	Ligate pSB and Gal1 o/n	Adrian	Done																										
+9:00 AM	Adrian	■	3	Ligate pSB and Cup1 o/n	Adrian	Done																										
+12:00 PM	Adrian	■	3	Autoclave tips	Sam	Done																										
+12:00 PM	Adrian	■	3	Wash dishes		Pending																										
+2:00 PM	Patrick	■	4	Inoculate strain 111 (2.5uL Cm) and 347 (2.5uL Km), 1x each.	Adrian	Done	These are for Laura Marrone.																									
+Wed Aug 3rd, 2016 		Daily Summary:					Comments																									
+Entry Time	C/S	Type	Prio.	Task	Sign Up 	Status																										
+9:00 AM	Adrian	■	3	Fix Zoltin	Adrian	Pending																										
+9:00 AM	Ad/P	■	1	PCR CFP stopcodons 1 and 2		Pending	Need to redesign primers																									
+9:00 AM	Ad/P	■	2	Run PCR products on a 1.2% gel and run at 80V 		Pending																										AHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH!!!!!!!!!!!!!!!!!!!!!!!!!!  FUCK THIS MOTHER FUCKING ENZYME/PLASMID
+9:00 AM	Ad/P	■	2	Organize freezer		Pending																										
+9:00 AM	Ad/P	■	2	PCR amplify Cup1 using primers 5&6		Pending																										
+9:00 AM	Ad/P	■	2	PCR amplify Gal1 using primers 5&6		Pending																										
+9:00 AM	Ad/P	■	1	Troubleshoot PCR for Cup1 and Gal1	Patrick	Pending																										
+12:00 PM	Ad/Alicia	■	1	Make 1:10 dilutions of 2014 primers 11&12	Adrian	Done																										
+12:00 PM	Ad/Alicia	■	1	PCR amplify Gal1 using primers 17&18 (from 2014)	Adrian	Done	*put my name just so Pat doesn't get confused - Alicia 																									
+12:00 PM	Ad/Alicia	■	1	PCR amplify Cup1 using primers 17&18 (from 2014)	Sam	Done	Which conditions did you guys use? | We haven't put all the PCR stuff in the tubes yet. I was flipping through the 2014 lab book trying to find their conditions but I think that is a lost cause. - Sam																									
+1:00 PM	Adrian	■	2	Run 1% diagnosic gel of PCR products	Natasha	Done																										
+1:00 PM	Adrian	■	2	PCR clean up sucessful PCR products		Pending																										
+1:00 PM	Adrian	■	2	Digest Gal1, and Cup1 with EcoRI and PstI		Pending																										
+1:00 PM	Adrian	■	2	Digest 2000ng pSB with EcoRI and PstI	Max	Done																										
+1:00 PM	Adrian	■	3	Run digested pSB on a 1% gel, cut out and save top band	Natasha	Done																										
+1:00 PM	Adrian	■	3	Ligate pSB and Gal1 o/n		Done																										
+1:00 PM	Adrian	■	3	Ligate pSB and Cup1 o/n		Done																										
+12:00 PM	Ad/Alicia	■	2	Get 400ul gel red from John	Adrian	Done 																										
+12:00 PM	Alicia	■	1	Ordered new primers for CFP stop codons 	Alicia 	Done 																										
+Tues Aug 2nd, 2016 		Daily Summary: 					Comments																									
+Entry Time	C/S	Type	Prio.	Task	Sign Up 	Status																										
+9:00 AM	Adrian	■	3	Fix Zoltin	Adrian	Pending																										
+9:00 AM	Ad/P	■	1	PCR CFP stopcodons 1 and 2		Pending	Need to redesign primers																									
+9:00 AM	Ad/P	■	2	Run PCR products on a 1.2% gel and run at 80V 		Pending																										AHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH!!!!!!!!!!!!!!!!!!!!!!!!!!  FUCK THIS MOTHER FUCKING ENZYME/PLASMID
+9:00 AM	Ad/P	■	2	Digest 2000ng Hsp104 with ApaI and BamHI at 16C	Sam	Done																										
+9:00 AM	Ad/P	■	2	Gel extract large band from Hsp104, run on 1% gel at 80V, image gel AFTER digest is removed	Sam	Done																										
+9:00 AM	Ad/P	■	2	Digest pXP plasmids with PstI	Cody/Sam	Done																										
+9:00 AM	Ad/P	■	3	Run pXP diagnostic digests on 1% gel at 80V	Sam	Done	have pSB and pXB been digested already? ~Ayan | pXP has. no clue what the pSB is in reference to - Sam | okay thanks! ~ Ayan																									
+9:00 AM	Ad/P	■	1	Troubleshoot PCR for Cup1 and Gal1		Pending																										
+Fri July 29th, 2016 		Daily Summary:  Lots of minipreps in the morning, then PCR and gels in the afternoon					Comments																									
+Entry Time	C/S	Type	Prio.	Task	Sign Up 	Status																										
+9:00 AM	Adrian/Patrick	■	1	Transform E.coli with Hsp104_CFP-Gal1 batch 2	Max	Done																										
+9:00 AM	Patrick	■	1	Plate Hsp transformed E. coli on Amp plates	Max	Done																										
+9:00 AM	Adrian/Patrick	■	1	Resuspend CFP_Stop1 and CFP_Stopcodon2	Max	Done																										
+9:00 AM	Adrian/Patrick	■	1	PCR CFP stopcodons 1 and 2		Pending	Need to re-design the primers																									AHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH!!!!!!!!!!!!!!!!!!!!!!!!!!  FUCK THIS MOTHER FUCKING ENZYME/PLASMID
+9:00 AM	Adrian/Patrick	■	2	Run PCR products on a 1.2% gel and run at 80V 		Pending																										
+9:00 AM	Adrian/Patrick	■	2	Digest 2000ng Hsp104 with ApaI and BamHI at 16C		Pending																										
+9:00 AM	Adrian/Patrick	■	2	Gel extract large band from Hsp104, run on 1% gel at 80V, image gel AFTER digest is removed		Pending																										
+9:00 AM	Adrian/Patrick	■	2	Blunt Hsp104 with Taq polymerase and hot start buffer at 37C for 2 hours		Pending																										
+9:00 AM	Adrian/Patrick	■	2	Column purify blunt Hsp104		Pending																										
+9:00 AM	Adrian/Patrick	■	2	Digest CFP stopcodon 1 and 2 with just BamHI		Pending																										
+9:00 AM	Adrian/Patrick	■	3	Ligate blunted Hsp104 to CFP stopcodon 1 and 2 (seperately)		Pending																										
+9:00 AM	Adrian/Patrick	■	1	Miniprep pSB and pXP cultures in the incubator (from transformation yesterday) and nanodrop	Alicia/Adrian/Max	Pending	for pSB, if the culture is red then do not bother.																									
+9:00 AM	Adrian/Patrick	■	2	Digest pSB plasmids (minipreped earlier today) with...		Pending																										
+9:00 AM	Adrian/Patrick	■	2	Digest pXP plasmids (minipreped earlier today) with...		Pending																										
+9:00 AM	Adrian/Patrick	■	3	Run pSB and pXP diagnostic digests on 1% gel at 80V		Pending																										
+9:00 AM	Alicia	■	1	Replica plate Transformants  and viability plates(+URA, +ADE - URA, -ADE - URA)	Alicia/Adrian	Done																										
+9:00 AM	Adrian/Patrick	■	1	Troubleshoot PCR for Cup1 and Gal1		Pending																										
+9:00 AM	Adrian	■	3	Fix Holtin		Pending																										
+2:30 PM	Alicia	■	1	Design new primers as well as sequencing primers for new design of Hsp104 	Alicia 	Done																										
+Thurs July 28th, 2016 		Daily Summary:  Light day today, a most things today need to be done stepwise, Tomorrow there will be more work					Comments																									
+Entry Time	C/S	Type	Prio.	Task	Sign Up 	Status																										
+9:00 AM	Adrian/Patrick	■	1	Finish gel extraction, remove DNA from gel fragment	Max	Done	This is batch 2																									
+9:00 AM	Patrick	■	3	Ligate together the Hsp104 and Gal1:CFP o/n.	Adrian	Done	Batch 2, batch 1 scrapped																									
+9:00 AM	Adrian/Patrick	■	1	Blunt Hsp104 fragment	Max	Done	In the 37 incubator on the shelves to the right																									
+9:00 AM	Adrian/Patrick	■	1	Column purify blunt Hsp104 and nanodrop	Adrian	Done																										
+9:00 AM	Adrian/Patrick	■	1	Pick colonies from the "product" plate of pSB and pXP to be grown overnight in LB with antibiotic	Adrian	Done																										
+9:00 AM	Alicia	■	1	Replica plate Transformants  and viability plates(+URA, +ADE - URA, -ADE - URA)		Pending																										
+Wed July 27th, 2016 		Daily Summary:  Lets get some constructs done! Then I can sleep at night.					Comments																									
+Entry Time	C/S	Type	Prio.	Task	Sign Up 	Status																										
+9:00 AM	Adrian/Patrick	■	1	Digest 2000ng Hsp104 with ApaI, and BamHI in cutsmart at 16C for 1.5 hours, do a control with just BamHI	 Emma	Done	Batch 2																									
+9:00 AM	Patrick	■	1	Gel extract the larger Hsp104 fragment on a 1% gel run at 80V	Emma/Max	Done																										
+6:45 PM	Adrian/Patrick	■	1	Finish gel extraction, remove DNA from gel fragment		Pending																										
+9:00 AM	Patrick	■	2	Add Taq DNA polymerase and dNTPs to the gel extracted volume of Hsp104.	Adrian	Done	Determine the volumes by using PCR rxns as the guideline.																									
+9:00 AM	Patrick	■	2	Column purify DNApol-treated Hsp104 w/ spin columns, then nanodrop.	Adrian	Done																										
+9:00 AM	Patrick	■	3	Ligate together the Hsp104 and Gal1:CFP o/n.		Pending																										
+9:00 AM	Adrian/Patrick	■	1	Transform and plate with the ligated pXP218 and pSB1C3 from yesterday	Natasha/ Adrian	Done																										
+9:00 AM	Adrian/Patrick	■	1	PCR amplify Cup1 and Gal1_Promoter using primers 5&6 at 63C	Adrian	Done																										
+9:00 AM	Adrian/Patrick	■	2	Run 1% diagest gel at 80V of Cup1 and Gal1	Adrian/Max	Done																										
+9:00 AM	Alicia	■	1	Replica plate Transformants  and viability plates(+URA, +ADE - URA, -ADE - URA)		Pending	Hey! This can be done tomrorow. Sorry I was AFK today. = Alicia																									
+2:30 PM	Adrian/Patrick	■	3	Wash dishes	Max	Done																										
+Tue July 26th, 2016 		Daily Summary:  Lets get some constructs done! Then I can sleep at night.					Comments																									
+Entry Time	C/S	Type	Prio.	Task	Sign Up 	Status																										
+9:00 AM	Patrick	■	1	Gel extract the larger Hsp104 fragment on a 1% gel run at 80V, then nanodrop.	Adrian	Done																										
+9:00 AM	Patrick	■	2	Add Taq DNA polymerase and dNTPs to the gel extracted volume of Hsp104.		Pending	Determine the volumes by using PCR rxns as the guideline.																									
+9:00 AM	Patrick	■	2	Column purify DNApol-treated Hsp104 w/ spin columns, then nanodrop.		Pending																										
+9:00 AM	Patrick	■	3	Ligate together the Hsp104 and Gal1:CFP o/n.		Pending																										
+9:00 AM	Patrick	■	2	Column purify ADH1:GFP and pSB1C3 w/ spin columns, then nanodrop.	Peter	Done	< 5 ng/uL for ADH samples																									
+9:00 AM	Patrick	■	2	Ligate the ADH1:GFP and pSB1C3 together.	Adrian	Done																										
+9:00 AM	Patrick	■	1	Column purify ADH1:GFP and pXP218 w/ spin columns, then nanodrop.	Peter	Done																										
+9:00 AM	Patrick	■	2	Ligate the ADH1:GFP and pXP218 together.	Adrian	Done																										
+9:00 AM	Patrick/Adrian	■	1	Run a PCR of Gal1:GFP on a temperature gradient	Sam	Done	PCR done at ~1:20																									
+9:00 AM	Patrick	■	2	Check that we're stocked on Cm and Amp plates. If not, make 20 of the ones we're low on.	Natasha	Done	Making 10 Amp plates (we already have 14 Amp and a lot of Cm)																									
+9:00 AM	Alicia	■	1	Viability Assay Analysis - just count plates and record numbers in book	Andres, Peter, Sam	Done	Plates are in fridge in a bag																									
+9:00 AM	Alicia	■	1	Viability Assay Analysis: make excel file to hold this round of data	Sam	Done																										
+9:00 AM	Alicia	■	1	Replica plate Transformants  and viability plates(+URA, +ADE - URA, -ADE - URA)		Pending																										
+9:00 AM	Patrick/Adrian	■	2	Make new primers 5&6	Adrian	Done																										
+2:00 PM	Adrian/Patrick	■	2	Resuspend Cup1_promoter in 100 uL TE buffer	Adrian	Done																										
+Mon July 25th, 2016 		Daily Summary: Late start, but it "exploded" on us.					Comments																									
+Entry Time	C/S	Type	Prio.	Task	Sign Up 	Status																										
+2:00 PM	Adrian/Patrick	■	1	Digest 2000 ng of Hsp104 with BamHI at 37C for 40 minutes in cutsmart buffer	Sam	Done																										
+2:00 PM	Adrian/Patrick	■	1	Digest the same Hsp104 from above with ApaI at 16C for 1 hour	Sam	Done	Use thermocycler to hold the 16C. Add the enzyme to the same rxn volume. 																									AHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH!!!!!!!!!!!!!!!!!!!!!!!!!!  FUCK THIS MOTHER FUCKING ENZYME/PLASMID
+2:00 PM	Adrian/Patrick	■	1	Digest Gal1:CFP with only BamHI, preferably 500ng if possible.	Andres	Done																										
+2:00 PM	Patrick	■	2	Gel extract the larger Hsp104 fragment on a 1% gel run at 80V, then nanodrop.		Pending																										
+2:00 PM	Patrick	■	2	Column purify Gal1:CFP w/ spin columns, then nanodrop.	Andres	Done	Does a gel need to be run? Nope - Patl; Why? B/c there's no fragment to separate from. You only cut off ~15bps which is lost during CP - p																									
+2:00 PM	Patrick	■	3	Add T4 DNA polymerase and dNTPs to the gel extracted volume of Hsp104.		Pending	Determine the volumes by using PCR rxns as the guideline.																									
+2:00 PM	Patrick	■	3	Column purify DNApol-treated Hsp104 w/ spin columns, then nanodrop.		Pending																										
+2:00 PM	Patrick	■	4	Ligate together the Hsp104 and Gal1:CFP o/n.		Pending																										
+2:00 PM	Patrick	■	1	Resuspend the IDT Gal1:GFP fragment in TE.	Adrian	Done	I sent you the protocol; it's pretty simple. - pat																									
+2:00 PM	Patrick	■	2	PCR amplify the Gal1:GFP, and ADH1:GFP fragment with primers 5 and 6 with a Ta of 63C.	Peeman	Done	ADH1:GPF just so that we can get more of it. (done with Q5)																									
+2:00 PM	Patrick	■	3	Diagnostic (1%) gel of the Gal1:GFP amplified fragment (1uL of the PCR rxn volume only).	Cody	Done	Gal1 did not work																									
+2:00 PM	Patrick	■	1	Digest ADH1:GFP and pSB1C3 w/ E and P (~200ng and 2000ng, respectively).	Sam	Done	You're the best, Sam.  - P																									
+2:00 PM	Patrick	■	2	Column purify ADH1:GFP and pSB1C3 w/ spin columns, then nanodrop.		Pending																										
+2:00 PM	Patrick	■	3	Ligate the ADH1:GFP and pSB1C3 together.		Pending																										
+2:00 PM	Patrick	■	1	Digest ADH1:GFP and pXP218 w/ SphI and SalI (~200ng and 2000ng, respectively).	Sam	Done																										
+2:00 PM	Patrick	■	2	Column purify ADH1:GFP and pXP218 w/ spin columns, then nanodrop.		Pending																										
+2:00 PM	Patrick	■	3	Ligate the ADH1:GFP and pXP218 together.		Pending																										
+2:00 PM	Patrick	■	1	Check that we're stocked on Cm and Amp plates. If not, make 20 of the ones we're low on.		Pending																										
+9:00 AM	Alicia	■	1	Viability Assay Analysis	Al, Sam, An	In progress	I'll be there to do analysis at 3pm (Alicia)																									
+4:00 PM	Alicia	■	2	Re streak transformants (2 from each plate) onto YPD plates 	Adrian	Done	Try to streak for single colonies 																									
+3:00 PM	Adrian/Patrick	■	3	Organize working boxes	Adrian	Done																										
+Sat July 23rd, 2016		Daily Summary: Light																														
+Entry Time	C/S	Type	Prio.	Task	Sign Up 	Status	Comments																									
+12:00 PM	Patrick	■	2	Count the number of colonies on the plates from the Viability Assay	Max/Vincent	Done																										
+12:00 PM	Patrick	■	1	Digest Hsp104 w/ ApaI at 16C for 60min	Max	Done																										
+12:00 PM	Patrick	■	2	Run a 1% diagnostic gel on the digested Hsp104.	Max	Done	Successful.																									
+Fri July 22th, 2016		Daily Summary: Regular Day, possible spike in work in afternoon if C Track works.																														
+Entry Time	C/S	Type	Prio.	Task	Sign Up 	Status	Comments																									
+9:00 AM	Patrick	■	1	Finish new restriction digest protocol for Hsp104 with BamHI, 	Adrian	Done																										
+9:00 AM	Patrick	■	1	Run digest and polymerization of Hsp104		Pending	Lets do it Monday, ApaI will be in the NEB and Other enzyme box in the Charles Lab																									AHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH!!!!!!!!!!!!!!!!!!!!!!!!!!  FUCK THIS MOTHER FUCKING ENZYME/PLASMID
+3:00 PM	Adrian/Patrick	■	1	Do diagnostic digest of 200ng of Hsp104 with ApaI in CutSmart	Max	Done	The enzyme is 8 years expired, so I am going to test if it can cut using Hsp104- Adrian																									
+9:00 AM	Adrian/Patrick	■	2	PCR Clean-up of the ADH1 pcr products that worked, then nanodrop.	Sam	Done																										
+11:30 AM	Adrian/Patrick	■	2	Resuspend Gal1 synthesized promoter	Adrian	Done	Find the exact procedure from Patrick or Alicia, this is important, make sure you're clear on what to do.																									
+1:30 PM	Adrian/Patrick	■	1	Digest pSB1C3 and pXP218	Sam	Done																										
+9:00 AM	Patrick	■	4	Clean dishes (mugs, cups) in the sink next door	Adrian	Done																										
+9:00 AM	Patrick	■	4	Remove the test tubes from the oven	Sam	Done																										
+11:00 AM	Alicia 	■	1	Viability Assay on yeast from last 3 days 	Adrian/Peter	Done	Do 1:1000 dilution for 0 hours, 1:5000 for 6 hours, 24-54 do 1:10,000 dilution. Plate in triplicate. Yeast in fridge after finished so we can do fluoresence. Incubate at rt. Be very caful about contamination.  We already plated 1-30 hours, we did 2 replicates, should we do a third for these?																									
+Thurs July 21th, 2016		Daily Summary: Regular Day, possible spike in work in afternoon if C Track works.																														
+Entry Time	C/S	Type	Prio.	Task	Sign Up 	Status	Comments																									
+9:00 AM	Patrick	■	1	Image diagnostic 1% gel of the pSB1C3 and Hsp104 digest and see what you get. 	Adrian	Done																										
+9:00 AM	Adrian/Patrick	■	2	PCR amplify ADH1 using Patricks conditions from yesterday	Adrian	Done																										AHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH!!!!!!!!!!!!!!!!!!!!!!!!!!  FUCK THIS MOTHER FUCKING ENZYME/PLASMID
+2:30 PM	Patrick	■	1	Troubleshoot TrackA's XhoI digest issues w/ Cheng.	Patrick/Adrian	Done	ApaI and BamHI sequential digest followed by treatment with T4DNApol/XSdNTPs. Talk to Adrian or Patrick for clarification.																									
+9:00 AM	Patrick	■	2	PCR Clean-up of the ADH1 pcr products that worked, then nanodrop.	Sam	Done																										
+9:00 AM	Adrian/Alicia	■	1	Take 1ml yeast sample at 11 AM, one from each flask, spin down and resuspend in 1mL DI	Adrian	Done																										
+9:00 AM	Adrian/Alicia	■	1	Take 1ml yeast sample at 2 PM, as above	Natasha, Sam	Done																										
+9:00 AM	Adrian/Alicia	■	 	Take 1ml yeast sample at 5 PM, as above	Natasha, Sam	Done																										
+9:00 AM	Patrick	■	4	Clean the glassware in the sink, rinse with DI.	Adrian	Done																										
+9:00 AM	Patrick	■	4	Remove the test tubes from the autoclave and place in oven o/n	--	Done																										
+Wed July 20th, 2016		Daily Summary: Regular Day, possible spike in work in afternoon if C Track works.																														
+Entry Time	C/S	Type	Prio.	Task	Sign Up 	Status	Comments																									
+9:00 AM	Patrick	■	1	Digest pSB1C3 (200ng) w/ just XhoI for 30min at 37C	Natasha	Done	Found them																									
+9:00 AM	Patrick	■	2	Run a diagnostic 1% gel of the pSB1C3 digest and look for band lengths: 900bp and 1.2kb	Sam	Done	-ve control has the same bands as the digest?																									
+9:00 AM	Adrian/Patrick	■	2	Check if XhoI site on Hsp104 is methylated try to find a/some resources on how to check	Alicia	Done	It is not methylated, YOU'RE NOT METHYLATED - pat																									AHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH!!!!!!!!!!!!!!!!!!!!!!!!!!  FUCK THIS MOTHER FUCKING ENZYME/PLASMID
+4:15 PM	Patrick	■	3	Digest pSB1C3 and Hsp104 (200ng) w/ just XhoI for 60min at 37C	Patty	Done	1hr long																									
+4:15 PM	Patrick	■	3	Run a diagnostic 1% gel of the pSB1C3 and Hsp104 digest and see what you get. 	Sa, Ad, An	Done	Where did it go?																									
+9:00 AM	Patrick	■	1	PCR ADH1 w/ Pat's recipe/condtions, this time he does it with the Q5MM and GoTaqMM to compare.	Patrick	Done	This finishes at 6:15pm																									
+9:00 AM	Patrick	■	2	Run a diagnostic 1% gel of the PCR product, looking for a band at 1.7kb, 70V	Sa, Ad, An, Pa	Done																										
+9:00 AM	Patrick	■	3	PCR Clean-up of the ADH1 pcr product, then nanodrop.		Pending																										
+9:00 AM	Adrian/Alicia	■	1	Take sample of PSI- and Sup35 at 11:00 PM	Adrian	Done																										
+9:00 AM	Adrian/Alicia	■	1	Take sample of PSI- and Sup35 at 2:00 PM	Adrian	Done																										
+9:00 AM	Adrian/Alicia	■	1	Take sample of PSI- and Sup35 at 5:00 PM	Andres, Sam	Done																										
+9:00 AM	Patrick	■	4	Finish cleaning the test tubes, and autoclave.	Sam	Done	Waiting to be autoclaved																									
+9:00 AM	Patrick	■	4	Throw-out the biohazardous waste, making sure to tie the yellow bag before you leave the lab.	Sam & Adrian	Done	Greg seemed glum.																									
+Tues July 19th, 2016		Daily Summary: Regular Day, possible spike in work in afternoon if C Track works.																														
+Entry Time	C/S	Type	Prio.	Task	Sign Up 	Status	Comments																									
+12:00 AM	Adrian/Patrick	■	1	Run 1.2% gel of  digested Hsp104 at or after 2:00 PM	Max	Done																										
+12:00 AM	Adrian/Patrick	■	1	PCR of ADH1 at 63C, using Patrick's conditions found in lab book.	Adrian	Done																										
+12:00 PM	Patrick	■	2	Run 1.2% gel of ADH1 pcr product at 80V	Sam	Done																										
+12:00 PM	Patrick	■	2	PCR Clean-up of the ADH1 pcr product, then nanodrop.	Ad, Natasha	Pending	When these two are both complete, notify Patrick.																									
+12:00 PM	Patrick	■	3	Miniprep the pSB1C3 and pXP218 from the 37C incubator (x6 tubes in total), then nanodrop.	Andres, Peter	Done																										
+12:00 AM	Adrian/Alicia	■	1	Inococulate 100ml YPD with yeast PSI- and Sup35, normalize to OD of 1.0, add 60uL of CuSO4	Ad, Sa, An, Pe	Done																										
+12:00 AM	Adrian/Alicia	■	2	Make 2L of YPD and agar and autoclave	Adrian	Done																										
+12:00 AM	Adrian/Alicia	■	2	Make 80 YPD plates	Adrian, Sam	Done																										
+11:00 AM	Adrian/Alicia	■	1	Take 1mL sample from Sup35 and PSI- at 5:00PM, spin down, resuspend in 1 mL autoclaved mili-Q	Sam	Done																										
+12:00 AM	Adrian/Patrick	■	4	Clean test tubes	Sam	Pending	letting them soak in water overnight; You should be able to finish it up if you've soaked for about 2hrs - Pat																									
+12:00 PM	Patrick	■	1	Throw-out the biohazardous waste, making sure to tie the yellow bag before you leave the lab.		Pending	It is only open from 11 to 12, it will have to happen tomorrow.																									
+Mon July 18th, 2016		Daily Summary: Slow day due to troubleshooting issues.I take that back it's a busy day now. 																														
+Entry Time	C/S	Type	Prio.	Task	Sign Up 	Status	Comments																									
+9:00 AM	Patrick	■	1	Troubleshoot the absence of XhoI cutting in the Hsp104 plasmid. 	Adrian	Done	Signed you up, let's see what you come up with! Try checking the NEB site to make sure every condition is met for cutting. May need sequential digesting. - Pat																									
+1:00 PM	Patrick	■	2	Diagnostic digest to check wtf is wrong with XhoI.	Ad, An, Co	Done																										
+9:00 AM	Patrick	■	2	Run a 1% diagnostic gel of the Gal1-CFP PCR from yesterday.	Sam	Done	Gel running																									
+9:00 AM	Patrick	■	2	PCR Clean-up of the Gal1-CFP from yesterday, then nanodrop.	Sam	Done																										
+9:00 AM	Patrick	■	4	Re-organize and maintain the workboxes in the -20C freezer.	Andres	Done																										
+9:00 AM	Patrick	■	4	Wash glassware in the sink, and clean-up the lab benches.	Andres	Done																										
+9:00 AM	Patrick	■	1	PCR amplify ADH1:GFP fusion w/ Primer 5 & 6	Patrick	Done																										
+9:00 AM	Patrick	■	2	Diagnostic gel of ADH1:GFP amplifcation. 	Patrick	Done	It fucking worked holy flying zubats!!!11!!!!!!!!111111																									
+1:00 PM	Alicia 	■	1	Count plates and do viability analysis	iGEM et al. 2016	Done	Waiting for Alicia to return to the homeland to clarify things. - Pat																									
+1:00 PM	Patrick	■	1	PCR Clean-up of the successfully amplified ADH1 fragment, then nanodrop.	Natasha	Done																										
+1:00 PM	Patrick	■	2	Inoculate strain 111 into Cm, and pXP218 into Amp (x3 tubes each).	Gareth	Done	Omfg we're finally moving forward this is exciting. - Pat																									
+4:00 PM	Adrian/Alicia	■	1	Make excel file to fill out results of plate count	Adrian	Done																										
+4:00 PM	Adrian/Alicia	■	2	Make YPD Agar, autoclave	Adrian	Pending																										
+4:00 PM	Adrian/Alicia	■	2	Make 80 YPD		Pending																										
+5:00 PM	Adrian/Alicia	■	1	Inoculate PSI- and SUP35, 6 tubes each	Andres, Sam	Done																										
+Sun July 17th, 2016		Daily Summary: Track A and C active.																														
+Entry Time	C/S	Type	Prio.	Task	Sign Up 	Status	Comments																									
+3:00 PM	Patrick	■	1	Miniprep the 3 Hsp104 tubes, then nanodrop.	Vincent	Done																										
+4:00 PM	Patrick	■	1	PCR amplify Gal1-CFP w/ previous successful recipe/conditions w/ 1 -ve CTRL.	Vincent	Done																										
+5:00 PM	Patrick	■	2	Diagnostic digest 200ng of Hsp104 w/ BamHI and XhoI separately; inc. 37C for 30min.	Max	Done																										
+6:00 PM	Patrick	■	2	Run a 1% gel of the digested Hsp104 (preferably 1uL of Sample with 4uL of Water and 1uL of LD.	Max	Done																										
+9:00 AM	Patrick	■	4	Re-organize and maintain the workboxes in the -20C freezer.		Pending																										
+9:00 AM	Patrick	■	4	Wash glassware in the sink, and clean-up the lab benches.	Max	Pending																										
+6:22 PM	Patrick	■	1	PCR amplify ADH1:GFP fusion w/ Primer 5 & 6	Patrick	Pending																										
+6:22 PM	Patrick	■	2	Diagnostic gel of ADH1:GFP amplifcation. 	Patrick	Pending																										
+Sat July 16th, 2016		Daily Summary: Track A and C active.																														
+Entry Time	C/S	Type	Prio.	Task	Sign Up 	Status	Comments																									
+9:00 AM	Patrick	■	1	PCR Clean-up of the Gal1_CFP in the pink tray of 4C	Seneca	Done	Just do the two 50uL reactions, throw-out the -ve CTRL																									
+9:00 AM	Patrick	■	1	Inoculate Hsp104 into 3 tubes of 5mL LB w/ appropriate antibiotics.	Adrian	Done																										
+9:00 AM	Patrick	■	2	Digest Gal-CFP and Hsp104 vector (>1000ng each) with BamHI and XhoI.	Max	Done	Follow steps and conditions from previous trials.																									
+9:00 AM	Patrick	■	2	Gel extract both fragments in a 1% gel and nanodrop.	Max	Done	Did not appear to cut properly																									
+9:00 AM	Patrick	■	2	Ligate the Gal-CFP w/ Hsp104 using two negative controls. Incubate o/n at RT.		Canceled																										
+9:00 AM	Patrick	■	4	Re-organize and maintain the workboxes in the -20C freezer.		Pending																										
+9:00 AM	Patrick	■	4	Wash glassware in the sink, and clean-up the lab benches.	Adrian	Done																										
+2:00 AM	Adrian/Patrick	■	4	Autoclave 1.5 ml MC tubes, innoculation sticks, pippette tips, Mili-Q, anything else that needs to be topped up	Adrian	Done	Some of the stuff was put into the oven																									
+Fri July 15th, 2016		Daily Summary: Regular Day, Yeast Work																														
+Entry Time	C/S	Type	Prio.	Task	Sign Up 	Status	Comments																									
+9:00 AM	Alicia 	■	1	Make 50 YPD Plates for plating cultures today - YPD is made just put it in the steamer.	Sam	Done	Plates solidifying in fume hood																									
+9:00 AM	Alicia 	■	1	Take aliquots every 1.5h starting 11:30 of the cultures until 6h at 5:30pm.	Sam	Done																										
+9:00 AM	Alicia 	■	1	Do Viability assays on yesterdays and todays cultures on YPD.	Sa, Ad, Co	Done	(1:1000 dilution for Day 1, 1:10,000 dilution for day 2)																									
+9:00 AM	Patrick	■	2	PCR amplify Gal1_CFP, 2 sets and 1 -ve CTRL	Sam	Done	Use 50uL rxn volumes, w/ 20uL -ve CTRL. | PCR done at 2:35																									
+9:00 AM	Patrick	■	1	Digest Gal-CFP and Hsp104 vector (>1000ng each) with BamHI and XhoI.	Adrian	Done																										
+9:00 AM	Patrick	■	2	Gel extract both fragments in a 1.2% gel, using the 20:1000 LD, and nanodrop.	Adrian	Done	Both enzymes did not cut																									
+9:00 AM	Patrick	■	2	Ligate the Gal-CFP w/ Hsp104 using two negative controls. Incubate o/n at RT.		Canceled																										
+9:00 AM	Patrick	■	3	Dilute PAT's LD 20:1000uL, followed by organization of the "Gel Stuff" box in the -20C freezer.	Cosecad 	Done																										
+9:00 AM	Patrick	■	4	Re-organize and maintain the workboxes in the -20C freezer.		Pending																										
+12:00 PM	Patrick	■	1	Call NEB and troubleshoot the PCR smearing from their clean-up kit.	Patrick	Done																										
+12:00 PM	Patrick	■	4	Add agar to the LB bottles Emma made, then autoclave.	Adrian	Canceled	Broth was infected and had to be dumped																									
+1:00 PM	Adrian/Patrick	■	4	Make 2L of LB Agar and autoclave today	Sam	Done																										
+Thurs July 14th, 2016		Daily Summary: SHAD Valley 12-1; 2-5PM (Pat and multiple members will be occupied; plz take into account if you start experiments).																														
+Entry Time	C/S	Type	Prio.	Task	Sign Up 	Status	Comments																									
+9:00 AM	Patrick	■	1	PCR amplify Gal1_CFP, 5 sets and 1 -ve CTRL	Sam	Done	Use 0.5uL DNA template, 70C annealing, 50s elongation | in PCR end ~1:44 pm																									
+9:00 AM	Patrick	■	2	PCR Clean-Up of Gal1_CFP, followed by nanodrop.	Adrian	Done	Put the nanodrop value here: _____																									
+9:00 AM	Patrick	■	2	Digest Gal-CFP and Hsp104 vector (>1000ng each) with BamHI and XhoI.		Pending																										
+9:00 AM	Patrick	■	2	Gel extract both fragments in a 1.2% gel, using the 20:1000 LD, and nanodrop.		Pending																										
+9:00 AM	Patrick	■	2	Ligate the Gal-CFP w/ Hsp104 using two negative controls. Incubate o/n at RT.		Pending																										
+9:00 AM	Patrick	■	3	Dilute PAT's LD 20:1000uL, followed by organization of the "Gel Stuff" box in the -20C freezer.		Pending																										
+9:00 AM	Patrick	■	1	Diagnostic 1% gel of the ADH1 (5uL w/ 1uL LD) straight from the synthesis IDT tube again.	Vinody	Done	WE SEE THE BAND!!!!!																									
+9:00 AM	Patrick	■	3	Make 2L worth of LB in 200mL containers. 	Emma	Done																										
+9:00 AM	Patrick	■	1	Consult Cheng and John about the ADH1::GFP amplification problems.	Patrick	Done																										
+9:00 AM	Patrick	■	4	Re-organize and maintain the workboxes in the -20C freezer.		Pending																										
+9:00 AM	Patrick	■	4	Remove the recycling and garbage from the office. 	Patrick	Pending																										
+9:00 AM	Patrick	■	4	Remove the transformation plates from the 37C inc. and check for colonies.	Patrick	Done	Notify Patrick, check in the morning ASAP.																									
+9:30 AM	Alicia	■	1	Normalize yeast to OD600 of 0.1 in 100mL YPD - add 60uL of CuSO4 into each flask for final conc of 300uM	Adram	Done																										
+9:30 AM	Alicia	■	1	Take 2-1mL aliquots every 90 mins, spin down, and resuspend in STERILE dH2O (store in fridge)	Sam	Done																										
+9:30 AM	Alicia	■	2	Do Viability assay on 6 samples from today 		Pending	I'll be there in 30-45 mins																									
+Wed July 13th, 2016		Daily Summary: SHAD Valley 2-5PM (Pat and multiple members will be occupied; plz take into account if you start experiments).																														
+Entry Time	C/S	Type		Task	Sign Up 	Status	Comments																									
+12:52 AM	Patrick	■		PCR Cleanup of the Gal1_CFP fragment and store in the -20C freezer.	Max	Done	This is from Friday, so I am not sure where exactly it went. Let's try not to freeze down unclean PCR products next time. - Pat																									
+12:52 AM	Patrick	■		Diagnostic digest of the Batch 2 miniprep using BamHI w/ a +ve CTRL (empty Hsp104 vector).	Adrian	Pending	Just pick three of the minipreps and digest them. Do this extremely well with correct gel loading and ample digest time. - Pat																									
+12:52 AM	Patrick	■		Digest Gal-CFP and Hsp104 vector (>1000ng each) with BamHI and XhoI.	Adrian	Pending	Confirm on SnapGene that these are the correct enzymes. - Pat They are -Adrian  We don't have even close to enough CFP_Gal1, we will need to PCR more																									
+1:00 AM	Patrick	■		Gel extract both fragments in a 1.2% gel, using the 20:1000 LD, and nanodrop.		Pending																										
+1:00 AM	Patrick	■		Ligate the Gal-CFP w/ Hsp104 using two negative controls. Incubate o/n at RT.		Pending	Try to have multiple samples with different ratios (3:1, 5:1, 7:1)																									
+9:00 AM	Patrick	■		Diagnostic gel of the ADH1 (5uL w/ 1uL LD) straight from the synthesis IDT tube again.	Patrick	Pending	Do not begin this until Patrick has checked the concentration of the stock and the amount left. - PAT																									
+9:00 AM	Patrick	■		PCR amplify the ADH1:GFP fragment using Primers 5 & 6	Patrick	Pending	I will do this one. - Pat (why do I bother writing "-Pat" in all these). So that we know who made the comment. -Adrian																									
+9:00 AM	Patrick	■		Make 20 Km plates, some for SHAD and some for us to keep. 	Adrian	Done	Last time we made Cm plates, not Km																									
+1:00 AM	Patrick	■		Dilute PAT's LD 20:1000uL, followed by organization of the "Gel Stuff" box in the -20C freezer.		Pending																										
+1:00 PM	Adrian/Patrick	■		PCR amplify Gal1_CFP, 5 sets and 1 negative control, use 0.5uL DNA template, 70C annealing, 45s elongation		Pending																										
+1:45 PM	Adrian/Patrick	■		Make 2L of LB agar, divide into 200ml flasks.		Pending	use recipe in Adrian's green notebook (found on the office table)																									
+2:00 PM	Alicia	■		Inoculate 5X of Sup35 transfomed yeast in 5mL, 5X Psi- in 5mL for tomorrow experiment - put in 30C with shaking	Sam	Done	Someone please do this! I am stuck in my lab all day. Any questions call me - Alicia 																									
+Tues July 12th, 2016				Daily Summary: SHAD Valley 2-5PM (Pat and multiple members will be occupied; plz take into account if you start experiments).																												
+Entry Time	C/S	Type		Task	Sign Up 	Status	Comments																									
+12:52 AM	Patrick	■		PCR Cleanup of the Gal1_CFP fragment and store in the -20C freezer.	Max	Done	This is from Friday, so I am not sure where exactly it went. Let's try not to freeze down unclean PCR products next time. - Pat																									
+12:52 AM	Patrick	■		Diagnostic digest of the Batch 2 miniprep using BamHI w/ a +ve CTRL (empty Hsp104 vector).	Adrian	Pending	Just pick three of the minipreps and digest them. Do this extremely well with correct gel loading and ample digest time. - Pat																									
+12:52 AM	Patrick	■		Digest Gal-CFP and Hsp104 vector (>1000ng each) with BamHI and XhoI.	Adrian	Pending	Confirm on SnapGene that these are the correct enzymes. - Pat They are -Adrian  We don't have even close to enough CFP_Gal1, we will need to PCR more																									
+1:00 AM	Patrick	■		Gel extract both fragments in a 1.2% gel, using the 20:1000 LD, and nanodrop.		Pending																										
+1:00 AM	Patrick	■		Ligate the Gal-CFP w/ Hsp104 using two negative controls. Incubate o/n at RT.		Pending	Try to have multiple samples with different ratios (3:1, 5:1, 7:1)																									
+9:00 AM	Patrick	■		Make NEW primer stocks for 5 & 6 under the flame with 0% contamination.	Adrian	Done																										
+9:00 AM	Patrick	■		Diagnostic gel of the ADH1 (5uL w/ 1uL LD) straight from the synthesis IDT tube again.	Patrick	Pending	Do not begin this until Patrick has checked the concentration of the stock and the amount left. - PAT																									
+9:00 AM	Patrick	■		PCR amplify the ADH1:GFP fragment using Primers 5 & 6	Patrick	Pending	I will do this one. - Pat (why do I bother writing "-Pat" in all these).																									
+9:00 AM	Patrick	■		Make 30 Cm plates, some for SHAD and some for us to keep. 	Sam/Adrian	Done																										
+1:00 AM	Patrick	■		Dilute PAT's LD 20:1000uL, followed by organization of the "Gel Stuff" box in the -20C freezer.		Pending																										
+1:00 AM	Patrick	■		Clean-up the top of the table sitting above the microwave (throw-out the random bags and the like)	Adrian	Done																										
+1:00 AM	Patrick	■		Fill up the large jug with MilliQ from Terrence	Adrian	Done	Rinse it a bit with MilliQ before you start. Carry it with the metal cart. - pat																									
+1:00 AM	Patrick	■		Replace the white lab bench paper at the chemicals section with new bench paper. 	Adrian	Done																										
+1:00 AM	Patrick	■		Clean glassware in the sink (it's not even Wednesday yet and there's so much LOL).	Adrian	Done																										
+Mon July 11th, 2016																																
+Entry Time	C/S	Type		Task	Sign Up 	Status	Comments																									
+9:00 AM	Patrick	■		Nanodrop the nine miniprepped samples and record in the lab book.	Adrian	Done																										
+9:00 AM	Patrick	■		Run a diagnostic digest with EagI and XhoI.	Adrian	Done	Confirm whether the miniprepped transformants contain the correct insert.																									
+9:00 AM	Patrick	■		Run a 1% gel on the digested samples, 80V for ~45mins, image, and put in lab book. 	Adrian	Done																										
+9:00 AM	Patrick	■		Make frozen stock of the samples which have the correct insert size. 		Pending	Ask Adrian or Pat if unfamiliar with this. 																									
+9:00 AM	Patrick	■		Inoculate new samples of the successful transofmration into LB w/ appropriate antibiotics.		Pending	Record in the lab book which ones were successful; these will be miniprepped into MilliQ and sent for sequencing if it worked. 																									
+9:00 AM	Patrick	■		PCR amplify the ADH1:GFP fragment using Primers 5 & 6	Nat, Cod	Done	Consult Patrick before starting these, going to modify a few conditions.																									
+9:00 AM	Patrick	■		Diagnostic gel on the PCR product, 1% agarose gel run at 80V 	Natasha	Done																										
+9:00 AM	Patrick	■		Use PCR Clean up kit for the PCR product +Nanodrop		Pending																										
+9:00 AM	Patrick	■		Diagnostic gel of ADH1 straight from the synthesis tube.	Sam, Pat	Done	THERE WAS NO BAND???																									
+9:00 AM	Patrick	■		Clean-up the top of the table sitting above the microwave (throw-out the random bags and the like)	Adrian	Pending																										
+9:00 AM	Patrick	■		Fill up the large jug with MilliQ from Terrence		Pending	Make sure to rinse with MilliQ at first. Why do we need this? Idk, but it's probably gonna come in use later -Pat																									
+9:00 AM	Patrick	■		Replace the white lab bench paper at the chemicals section with new bench paper. 	Adrian	Pending	It's dutty af -Pat																									
+9:00 AM	Patrick	■		Miniprep 284, then nanodrop.	Sam/Gareth	Done	There's four tubes each, notify me when you're done. 																									
+9:00 AM	Patrick	■		Miniprep 322, then nanodrop.	Sam/Gareth	Done																										
+9:00 AM	Patrick	■		Miniprep 326, then nanodrop.	Sam/Gareth	Done																										
+9:00 AM	Patrick	■		Digest 284 w/ XbaI and PstI for 60min @ 37C	Sam	Done	Go for a 2000ng digest.																									
+9:00 AM	Patrick	■		Digest 326 w/ SpeI and PstI for 60min @ 37C	Sam	Done																										
+9:00 AM	Patrick	■		Gel extract 1kb fragment from 284, and the single band (~2kb) from 326, then nanodrop.	Sam/Adrian/Pat	Done																										
+9:00 AM	Alicia 	■		Make 1L YPD Agar, autoclave, then pour plates and store them at 4C 	Sam	Done	-Pat																									
+9:00 AM	Alicia 	■		Make 1L YPD broth, aliquot 100mL into 10 250mL Baffled flasks, then autoclave 	Sam	Done																										
+9:00 AM	Alicia 	■		Replica plate the streak plates with +URA/-URA to test for the plasmid. 		Pending	Let me know when plates are ready so I can bring the replica plating samples downstairs 																									
+9:00 AM	Alicia 	■		Inoculate 5 tubes each of the PSI- strain and the PSI- with sup35 for experiment tomorrow		Pending																										
+9:00 AM	Alicia 	■		Depending if Hsp104-CFP looks good, inoculate 5 tubes of PSI- to transform into yeast tomorrow		Pending																										
+Sun July 10th, 2016																																
+Entry Time	C/S	Type		Task	Sign Up 	Status	Comments																									
+9:00 AM	Patrick	■		Inoculate 284, 322, and 326 into appropriate antibiotics (x5 each)	Patrick	Done																										
+Sat July 9th, 2016																																
+Entry Time	C/S	Type		Task	Sign Up 	Status	Comments																									
+9:00 AM	Patrick	■		Miniprep the inoculants from yesterday (x9)	Adrian	Done																										
+9:00 AM	Patrick	■		Autoclave the test tubes and place in dry oven o/n.	Patrick	Done																										
+Fri July 8th, 2016																																
+Entry Time	C/S	Type		Task	Sign Up 	Status	Comments																									
+11:00 AM	Alicia 	■		Do analysis on transformation yesterday - think about next steps 	Adrian	Done	Next steps should include inoculation of some colonies, miniprep, and digest to make sure fragment is there																									
+5:00 PM	Patrick	■		Inoculate 9 transformants on appropriate antibiotics and incubate o/n at 37C	Adrian	Done																										
+11:00 AM	Alicia 	■		PCR amplify Gal1_CFP from the stock. Use 0.5uL of DNA template, 70C annealing, 45s elongation	Adrian	Done	Please do 3-5 reactions so we can just have a lot in store																									
+11:00 AM	Alicia 	■		Run the Gal1_CFP on a 1% agarose gel at 80V. 1uL product, 4uL water, 1uL LD	Sam/Max	Done	Success																									
+11:00 AM	Alicia 	■		PCR Cleanup of the Gal1_CFP fragment and store in the -20C freezer		Pending																										
+11:00 AM	Alicia 	■		Make streak plates (single colonies) from the patches of the transformation plates from yesterday	Sam/Natasha	Done	transformation plates are patches that are currently sitting in the 30C incubator (4 total) | in the incubator																									
+11:00 AM	Alicia 	■		Design synthesized part with premature stop codon 	Alicia 	Pending	Will be ordering this ASAP 																									
+11:00 AM	Alicia 	■		Design experiment of PSI- to PSI+ and Cup1 parameters to test out our system	Alicia 	Pending	I will be doing this on the weekend and going over it with squad B on Monday meeting 																									
+12:00 PM	Patrick	■		PCR amplify the ADH1:GFP fragment using Primers 5 & 6	Patrick	Pending	Let me know if you want to start on this ASAP, otherwise I'm going to start this later in the afternoon. - Pat																									
+12:00 PM	Patrick	■		Diagnostic gel on the PCR product, 1% agarose gel run at 80V 		Pending																										
+12:00 PM	Patrick	■		Use PCR Clean up kit for the PCR product +Nanodrop		Pending																										
+12:00 PM	Patrick	■		Remove tip boxes from the dry oven	Max	Done																										
+12:00 PM	Adrian/Patrick	■		Wash labware	Sam	Done																										
+4:30 PM	Adrian/Patrick	■		Autoclave test tubes	Sam	Pending																										
+Thurs July 7th, 2016																																
+Entry Time	C/S	Type		Task	Sign Up 	Status	Comments																									
+12:00 PM	Patrick	■		PCR amplify the ADH1:GFP fragment using Primers 5 & 6	Max	Done																										
+12:00 PM	Patrick	■		Diagnostic gel on the PCR product, 1.4% agarose gel run at 80V 	Natasha/Sam	Done	gel did not work (it crystallized and was unreadable) so I'm rerunning it - sam																									
+12:00 PM	Patrick	■		Use PCR Clean up kit for the PCR product +Nanodrop		Pending																										
+12:00 PM	Alicia	■		Transform the ligation products of CFP_Gal1 w/ Hsp104	Adrian 	Done																										
+12:00 PM	Alicia	■		Figure out activation parameters for the Gal1 promoter (get help from squad C)	Max	Done																										
+12:00 PM	Alicia	■		Design SDM primers for removing SpeI site from Hsp104 ORF & plan experiment 		Pending																										
+12:00 PM	Alicia	■		Design synthesized part with premature stop codon 	Alicia 	Pending	Make sure to remove illegal sites in the Hsp104 ORF 																									
+12:00 PM	Alicia	■		Streak plate yeast transformation onto YPD (2 colonies per plate) then grow 	Alicia 	Done																										
+12:00 PM	Alicia	■		Write an experimental plan for going from PSI- to PSI+ and how often we will take samples 	Alicia 	Pending																										
+12:00 PM	Patrick	■		Fill p10 tip boxes (one full bag), autoclave, and place in the dry oven o/n,	Sam	Done																										
+Wed July 6th, 2016																																
+Entry Time	C/S	Type		Task	Sign Up 	Status	Comments																									
+8:30 AM	Alicia	■		1. PCR x3 of CFP_Gal1 with primers 7&8 (3 tubes, 0.5uL DNA in each, Tm 70C, Extension time 45s)	Adrian	Done	Make sure you add all components except for Q5, spin down, then pipette in Q5 - be very careful with everything!!! -done running at 2:05																									
+8:30 AM	Alicia	■		2. Diagnostic gel on the PCR product (should be 1.4 kB long), 1.4% agarose gel	Adrian	Done	Let me know if this works - Alicia																									
+8:30 AM	Alicia	■		3. PCR Cleanup of CFP_Gal1 (3X tubes) fragment and nanodrop	Adrian	Cancelled 	The PCR did not run properly, a different set of CFP_Gal1 was digested																									
+8:30 AM	Alicia	■		2. Digest 2000ng of Hsp104 with XhoI and BamHI for 30min at 37C	Natasha 	Done																										
+8:30 AM	Alicia	■		3. Run a diagnostic gel & gel extract Hsp104 plasmid to see bands if digest worked 	Natasha 	Done	Remember to add a pinch of guanosine 																									
+8:30 AM	Alicia	■		4. Gel Extract Hsp104 fragment from the digest 	Natasha/Adrian	Done	Add in one diagnostic lane for seeing if the digest worked -Oops, I didn't see this so I told Natasha to do use all of it for the extraction -Adrian																									
+8:30 AM	Alicia	■		5. Column purification of both fragments and nanodrop (Hsp104 and Gal1_CFP)	Adrian	Done																										
+8:30 AM	Alicia	■		6. Ligate CFP_Gal1 into Hsp104 plasmid using 3:1 ratio 	Adrian	Done	Remember to do no ligase and no insert controls																									
+8:30 AM	Alicia	■		Figure out activation parameters for the Gal1 promoter (get help from squad C)	Max	In progress	Will finish within 24hrs (5pm)																									
+8:30 AM	Alicia	■		Design SDM primers for removing SpeI site from Hsp104 ORF & plan experiment 	Alicia 	Pending	Talk to Alicia if you want to do this one 																									
+8:30 AM	Alicia	■		Design primers to biobrick HSP104 + stop codon and with no stop codon 	Cody	Done	Should probably be one primer set 																									
+8:30 AM	Alicia	■		Design synthesized part with premature stop codon 		Pending																										
+9:00 AM	Patrick	■		PCR amplify the ADH1:GFP fragment using Primers 5 & 6	Max	Done	6:00:00 PM end time, modified multiple parameters (ie. cycles and extension time). 																									
+9:00 AM	Patrick	■		Diagnostic gel on the PCR product, 1.4% agarose gel run at 80V 	Adrian	Done	PCR did not work																									
+9:00 AM	Patrick	■		Use PCR Clean up kit for the PCR product +Nanodrop		Pending																										
+3:00 PM	Patrick/Adrian	■		Clean labware in sink	Cody	Done																										
+Tues July 5th, 2016				Daily Summary: BUCKLE DOWN CAUSE WE'RE IN FOR A RIDE, RECRUITS.																												
+Entry Time	C/S	Type		Task	Sign Up 	Status	Comments																									
+8:30 AM	Alicia	■		1. PCR x3 of CFP_Gal1 with primers 7&8 (3 tubes, 0.5uL DNA in each, Tm 70C, Extension time 45s) 	Sam	Done	Make sure you add all components except for Q5, spin down, then pipette in Q5 - will finish around 12:15																									
+8:30 AM	Alicia	■		2. Diagnostic gel on the PCR product (should be 1.4 kB long), 0.8% agarose gel 	Natasha	Done	None worked 																									
+8:30 AM	Alicia	■		3. PCR Cleanup of CFP_Gal1 (3X tubes) fragment and nanodrop 	Adrian	Done																										
+8:30 AM	Alicia	■		4. Digest 1000ng of CFP_Gal1 with XhoI and BamHI for 30min at 37C		Pending	After this, move to step 5 in parallel with Hsp104																									
+8:30 AM	Alicia	■		1. Miniprep 5X tubes of Hsp104 and nanodrop 	Adrian	Done																										
+8:30 AM	Alicia	■		2. Digest 2000ng of Hsp104 with XhoI and BamHI for 30min at 37C		Pending																										
+8:30 AM	Alicia	■		3. Run a diagnostic gel & gel extract Hsp104 plasmid to see bands if digest worked 		Pending	Remember to add a pinch of guanosine 																									
+8:30 AM	Alicia	■		4. Gel Extract Hsp104 fragment from the digest 		Pending																										
+8:30 AM	Alicia	■		5. Column purification of both fragments and nanodrop (Hsp104 and Gal1_CFP)		Pending	**Gel Extraction kit - pat																									
+8:30 AM	Alicia	■		6. Ligate CFP_Gal1 into Hsp104 plasmid using 3:1 ratio 		Pending	Remember to do no ligase and no insert controls 																									
+8:30 AM	Alicia	■		Figure out activation parameters for the Gal1 promoter (get help from squad C)	PAT	Pending																										
+8:30 AM	Alicia	■		Design SDM primers for removing SpeI site from Hsp104 ORF & plan experiment 	Pat	Pending	Talk to Alicia if you want to do this one 																									
+8:30 AM	Alicia	■		Design primers to biobrick HSP104 + stop codon and with no stop codon 		Pending	Should probably be one primer set 																									
+8:30 AM	Alicia	■		Design synthesized part with premature stop codon 	Alicia, Pat	Pending	When are you doing this? -Adrian																									
+8:30 AM	Alicia	■		Check if replica plating worked on the PSI+ strain 	Peter	Done	Did not work, all plates grew																									
+8:30 AM	Alicia	■		1. Inoculate 3X 100mL flasks of YPD for the transformation - normalize to OD600 of 0.1 	Alicia, Pat	Done	Began 9:16am, Finish 3:16pm																									
+8:30 AM	Alicia	■		2. Prepare all reagents and plates for transformation 	Alicia, Max, Sam	Done	Plate on URA3- + DNA, URA3 no DNA, ura3 + DNA, ura3 no DNA																									
+8:30 AM	Alicia	■		3. Miniprep 5X tubes of Sup35 and nanodrop - these are for transformation, nanodrop	Austin, Adrian	Done																										
+8:30 AM	Alicia	■		4. Transform Sup35 into S. cerevisiae x3	Alicia, Max, Sam	Done																										
+8:30 AM	Alicia	■		Write an experimental plan for going from PSI- to PSI+ and how often we will take samples 	Pat	Pending																										
+8:30 AM	Alicia	■		Figure out activation parameters for the cup1 promoter (get help from squad C)	PAT	Pending																										
+9:00 AM	Patrick	■		PCR amplify the ADH1:GFP fragment using Primers 5 & 6	Sam	Done	Used 66-70C, triplet samples w/ -ve CTRL at 66C - will finish around 12:15																									
+9:00 AM	Patrick	■		Diagnostic gel on the PCR product, 1% agarose gel run at 80V 	sam/natasha	Done	Did not work																									
+9:00 AM	Patrick	■		Use PCR Clean up kit for the PCR product +Nanodrop		Pending																										
+9:00 AM	Patrick	■		Restore lab benches to their original conditions (clean them the hell up).	Pat/ Adrian	Done																										
+9:00 AM	Patrick	■		Make 1L 50x TAE and then refill the 1X TAE jug. 	Adrian	Done																										
+Mon July 4th, 2016		Daily Summary: Track A Group 2 is on pause, Track A - Group 1 and Track B+C are active.																														
+Entry Time	C/S	Type		Task	Sign Up 	Status	Comments																									
+9:00 AM	Patrick	■		Return autoclaved material and reagents back into storage and shelves. 	Adrian/Austin	Done																										
+9:00 AM	Patrick	■		PCR amplify the ADH1:GFP fragment using Primers 5 & 6	Cody/Austin/Adrian	Done																										
+9:00 AM	Patrick	■		Diagnostic gel on the PCR product, 1% agarose gel run at 80V 	Sam/Max/Adrian	Done																										
+9:00 AM	Patrick	■		Use PCR Clean up kit for the PCR product +Nanodrop	Ayan	Pending	*PCR DID NOT WORK :'( 																									
+9:00 AM	Patrick	■		Order new primers for the oePCR group	Patrick/Alicia	Pause																										
+11:00 AM	Alicia	■		PCR of CFP_Gal1 with primers 7&8 (3 tubes, 0.5uL DNA in each, Tm 70C, Extension time 45s) 	Ayan/Andres	Done																										
+11:00 AM	Alicia	■		Diagnostic gel on the PCR product (should be 1.4 kB long), 0.8% agarose gel 	Ayan/Andres	Done																										
+11:00 AM	Alicia	■		PCR Cleanup of CFP_Gal1 (3X tubes) fragment and nanodrop 	Ayan	Pending	*ONLY +VE #1 WORKED :'( / :)																									
+11:00 AM	Alicia	■		Digest 1000ng of Hsp104 and CFP_Gal1 with XhoI and BamHI	Adrian/Max	Done	Only digesting HSP104 b/C waiting for CFP_Gal, 																									
+11:00 AM	Alicia	■		Run a diagnostic gel on Hsp104 plasmid to see bands if digest worked 	Sam/Gareth	Done																										
+11:00 AM	Alicia	■		Gel Extract Hsp104 fragment from the digest 	Sam	Done	Unsuccessful																									
+11:00 AM	Alicia	■		Column purification of both fragments and nanodrop 	Sam	Pending																										
+11:00 AM	Alicia	■		Ligate CFP_Gal1 into Hsp104 plasmid using 3:1 ratio 	Sam	Pending																										
+11:00 AM	Alicia	■		Design primers for biobricking Hsp104-CFP into pSB1C3	Patrick/Alicia	Pending	 																									
+11:00 AM	Alicia	■		Inoculate Hsp104 leu plasmid for miniprep tomorrow 5X tubes with Amp 	Adrian	Done																										
+11:00 AM	Alicia	■		Inoculate sup35 plasmid for miniprep tomorrow 5X tubes with Amp 	Adrian	Done																										
+11:00 AM	Alicia	■		Replica plate PSI+ strain again - should be ade2-, leu2-, his3-, trp3-, ura3- 	Peter/Alicia	Done																										
+11:00 AM	Alicia	■		Restreak PSI- strain on YPD media (RT)	Peter	Done	Help would be great; what time do you want to do this? Starting at 1pm																									
+11:00 AM	Alicia	■		Inoculate PSI- yeast strain in 5mL YPD x5 for transformation tomorrow (in 30 C)	Peter	Done																										
+11:00 AM	Alicia	■		Define activation parameters for the Cup1 promoter to induce the response 	Patrick/Alicia	Pending	Let's do it together/ tell me when you're done so I can approve them too. - Pat																									
+11:00 AM	Adrian/Patrick	■		Make 20 Amp agar plates	Adrian	Done																										
+1:45 PM	Adrian/Patrick	■		Clean labware and create space for the YPD flasks.	Adrian	Done																										
+Fri July 1, 2016		Daily Summary: Squad A Groups 1 & 2, and Squad C are active, making comp cells with new protocol.																														
+Entry Time	C/S	Type		Task	Sign Up 	Status	Comments																									
+9:00 AM	Patrick	■		4 Pellet using 3K RPM, 10min, 4C; decant; resuspend in 4mL 0.085M CaCl2 - 15% Glycerol	Patrick	Done																										
+9:00 AM	Patrick	■		5 Make 100uL aliquots into ~40 1.5mL tubes, and refirgerate at -80C	Patrick	Done																										
+9:00 AM	Alicia	■		Make 1L YPD and autoclave in flasks to prepare for transformation 	Patrick	Done	100mL in 250mL baffled flask (10 of them)																									
+9:00 AM	Adrian/Patrick	■		Clean test tubes, already soaking in sparkcleen in white bucket, scrub and rinse with DI, & autoclave	Patrick	Done																										
+9:00 AM	Patrick	■		Troubleshoot the oePCR on SnapGene	Patrick	Pending																										
+9:00 AM	Patrick	■		Test competency of the new comp cells with transformation of pSB1C3-RFP plasmids.	Patrick	Done	Patrick you are da bomb - Alicia																									
+Thursday June 30, 2016		Daily Summary: Squad A Groups 1 & 2, and Squad C are active, making comp cells with new protocol.																														
+Entry Time	C/S	Type		Task	Sign Up 	Status	Comments																									
+10:00 AM	Alicia	■		Check Transformation plates from yesterday's transformation and do analysis 	Alicia	Done	Plates were right side up, still in incubator																									
+10:00 AM	Alicia	■		Replica plate PSI+ and PSI- strains to make sure they have correct genotype	Vincent, Peter, Alicia, Adrian	Done	Use amino acids made yesterday																									
+10:00 AM	Alicia	■		Make 1L YPD and autoclave in flasks to prepare for transformation 		Pending	Alicia you said you wanted me to do this tomorrow?????????? - pat																									
+10:30 AM	Adrian/Patrick	■		Make 2L LB, then measure out 200ml portions into square jars, label (LB, name, date) and autoclave	Adrian	Done																										
+11:35 AM	Patrick	■		Autoclave 1L of DI in two separate 500mL glass bottles.	Adrian	Done	It will have to go in with the next batch, I didn't see this before I put this batch into the autoclave																									
+11:35 AM	Patrick	■		Diagnostic gel on the PCR product, 1% agarose gel run at 80V 	Alicia	Done	It didn't work, need to do it again																									
+11:35 AM	Patrick	■		Use PCR Clean up kit for the PCR product +Nanodrop	Pending	Cancelled																										
+11:35 AM	Patrick/Adrian	■		2  Pellet using 3K RPM, 10min, 4C; decant; resuspend in 125mL 0 1M MgCl2, inc  at 4C for 30min	Patrick	Done																										
+11:35 AM	Patrick/Adrian	■		3  Pellet using 3K RPM, 10min, 4C; decant; resuspend in 125mL 0 1M CaCl2, inc  at 4C in ice + o/n	Patrick	Done																										
+11:35 AM	Patrick	■		Troubleshoot the oePCR on SnapGene	Patrick	Pending																										
+12:00 PM	Adrian/Patrick	■		Refill blue tip box with 10ul tips and autoclave for Dr. Moffatt	Adrian	Done																										
+12:00 PM	Adrian/Patrick	■		Clean test tubes, already soaking in sparkcleen in white bucket, scrub and rinse with DI, & autoclave	Angel	Pending	Is this done yet? - Pat																									
+5:00 PM	Patrick	■		Label the damn drawers already cause I have no clue where glassware is now	Adrian	Done																										
+Wed June 29th, 2016		Daily Summary: Squad A Groups 1 & 2, and Squad C are active, making comp cells with new protocol.																														
+Entry Time	C/S	Type		Task	Sign Up 	Status	Comments																									
+9:00 AM	Patrick/Adrian	■		1  Inoculate 250mL LB with 5mL culture of DH5a, no antibiotics, grow till OD 0.4-0.5	Adrian	Done																										
+9:00 AM	Patrick/Adrian	■		2  Pellet using 3K RPM, 10min, 4C; decant; resuspend in 125mL 0 1M MgCl2, inc  at 4C for 30min		Done																										
+9:00 AM	Patrick/Adrian	■		3  Pellet using 3K RPM, 10min, 4C; decant; resuspend in 125mL 0 1M CaCl2, inc  at 4C in ice + o/n		Done																										
+9:00 AM	Patrick	■		Inoculate the DH5a from the LB-only culture into 5mL LB w/ 2.5uL Km	Adrian	Done																										
+9:00 AM	Patrick	■		Resuspend ADH1:GFP synthesized fragment.	Max/Alicia	Done	Thanks homies																									
+9:00 AM	Patrick	■		PCR amplify the ADH1:GFP fragment using Primers 5 & 6	Max/Alicia/Cody	Done																										
+9:00 AM	Patrick	■		Diagnostic gel on the PCR product, 1% agarose gel run at 80V 		Done																										
+9:00 AM	Patrick	■		Use PCR Clean up kit for the PCR product +Nanodrop		Cancelled																										
+9:00 AM	Patrick	■		Put the autoclaved tubes and inoculation sticks in the dry oven for the day.	Adrian	Done																										
+9:00 AM	Patrick	■		Troubleshoot the oePCR on SnapGene	Adrian	Done																										
+1:00 PM	Alicia	■		Transform Hsp104-CFP Ligation into DH5alpha. Use Hsp104 plasmid as a +Ve control (antibiotic is Amp)	Patrica/Max/Gareth	Done																										
+1:00 PM	Alicia	■		Make 50mL Adenine solution (5mg/mL)	Alicia	Done	Someone come help :D																									
+1:00 PM	Alicia	■		Make 50mL Tryptophan solution (10mg/mL)	Alicia/Andres	Done																										
+1:00 PM	Alicia	■		Make 50mL Uracil Solution (2mg/mL)	Alicia	Done																										
+1:00 PM	Alicia	■		Make 50mL Histidine solution (10mg/mL)	Alicia	Done																										
+1:00 PM	Alicia	■		Make 50mL Leucine Solution (10mg/mL)	Alicia	Done																										
+1:00 PM	Alicia	■		Bring TEL, PEG-TEL, and other transformation reagents to iGEM lab 	Alicia	Done																										
+1:00 PM	Alicia	■		Prepare plates for replica plating experiment tomorrow 	Alicia/Max/Austin	Done																										
+1:00 PM	Alicia	■		Make 1L of WO media and autoclave 	Alicia/Natasha	Done	In autoclave																									
+2:00 PM	Patrick/Adrian	■		Wash glassware in the sink	Adrian	Done																										
+Tuesday June 28th, 2016		Daily Summary: Squad A Groups 1 & 2 are active, making comp cells with new protocol.																														
+Entry Time	C/S	Type		Task	Sign Up 	Status	Comments																									
+9:00 AM	Alicia	■		Digest CFP_Gal1 PCR and Hsp104 Plasmid with BamHI and XhoI 1000ng, 30min digest	Sam/Peter	Done	Will start by 2:30pm																									
+9:00 AM	Alicia	■		Column purify both fragments with PCR Clean up kit	Sam/Peter	Done																										
+9:00 AM	Alicia	■		Ligate fragments together using 4:1 ratio	Sam	Done	Stored in orange tray on the shelf besides the LB media 																									
+9:00 AM	Patrick	■■		Write up Experimental Flow of oePCR group and approve it with Patrick	Adrian	Done	Let me know when you're done; I'll add a new task after you finish 																									
+9:00 AM	Patrick/Adrian	■		Re organize Sq A workbox, following the Group Working Box tab 	Max	Done																										
+9:00 AM	Patrick/Adrian	■		Autoclave a 500mL baffled flask holding 250mL LB	Cody	Done	The rest of the solution I'll provide from the Rose Lab lots of leftover to spare 																									
+12:00 PM	Patrick/Adrian	■		1  Inoculate 250mL LB with 5mL culture of DH5a, no antibiotics, grow till OD 0 4 0 5	Adrian	Done	Contamination from LB stock bottle, will do it tomorrow  																									
+12:00 PM	Patrick/Adrian	■		2  Pellet using 3K RPM, 10min, 4C; decant; resuspend in 125mL 0 1M MgCl2, inc  at 4C for 30min	Adrian	Done	"																									
+12:00 PM	Patrick/Adrian	■		3  Pellet using 3K RPM, 10min, 4C; decant; resuspend in 125mL 0 1M CaCl2, inc  at 4C in ice + o/n	Adrian	Done	"																									
+1:00 PM	Patrick/Adrian	■		Inoculate DH5a into 5mL LB w/ set of antibiotics to check for contamination	Adrian	Done																										
+10:20 AM	Patrick	■		Run oePCR on the CFP frag  & Hsp104, recipe and conditions provided on office white board 	Adrian	Done																										
+10:26 AM	Patrick	■		Diagnostic gel on the oePCR product 1% agarose gel run at 80V 	Adrian	Done	1uL Sample, 4uL Water, 1uL LD																									
+10:26 AM	Patrick	■		Use PCR Clean up kit for the oePCR product +Nanodrop	Adrian	Cancelled	Failed.																									
+1:00 PM	Patrick	■		Autoclave more 1 5mL tubes, 2 0mL tubes, and the inoculation sticks in the flowhood 	Adrian	Done																										
+Monday June 27th, 2016																																
+Entry Time	C/S	Type		Task	Sign Up 	Status	Comments																									
+9:00 AM	Alicia	■		Digest CFP_Gal1 PCR and Hsp104 Plasmid with BamHI and XhoI 1000ng, 30min digest	Alicia	Done	If someone would like to help that would be awesome   will start around 12 I think   I Sam will help out but I got 308 1 2:30																									
+9:00 AM	Alicia	■		Column purify both fragments 	Alicia	Done																										
+9:00 AM	Alicia	■		Ligate fragments together using 4:1 or 5:1 ratio this will be updated	Alicia	Done																										
+9:00 AM	Patrick	■		Update the Status of the Tasks from June 23rd 	Adrian	Done																										
+9:00 AM	Patrick	■		Fill ten 10uL and 200uL tip boxes, autoclave, and put in the drying oven O/N	Sam/Adrian	Done																										
+1:30 PM	Patrick	■■		Inoculate DH5a into 5mL LB w/ set of antibiotics to check for contamination	Adrian	Done																										
+2:00 PM	Patrick	■		PCR Clean up of CFP fragment pooled together for Sq A/Grp 2, for oePCR +Nanodrop	Adrian	Done	Note: this is a different fragment than the CFP Gal1 amplified for the restriction digest																									
+2:24 PM	Patrick	■■		Write up Experimental Flow of oePCR group and approve it with Patrick	Adrian	Pending	Seneca/Vincent, talk to Adrian when you can about this! :   pat																									
+3:30 PM	Patrick/Adrian	■		Re organize Sq A workbox, following the Group Working Box tab 	Adrian	Pending																										
+Friday June 24th, 2016																																
+Entry Time	C/S	Type		Task	Sign Up 	Status	Comments																									
+9:00 AM	Alicia	■		Resuspend synthesized fragment from IDT in appropriate buffer 	Alicia	Done	Final conc is 10ng/uL																									
+9:00 AM	Alicia	■		PCR of CFP_Gal1 promoter using primers 7&8   use temperature gradient 	Alicia	Done																										
+9:00 AM	Alicia	■		Make small 1% agarose gel 	Adrian	Done																										
+9:00 AM	Alicia	■		Run PCR product on a gel to check for correct band size 	Max	Done																										
+9:00 AM	Alicia	■		Do PCR cleanup on CFP_Gal1 PCR Product an nanodrop	Sam/Max	Done																										
+12:00 PM	Alicia	■		Pick up enzymes from Terence 	Alicia	Done																										
+3:00 PM	AP/Patrick	■		PCR with primers 3&4 to amplify CFP for o/e PCR 	Adrian	Done																										
+3:00 PM	AP/Patrick	■		PCR Cleanup of Hsp104 PCR to prepare for o/e PCR	Sam/Max	Done																										
+3:00 PM	AP/Patrick	■		Make small 0 8% agarose gel for running CFP 	Seneca/Vincent	Done																										
+3:00 PM	AP/Patrick	■		Run PCR product on 0 8% agarose gel to check for correct CFP band size	Seneca/Vincent	Done																										
+Thursday June 23rd, 2016																																
+Entry Time	C/S	Type		Task	Sign Up 	Status	Comments																									
+11:08 PM	Patrick/ Adrian	■		Miniprep pXP218 cultures, and nanodrop 	Cody	Done																										
+2:45 PM	Patrick/ Adrian	■		Repeat miniprep pXP218 cultures, and nanodrop 	Max	Done	There were two tubes, but Cody only did one cause the other was originally reserved for someone else  																									
+2:00 PM	Patrick/ Adrian	■		Diagnostic d digest of pXP218 BamHI & SalI & Hsp104 BamHI & BglII 	Adrian	Done	Checking for size, 200ng, Incu  for 25min, 20uL rxn,  ve CTRL																									
+2:00 PM	Patrick/ Adrian	■		Diagnostic 1% ag gel run w/ conditions for clear bands, ie  nice and slow for the d digest 	Adrian/ Patrick	Done	Image the gel, and save in lab book 																									
+2:15 PM	Patrick	■		Discard of recyclying beside the lab computer, and make labels for the drawers 	Adrian/ Patrick	Done																										
+2:50 PM	Patrick/ Adrian	■		Dry the test tubes in the hot oven o/n to remove water 	Cody	Done	Cody checking up on it tomorrow morning  																									
+5:23 PM	Patrick	■		Re make Strain Box 6 for  80C freezer 	Adrian	Done	ADRIAN DO THIS BEFORE YOU LEAVE 																									
+10:00 AM	Alicia	■		Make YPD Plates 20 plates using the steamer and store in the fridge	Peter	Done																										
+10:00 AM	Alicia	■		Re streak PSI+ strain on a YPD plate it looks contaminated	Alicia	Done	Don't know where the stock plate is   in fridge labelled PSI+																									
+10:00 AM	Alicia	■		Make Frozen stocks of PSI , PSI+, and CFP yeast strains	Alicia	Done																										
+1:00 PM	Alicia	■		Resuspend synthsized fragment CFP_Gal1 in appropriate buffer	  	Done	When you are doing it let me know! who is this?   pat its alicia   it's Peter																									
+Wednesday June 22nd, 2016																																
+Entry Time	C/S	Type		Task	Sign Up if Applicable	Status	Comments																									
+9:00 AM	AP/ Adrian	■		Inoculate pXP218 in 5mL LB w/ 2 5uL Amp x2	Natasha	Done																										
+3:00 PM	Patrick	■		Complete the LD Leads Planner	  	Done																										
+Tuesday June 21st, 2016																																
+9:00 AM	Alicia	■		Rearrange & order 4 remaining IDT sequences 	Alicia	Done	Ordered 3 promoters after changing to yeGFP and also changed Gal1 promoter sequence  Ordered sequences are in the dropbox																									
+9:00 AM	Alicia	■		PCR of Hsp104 plasmid to remove first fragment for OE PCR use temp gradient	Adrian/Emma	Done																										
+9:00 AM	Alicia	■		Make 0 8% agarose gel, 11 wells 	Max/Adrian	Done																										
+9:00 AM	Alicia	■		Run gel to check for correct band size in PCR, run at 100V	Max/Adrian	Done	IT WORKED YAY																									
+Monday June 20th, 2016																																
+Entry Time	C/S	Type		Task	Sign Up if Applicable	Status																										
+9:00 AM	Alicia	■		Organize SnapGene files 	Alicia/Natasha	Done	Can someone help me?																									
+9:00 AM	Alicia	■		Rearrange & order 4 remaining IDT sequences 	Alicia/Natasha	Pending																										
+9:00 AM	Alicia 	■■		Dilute primers in TE to concentration of 100uM 	Peter	Done																										
+10:00 AM	Adrian/AP	■		Get liquid nitrogen	Patrick	Done																										
+10:00 AM	Adrian/AP	■■■		Make long term storage stock of plasmid cultures Hsp104, Sup35, pXP	Sam	Done																										
+10:00 AM	Adrian/AP	■■		Do miniprep of Hsp104/Sup35 plasmid	Natasha/Cody/Sam/Austin/Adrian	Done																										
+1:45 PM	Alicia 	■		Make 1L YPD Agar 1% yeast extract, 2% peptone, 2% glucose, 2% agar	Sam	Done																										
+1:45 PM	Alicia 	■		Make 1L YPD Media 1% yeast extract, 2% peptone, 2% glucose	Sam	Done																										
+3:00 PM	AP	■		Done Biology Technical document	Patrick	Done																										
+3:00 PM	Adrian/AP	■		Clean glassware	Adrian	Done																										
+3:30 PM	Adrian/AP	■		Innoculate culture of pXP218 for miniprep	Adrian	Done																										
+3:30 PM	Adrian/AP	■		autoclave YPD Agar and Media	Patrick	Done																										
+Sunday June 19th, 2016																																
+Entry Time	C/S	Type		Task	Sign Up if Applicable	Status																										
+14:00	Adrian/AP	■■■		Innoculate cultures for longterm storage stock   plasmids Hsp104/Sup35/pXP 	Vincent/Adrian	Done																										
+14:00	Adrian/AP	■		Innoculate culture for Hsp104 b/Leu plasmid miniprep	Vincent/Adrian	Done																										
+Friday June 17th, 2016																																
+Entry Time	C/S	Type		Task	Sign Up if Applicable	Status																										
+9:00 AM	Alicia	■		Make 100mL 0 5M EDTA pH 8 0 autoclave	Adrian	Done																										
+9:00 AM	Alicia	■		Make 50mL TE Buffer 10mM Tris HCl pH 8 + 1mM EDTA pH 8 then filter sterilize	Adrian	Done																										
+9:00 AM	Alicia	■		Rearrange & order 4 remaining IDT sequences 	Alicia/Patrick	Pending																										
+9:00 AM	Alicia	■		Organize SnapGene files 	Alicia/Natasha	Pending	Can someone help me?																									
+9:00 AM	Alicia 	■■■		Get alphaW303 yeast strain to use at PSI  control and streak on plate 	Alicia 	Done																										
+9:00 AM	Alicia	■■■		Streak Duncker lab strains on YPD 	Alicia/Peter	Done																										
+11:00 AM	Adrian/AP	■■■		Streak frozen stocks to test	Adrian	Done																										
+11:00 AM	Adrian/AP	■■■		Make new Tris HCl 100ml, 1 0M and pH of 8 0	Alicia	Pending																										
+11:30 AM	Patrick	■		Make 250mL 10 M NaOH	Adrian	Done																										
+3:14 PM	Adrian/AP	■■■		Make streak plates from ordered plasmids	Adrian/Vincent	Done																										
+Thursday June 16th, 2016																																
+Entry Time	C/S	Type		Task	Sign Up if Applicable	Status																										
+11:30 AM	Alicia	■		Rearrange & order 4 remaining IDT sequences 	Alicia	Pending																										
+11:30 AM	Alicia	■		Organize SnapGene files 	Alicia 	Pending																										
+11:30 AM	Alicia	■		Make 250mL of 1 0M HCl and 1 0M NaOH acids and oxidizers cabinets	Alicia/Adrian	Done																										
+11:30 AM	Alicia 	■		Make 100mL 1 0M Tris HCl  pH 8 0 autoclave	Alicia/Adrian	Done																										
+11:30 AM	Alicia	■		Make 100mL 0 5M EDTA pH 8 0 autoclave	Adrian	Done																										
+11:30 AM	Alicia	■		Make 50mL TE Buffer 10mM Tris HCl pH 8 + 1mM EDTA pH 8 then filter sterilize	Adrian	Done																										
+11:30 AM	Alicia 	■■		Dilute primers in TE to concentration of 100uM 	Peter	Done																										
+11:30 AM	Alicia 	■■■		Get alphaW303 yeast strain to use at PSI  control and streak on plate 	Alicia 	Done																										
+11:30 AM	Alicia	■		Clean labware	Alicia 	Done																										
+4:30 PM	Adrian/AP	■		Make LB Agar	Sam	Done																										
+5:00 AM	Adrian/AP	■■■		Make frozen stocks	Adrian	Done																										

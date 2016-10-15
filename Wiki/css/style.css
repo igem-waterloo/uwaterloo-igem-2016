@@ -5,7 +5,8 @@ html, body {
   padding-top: 44px;
   width: 100%;
   height: 100%;
-  background-color: #fff;
+  background-color: #F0EAD6;
+  font-family: 'Ubuntu', sans-serif;
 }
 
 html {
@@ -16,7 +17,8 @@ html {
 a, a:link, a:visited {
     color: #23b593;
 }
-
+body{
+}
 /*---General Colour Classes----------------------------------------------------------------------*/
 .orangetext {
   color: #fbb67a;
@@ -207,6 +209,17 @@ figcaption.model-caption {
 }
 
 /*---Requirements Page----------------------------------------------------------------------------*/
+
+.requirements-text {
+  font-size: 18px;
+}
+
+.elaboration-text {
+  font-size: 14px;
+  color: #0E3A5A
+}
+
+/*Stuff left over from last year?*/
 #medals-container {
     margin: 0px;
 }
@@ -729,12 +742,12 @@ pre code {
 }
 .landing{
   font-family: 'Baloo Bhaina', cursive;
-  background-color: #15323A;
-  height: 1080px;
+  background-color: #404855;
+  height: 80vh;
+  padding-top: 5vh;
 }
  #circle1 {
   position: relative;
-  bottom: 100px;
   right: 400px;
     width: 50px;
     height: 50px;
@@ -745,7 +758,6 @@ pre code {
   }
   #circle2 {
     position: relative;
-    top: 65px;
     right: 450px;
     width: 50px;
     height: 49px;
@@ -766,8 +778,7 @@ pre code {
   }  
   #circle4 {
   position: relative;
-  bottom: 130px;
-  left: 569px;
+  left: 519px;
     width: 51px;
     height: 50px;
     -webkit-border-radius: 26px;
@@ -777,8 +788,7 @@ pre code {
   }
   #circle5 {
   position: relative;
-  left: 350px;
-  bottom: 40px;
+  left: 300px;
     width: 51px;
     height: 50px;
     -webkit-border-radius: 26px;
@@ -788,8 +798,7 @@ pre code {
   }
   #circle6 {
   position: relative;
-  left: 700px;
-  top: 200px;
+  left: 400px;
     width: 51px;
     height: 50px;
     -webkit-border-radius: 26px;
@@ -799,11 +808,182 @@ pre code {
   }
 
 .landing #caption{
+  position: relative;
+  top: 35px;
+  padding-left: 15px;
   color: #F5636D;
+  font-size: 64px;
   font-style: underline;
 }
 .landing .btn-danger{
+  margin-top: 3vh;
+  transition: ease;
+  transition-duration: 0.4s;
+  border-color: #F5636D;
+  color: white;
+  background-color: #F5636D;
+}
+.landing .btn-danger:hover{
+  transition: ease;
+  transition-duration: 0.4s;
   border-color: #F5636D;
   color: #F5636D;
   background-color: rgba(0,0,0,0.2);
+}
+.project-logo{
+  display: flex;
+  flex: column;
+}
+
+.jumbotron .project-logo svg{
+height: ;
+}
+
+.wcontent-box{
+  margin: 7.5vh 12.5vw;
+  box-shadow: 3px 7px 5px #888888;
+  position:relative;
+  height: auto;
+  width: 75vw;
+  
+}
+.wcontent-title{
+ background-color: #404855;
+ color: #F5636D;
+ font-size: 22px;
+/*  color: white; */
+ padding: 15px;
+/*  border-top-style: solid;
+ border-top-width: 3px;
+ border-top-color: dodgerblue; */
+}
+.wcontent{
+  background-color: white;
+  color: #141823;
+  padding: 20px;
+}
+
+.wcontent-protocol{
+  margin: 7.5vh 5vw;
+  box-shadow: 3px 7px 5px #888888;
+  position:relative;
+  height: auto;
+  width: 30vw;
+  
+}
+.initial-bar{
+  background-color:rgba(27,24,24, 0.4);
+  box-shadow: 0px 2px 3px #2a2e2f;
+  line-height: 40px !important ;  
+}
+.navbar{
+  display: inline-block;
+}
+.navbar-nav > li > a{
+  color: white;
+  padding-top: 18px;
+  transition-duration: 0.1s;
+  transition-timing-function: linear;
+
+}
+.initial-bar .navbar-nav > li > a:hover{
+    background-color: rgba(0,0,0,0);
+    border-top-style: solid;
+    border-top-color: white;
+    padding-top: 15px;
+}
+.initial-bar .navbar-nav > li > a:focus {
+    background-color: rgba(0,0,0,0);
+    border-top-style: solid;
+    border-top-color: indianred;
+    padding-top: 15px;
+    color:indianred;
+}
+.protocol-page .wcontent-box{
+  width: 50vw;
+}
+.wcontent-img33{
+  width: 33%;
+  display: inline-block;
+  margin: auto;
+}
+.wcontent-img50{
+  width: 49%;
+  display: inline-block;
+  margin: auto;
+}
+.wcontent-img-solo25{
+  width: 25vw;
+  display:block;
+  margin: auto;
+}
+.wcontent-img-solo50{
+  width: 50vw;
+  display:block;
+  margin: auto;
+}
+.wcontent-caption{
+  margin-top: 2vh;
+  margin-bottom: 2vh;
+  display: block;
+  text-align: center;
+  color: #777777;
+}
+.precard{
+  display:flex;
+  flex-flow: row wrap;
+}
+.team-card{
+  position: relative;
+  z-index: 1;
+  margin: 30px;
+  width: 500px;
+}
+.card-desc{
+  transition-timing-function: linear;
+  transition-duration: 1s;
+  padding: 110px 50px 50px 50px;
+  width: 100%;
+  height: 450px;
+  background-color: white;
+}
+.monster{
+  padding-top: 20px;
+  color:#F5636D;
+  font-size: 24px;
+  padding-left: 250px;
+  padding-right: 15px;
+  padding-bottom: 10px;
+  background-color: #404855;
+}
+.person-program{
+  color: #F5636D;
+  font-size: 16px;
+}
+.person-labteam{
+  color: #3f7f7f;
+  font-size: 19px;
+}
+
+.person-desc{
+  color: #777777;
+  font-size: 14px;
+}
+.urinacircle{
+  z-index: 2;
+  position: absolute;
+  top: -35px;
+  margin-left: 15px;
+  background-color: #cccccc;
+  height: 200px;
+  width: 200px;
+  border-radius:50%;
+}
+.bigyou{
+  transition-timing-function: linear;
+  transition-duration: 1s;
+  padding: 110px 50px 50px 50px;
+  width: 100%;
+  height: 450px;
+  background-color: white;
 }

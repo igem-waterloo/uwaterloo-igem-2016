@@ -1,0 +1,42 @@
+<!-- Our Team -->
+<html lang="en" ng-app="waterloo">
+  <head>
+    <meta charset="utf-8">
+    <title>Waterloo iGEM</title>
+    <!-- Note: Must fix paths when putting on server -->
+    <link rel="stylesheet" href="../../css/bootstrap.min.css" />
+    <link rel="stylesheet" href="../../css/style.css" />
+    <link href="https://fonts.googleapis.com/css?family=Baloo+Bhaina" rel="stylesheet">
+    <script src="../../js/jquery-3.1.0.min.js"></script>
+    <script src="../../js/jquery-color.js"></script>
+    <script src="../../js/bootstrap.min.js"></script>
+    <script src="../../js/angular.min.js"></script>
+    <script src="../../js/app.js"></script>
+    <link rel="stylesheet" href="../../font-awesome/css/font-awesome.min.css">
+  </head>
+  <body ng-controller="team" ng-cloak>
+  <div class="header" ng-include="'../HomePage/Waterloo_Header.html'"></div>
+  <div class="precard">
+    
+  <div ng-repeat="person in team">  
+    <div class="team-card">
+      <div class="monster">
+        <p> {{person.name}}</p>
+      </div>
+      <div ng-show="person.reveal" ng-click="person.reveal = false">        
+        <img class="urinacircle" ng-src="{{person.image}}">
+
+        <div class="card-desc">
+          <p class="person-labteam">{{person.subteam}} // {{person.program}}</p>
+          <p class="person-desc">{{person.bio}}</p>
+        </div>
+      </div>
+      <div ng-hide="person.reveal">
+        <img ng-src="{{person.image}}" class="bigyou" ng-click="person.reveal = true">
+      </div>
+    </div>
+  </div>
+  </div>
+  
+ </body>
+ </html>

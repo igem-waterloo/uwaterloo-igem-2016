@@ -1,0 +1,99 @@
+<!-- How It Works Page -->
+<html lang="en" ng-app="waterloo">
+  <head>
+    <meta charset="utf-8">
+    <title>Waterloo iGEM</title>
+    <!-- Note: Must fix paths when putting on server -->
+    <link rel="stylesheet" href="../../css/bootstrap.min.css" />
+    <link rel="stylesheet" href="../../css/style.css" />
+    <link href="https://fonts.googleapis.com/css?family=Baloo+Bhaina" rel="stylesheet">
+    <script src="../../js/jquery-3.1.0.min.js"></script>
+    <script src="../../js/jquery-color.js"></script>
+    <script src="../../js/bootstrap.min.js"></script>
+    <script src="../../js/angular.min.js"></script>
+    <script src="../../js/app.js"></script>
+    <link rel="stylesheet" href="../../font-awesome/css/font-awesome.min.css">
+  </head>
+  <body ng-controller="main" ng-cloak>
+    <div class="header" ng-include="'../HomePage/Waterloo_Header.html'"></div>
+
+    <!-- The code below is for two content boxes. The boxes simply have a title and two short paragraphs. You can add more paragraphs by adding more lines that start with a <p>, then have the content of a paragraph, then end with a </p>. -->
+
+    <div class="wcontent-box">
+      <div class="wcontent-title">
+        The [PSI+] Element in S. cerevisiae
+      </div>
+      <div class="wcontent">
+        <p>
+        Sup35 is a protein in yeast that has a role in translation termination [1]. Specifically, it removes the ribosome from mRNA when it reaches a stop codon. This means that without Sup35, translation can continue after a stop codon in the mRNA sequence. In nature, Sup35 is typically found in a soluble form, but it can also take an irregular conformation leading to it aggregating and forming non-soluble fibers [2], which form at higher rates when Sup35 is being overexpressed in the cell [2,3].
+        </p>
+
+        <p>
+        The non-soluble fibers can be passed from mother to daughter cells, and misfolded Sup35 can cause soluble Sup35 to misfold and join the aggregate [2]. Thus, aggregates of misfolded Sup35 are deemed prions, which are non-Mendelian heritable elements [2,3]. A yeast cell containing aggregated Sup35 is said to have the [PSI+] element [3].
+        </p>
+
+        <p>
+        The ability of Sup35 to terminate translation is hindered, though not completely eliminated, when it aggregates [2]. This causes read-through of normal stop codons, but also nonsense suppression [1,4]. Nonsense suppression is the read through of premature stop codons, which can be created by mutations to a standard DNA sequence.
+        </p>
+
+      </div> 
+    </div>
+
+    <div class="wcontent-box">
+      <div class="wcontent-title">
+        Weak and Strong [PSI+] Variants
+      </div>
+      <div class="wcontent">
+        <p>
+        There are different types of Sup35 aggregates, and the [PSI+] state can also be defined as weak or strong depending on which type is present. The weak and strong states can both be induced in genetically identical strains, demonstrating that the difference in the states is not due to different alleles of the Sup35 gene, but the structure of the aggregates [2]. Yeast cells that have the weak [PSI+] element contain a small number of structurally large prions, whereas yeast cells that have the strong [PSI+] element contain a large number of small prions [2]. The result of this is that a greater fraction of Sup35 is aggregated in the strong variant. Interestingly, conversion between strong and weak [PSI+] is rare [2,3], suggesting a fundamental difference in the structure of the aggregates in strong and weak [PSI+] strains.
+        </p>
+
+        <p>
+        A portion of Sup35 at the protein’s N-terminus is essential for prion formation [3]. This domain is called the prion domain, and is found at the core of any aggregate [2]. There is evidence suggesting this region is the only segment of Sup35 that changes its structure when Sup35 takes on its prion-forming conformation [2]. There are several theories as to how exactly the prion domains of Sup35 molecules interact to form aggregates, but the accepted structure suggests that prion domain interactions are stronger in the weak [PSI+] variant [2].
+        </p>
+
+      </div> 
+    </div>
+
+    <div class="wcontent-box">
+      <div class="wcontent-title">
+        Our Role 
+      </div>
+      <div class="wcontent">
+        <p>
+        We will take advantage of the Sup35 function is by understanding how read through rates are affected when the yeast cell goes into a PSI+ state. Read through rates are higher in a PSI+ state because Sup35 is not functional and cannot remove the ribosome from mRNA.
+        </p>
+
+        <p>
+        We are interested in observing protein expression over time as a [PSI-] yeast cell becomes [PSI+]. How we did this is by inserting a premature stop codon into a cyan fluorescent protein (CFP) N-terminal tag. Therefore when Sup35 is functioning normally only a small part of CFP will be translated and be immediately degraded by the proteasome. However, when Sup35 aggregates we will observe some degree of read-through and get expression of a protein of interest with an N-terminal CFP tag that can be observed by fluorimetry. 
+        </p>
+
+      </div> 
+    </div>
+
+    <div class="wcontent-box">
+      <div class="wcontent-title">
+        Curing [PSI+] by Altering Hsp104 Expression
+      </div>
+      <div class="wcontent">
+        <p>
+        Hsp104 is a heat shock protein that aids in the disaggregation of prion-like proteins in S. cerevisiae [3]. It is required for cells to maintain the [PSI+] state; in the absence of Hsp104, the [PSI+] element is lost within a few generations [3]. Interestingly, an abnormally large amount of Hsp104 in a yeast cell also eliminates the [PSI+] element [3]. The exact effect of altering Hsp104 expression is different on weak and strong [PSI+] variants, but generally the absence or excess of Hsp104 will cure the [PSI+] state regardless of its strength [2].
+        </p>
+
+        <p>
+        The leading theory explaining these effects is that Hsp104 has the capacity to shear apart aggregates of Sup35 by an unknown mechanism [2,3,5]. The theory begins by stating that the formation of new prions is reliant upon old prions breaking apart [5]. Without any Hsp104 in a yeast cell, prions cannot break up. Therefore no new prions can form and the [PSI+] element disappears. Conversely, the presence of excess Hsp104 shears apart the prions to the point where no aggregates remain in the cell; the Sup35 is free to return to its normal conformation and return to its translation termination function [2,5].
+        </p>
+
+        <p>
+        To get rid of the strong [PSI+] variant, we will insert an extra copy of Hsp104 with an N-terminal CFP tag into a yeast cell in a plasmid so the Hsp104 will only be expressed during a prion response. Once this overexpression cures the response, the system will turn off and extra Hsp104 will not be expressed anymore. Our system acts as a negative feedback loop since Hsp104 is regulated by the [PSI+] state in the cell. This system was tested in the lab (link to proof of concept page). 
+        </p>
+
+        <p>To get rid of the weak [PSI+] variant, we will insert a copy of dCas9 with an N-terminal CFP tag into a yeast cell along with sgRNA targets so that the CRISPR system targets the promoter of Hsp104 in the yeast genome. During a prion response, dCas9 will be expressed and effectively knock-down Hsp104, causing disappearance of the weak [PSI+] variant (link to proof of concept page). 
+        </p>
+
+      </div> 
+    </div>
+  
+
+ </body>
+ </html>

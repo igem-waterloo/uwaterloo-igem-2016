@@ -1,0 +1,106 @@
+<!-- notebook -->
+
+<html lang="en" ng-app="waterloo">
+<head>
+  <meta name="generator" content=
+  "HTML Tidy for Mac OS X (vers 31 October 2006 - Apple Inc. build 15.17), see www.w3.org">
+  <meta charset="utf-8">
+
+  <title>Waterloo iGEM</title>
+  <!-- Note: Must fix paths when putting on server -->
+  <link rel="stylesheet" href="../../css/bootstrap.min.css" type=
+  "text/css">
+  <link rel="stylesheet" href="../../css/style.css" type=
+  "text/css">
+  <link href="https://fonts.googleapis.com/css?family=Baloo+Bhaina"
+  rel="stylesheet" type="text/css">
+  <script src="../../js/jquery-3.1.0.min.js" type=
+  "text/javascript">
+</script>
+  <script src="../../js/jquery-color.js" type="text/javascript">
+</script>
+  <script src="../../js/bootstrap.min.js" type="text/javascript">
+</script>
+  <script src="../../js/angular.min.js" type="text/javascript">
+</script>
+  <script src="../../js/app.js" type="text/javascript">
+</script>
+  <script src="../../js/d3.js" type="text/javascript">
+</script>
+  <script src="../../js/cal-heatmap.js" type="text/javascript">
+</script>
+  <script src="../../js/notes.js" type="text/javascript">
+</script>
+  <script src="../../js/days.js" type="text/javascript">
+</script>
+  <link rel="stylesheet" href=
+  "../../font-awesome/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="/css/cal-heatmap.css" type=
+  "text/css">
+</head>
+
+<body ng-controller="main" ng-cloak="">
+  <div class="header" ng-include=
+  "'../HomePage/Waterloo_Header.html'"></div>
+
+  <div class="wcontent-box">
+    <div class="wcontent-title">
+      Notebook
+    </div>
+
+    <div class="wcontent">
+      <div>
+        <p>This page gives a sense of the chronology of our lab
+        work from late May 2015 onwards, based on our Experimental
+        Task List lab tracking system, which you can read about
+        <a href=
+        "http://igem.uwaterloo.ca/2015/07/17/5-tools-to-keep-your-igem-team-organized/">
+        here</a>. Click on a day to see the experimental tasks
+        completed. A similar sense of modelling chronology can be
+        found in our <a href=
+        "https://github.com/igem-waterloo/uwaterloo-igem-2015/graphs/contributors">
+        GitHub</a> contributors page. The contributions of
+        individual team members are documented on the <a href=
+        "http://2015.igem.org/Team:Waterloo/Team">Team
+        page</a>.</p>
+
+        <div id="cal-heatmap"></div>
+
+        <p style="text-align:center;">Click on a day to view the
+        work.</p><script type="text/javascript">
+	var month = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"];
+        var cal = new CalHeatMap();
+        cal.init({
+                start: new Date(2016, 5),
+            data:days,
+            dataType: "json",
+            domain : "month",
+            subDomain : "day",
+            range : 4,
+            cellSize: 24,
+                subDomainTextFormat: "%d",
+                displayLegend: false,
+                onClick: function(date, nb) {
+                $("#onClick-placeholder").html(date.toDateString());
+                var message = ""
+                var key = month[date.getMonth()]+(date.getDate())
+                if (key in notes){
+                $.each(notes[key], function( index, value ) {
+                        message += "<li>"+value+"<\/li>";
+                });}
+                $("#notes-table").html(message
+                );
+        }
+        });
+        </script>
+      </div>
+
+      <div class="wcontent">
+        <h2 id="onClick-placeholder"></h2>
+
+        <ul id="notes-table"></ul>
+      </div>
+    </div>
+  </div>
+</body>
+</html>
