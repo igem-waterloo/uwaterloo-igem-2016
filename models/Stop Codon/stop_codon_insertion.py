@@ -1,7 +1,6 @@
 import sys
 import re
-import math
-import numpy
+
 """
 This programme is intended to be used to control expression of constructs in
 yeast cells that are in a [PSI+] prion state.
@@ -20,15 +19,23 @@ def concatBase(string):
 
 # Enables processing of sequences with ambiguous nt reads
 def iupacToBase(iupac):
-    transform={"A":"A","C":"C", "G":"G",
-           "T":"T", "R":("A", "G"),
-           "Y":("C", "T"),
-           "S":("C", "G"),"W":("A", "T"),
-           "K":("G", "T"), "M":("A",
-            "C"), "B":("C", "G", "T"),
-           "D":("A", "G", "T"), "H":("A", "C", "T"),
-           "V":("A", "C", "G"), "N":["A", "C", "G", "T"]}
-    return "".join([concatBase("".join(transform[i])) for i in iupac])
+    transform={
+        "A":"A",
+        "C":"C",
+        "G":"G",
+        "T":"T",
+        "R":"AG",
+        "Y":"CT",
+        "S":"CG",
+        "W":"AT",
+        "K":"GT",
+        "M":"AC",
+        "B":"CGT",
+        "D":"AGT",
+        "H":"ACT",
+        "V":"ACG",
+        "N":"ACGT"}
+    return "".join([concatBase(transform[i]) for i in iupac])
 
 # Custom definition of Regx searching
 def applyRegx(string,dnaseq):
@@ -42,12 +49,14 @@ def within(start,end,motiflocs):
 # Returns the locations in the sequence
 def findMotifLocs(motif,dnaseq,newlines):
     motiflocs=applyRegx(motif,dnaseq) #finds locations
-    motifPerString = [within(i,j,motiflocs) for i,j in zip(newlines[0:len(newlines)-1], newlines[1:len(newlines)])]
+    starts = newlines[:-1]
+    ends = newlines[1:]
+    motifPerString = [within(i,j,motiflocs) for i,j in zip(starts, ends)]
     return motifPerString
 
-def main(dnaseq,motifs):
-    dnafile=open(dnaseq)
-    dnaseq=dnafile.read()
+def main(dnafile,motifs):
+    with open(dnafile, 'r') as f:
+        dnaseq = f.read()
     newlines=[i.start() for i in re.finditer("\n",dnaseq)]
     found=[] # could initialize
     count=[]
@@ -68,10 +77,10 @@ def main(dnaseq,motifs):
 
 if __name__ == '__main__':
     if len(sys.argv) > 1:
-        dnaseq=sys.argv[1]
-        print dnaseq
+        dnafile=sys.argv[1]
+        print dnafile
     else:
-        dnaseq="clean.csv"
+        dnafile="clean.csv"
     ## Current Readthrough values by stop codons
     motifs=[("CAGCTA",1),("GGGCAA",2),("TTGCCC",2),("CAAGAA",2)]
-    main(dnaseq,motifs)
+    main(dnafile,motifs)
