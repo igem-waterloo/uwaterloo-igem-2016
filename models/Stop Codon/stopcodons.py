@@ -19,20 +19,21 @@ be the same length
 The third element is the relative effect of that context
 """
 
-effects = [("CGGA",(1,2,3,5),0.35),
-                  ("CCCA",(1,2,4,6),0.45),
-                  ("CC", (-1,-2),0.45),
-                  ("CGA",(3,4,5),0.4)]
+effects = [
+    ("CGGA",(1,2,3,5),0.35),
+    ("CCCA",(1,2,4,6),0.45),
+    ("CC", (-1,-2),0.45),
+    ("CGA",(3,4,5),0.4)]
 
-suitability_rating = [(0)]
+suitability_rating = [0.0]
 
 frame = "CCCCCAAGCACG"
-position = int(0)
-max_suitability = float(0)
+position = 0
+max_suitability = 0.0
 #Iterate through the 
-for position in range(0,int(len(frame)), 3):
+for position in range(0, len(frame), 3):
     #print ("Evaluating suitability of position: ", position)
-    suitability_rating.append(float(0))
+    suitability_rating.append(0.0)
     for j in effects:
         #print("Testing effect of context: ", j)
         current_letter = 0
@@ -41,7 +42,7 @@ for position in range(0,int(len(frame)), 3):
         #Flag if there are any mismatches.
         for letter in j[0]:
             try:
-                if  ((frame[(position + (j[1])[current_letter])]) != letter):
+                if frame[position + j[1][current_letter]] != letter:
                     satisfies_context = False
             except:
                 #print("Failed to find context!")
@@ -49,7 +50,7 @@ for position in range(0,int(len(frame)), 3):
                 satisfies_context = False
             current_letter += 1
         #If no mismatches were flagged, up the suitability rating accordingly.
-        if satisfies_context == True:
+        if satisfies_context:
             suitability_rating[int(position/3)] += (j[2])
             #print("Match found for ", j[0], "! Suitability rating for position: ",position, " is: ", suitability_rating[position/3])
     print("Overall suitability for position ",position," is ", suitability_rating[int(position/3)])
