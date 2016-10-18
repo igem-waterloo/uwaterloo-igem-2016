@@ -1,7 +1,3 @@
-from math import *
-from numpy import *
-#import operator
-
 """
 Framework for evaluating the suitability of any particular stop codon
 positioning in a frame.
